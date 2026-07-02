@@ -53,7 +53,7 @@ export default function WorkingMethod() {
     <section
       id="arbeitsweise"
       aria-labelledby="arbeitsweise-heading"
-      className="relative border-t border-white/5 bg-bg px-6 py-28"
+      className="relative border-t border-border bg-bg px-6 py-28"
     >
       <div className="mx-auto max-w-6xl">
         <div className="mx-auto max-w-2xl text-center">
@@ -73,7 +73,7 @@ export default function WorkingMethod() {
           whileInView="visible"
           viewport={{ once: true, margin: "-80px" }}
           variants={containerVariants}
-          className="mt-16 grid gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/5 sm:grid-cols-2 lg:grid-cols-4"
+          className="mt-16 grid gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-2 lg:grid-cols-4"
         >
           {STEPS.map((step) => (
             <motion.li

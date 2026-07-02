@@ -26,7 +26,7 @@ export default function ContactSection() {
     <section
       id="kontakt"
       aria-labelledby="kontakt-heading"
-      className="relative border-t border-white/5 bg-bg px-6 py-28"
+      className="relative border-t border-border bg-bg px-6 py-28"
     >
       <div className="mx-auto max-w-6xl">
         <div className="grid gap-16 lg:grid-cols-2">
@@ -57,7 +57,7 @@ export default function ContactSection() {
           <ScrollReveal delay={0.1}>
             <form
               onSubmit={handleSubmit}
-              className="rounded-2xl border border-white/10 bg-surface/60 p-8 border-glow"
+              className="rounded-2xl border border-border bg-surface p-8 border-glow"
             >
               <div className="grid gap-5">
                 <div>
@@ -74,7 +74,7 @@ export default function ContactSection() {
                     required
                     value={name}
                     onChange={(event) => setName(event.target.value)}
-                    className="mt-2 w-full rounded-lg border border-white/10 bg-bg px-4 py-3 text-text-primary outline-none transition-colors focus:border-accent-cyan/60"
+                    className="mt-2 w-full rounded-lg border border-border bg-bg px-4 py-3 text-text-primary outline-none transition-colors focus:border-accent-cyan/60"
                   />
                 </div>
                 <div>
@@ -91,7 +91,7 @@ export default function ContactSection() {
                     required
                     value={email}
                     onChange={(event) => setEmail(event.target.value)}
-                    className="mt-2 w-full rounded-lg border border-white/10 bg-bg px-4 py-3 text-text-primary outline-none transition-colors focus:border-accent-cyan/60"
+                    className="mt-2 w-full rounded-lg border border-border bg-bg px-4 py-3 text-text-primary outline-none transition-colors focus:border-accent-cyan/60"
                   />
                 </div>
                 <div>
@@ -108,7 +108,7 @@ export default function ContactSection() {
                     required
                     value={message}
                     onChange={(event) => setMessage(event.target.value)}
-                    className="mt-2 w-full resize-none rounded-lg border border-white/10 bg-bg px-4 py-3 text-text-primary outline-none transition-colors focus:border-accent-cyan/60"
+                    className="mt-2 w-full resize-none rounded-lg border border-border bg-bg px-4 py-3 text-text-primary outline-none transition-colors focus:border-accent-cyan/60"
                   />
                 </div>
                 <button

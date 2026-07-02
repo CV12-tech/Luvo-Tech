@@ -56,7 +56,7 @@ export default function Hero() {
             className="group inline-flex flex-col items-start gap-3 text-sm text-text-secondary transition-colors hover:text-accent-cyan"
           >
             <span>Mehr erfahren</span>
-            <span className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-accent-cyan transition-all group-hover:border-accent-cyan/60 motion-safe:animate-bounce">
+            <span className="flex h-9 w-9 items-center justify-center rounded-full border border-border text-accent-cyan transition-all group-hover:border-accent-cyan/60 motion-safe:animate-bounce">
               <ChevronDown className="h-4 w-4" aria-hidden="true" />
             </span>
           </a>

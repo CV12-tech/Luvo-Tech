@@ -23,7 +23,7 @@ export default function TiltCard({ children, className = "" }: TiltCardProps) {
   const rotateY = useSpring(useTransform(x, [0, 1], [-7, 7]), springConfig);
   const glowX = useTransform(x, [0, 1], ["0%", "100%"]);
   const glowY = useTransform(y, [0, 1], ["0%", "100%"]);
-  const glowBackground = useMotionTemplate`radial-gradient(280px circle at ${glowX} ${glowY}, rgba(45,212,232,0.12), transparent 65%)`;
+  const glowBackground = useMotionTemplate`radial-gradient(280px circle at ${glowX} ${glowY}, rgba(45,212,232,0.16), transparent 65%)`;
 
   const handlePointerMove = (event: ReactPointerEvent<HTMLDivElement>) => {
     if (event.pointerType === "touch") return;
@@ -42,7 +42,7 @@ export default function TiltCard({ children, className = "" }: TiltCardProps) {
       onPointerMove={handlePointerMove}
       onPointerLeave={handlePointerLeave}
       style={{ rotateX, rotateY, transformPerspective: 800 }}
-      className={`group relative rounded-2xl border border-white/10 bg-surface/60 p-8 transition-colors duration-300 hover:border-accent-cyan/40 motion-reduce:!transform-none ${className}`}
+      className={`group relative rounded-2xl border border-border bg-surface p-8 shadow-[0_1px_2px_rgba(15,23,42,0.04),0_12px_28px_-16px_rgba(15,23,42,0.14)] transition-colors duration-300 hover:border-accent-cyan/40 motion-reduce:!transform-none ${className}`}
     >
       <motion.div
         aria-hidden="true"

@@ -5,7 +5,7 @@ export default function Positioning() {
     <section
       id="positionierung"
       aria-labelledby="positionierung-heading"
-      className="relative border-t border-white/5 bg-bg px-6 py-28"
+      className="relative border-t border-border bg-bg px-6 py-28"
     >
       <div className="mx-auto max-w-4xl">
         <ScrollReveal>

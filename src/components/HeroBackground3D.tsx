@@ -74,13 +74,12 @@ function NeuralField() {
           />
         </bufferGeometry>
         <pointsMaterial
-          size={0.045}
-          color="#2dd4e8"
+          size={0.05}
+          color="#0891a8"
           transparent
-          opacity={0.85}
+          opacity={0.8}
           sizeAttenuation
           depthWrite={false}
-          blending={THREE.AdditiveBlending}
         />
       </points>
       <lineSegments>
@@ -91,11 +90,10 @@ function NeuralField() {
           />
         </bufferGeometry>
         <lineBasicMaterial
-          color="#3b82f6"
+          color="#2563eb"
           transparent
-          opacity={0.16}
+          opacity={0.22}
           depthWrite={false}
-          blending={THREE.AdditiveBlending}
         />
       </lineSegments>
     </group>
@@ -144,7 +142,7 @@ function StaticGlowFallback() {
       className="absolute inset-0"
       style={{
         background:
-          "radial-gradient(60% 50% at 50% 35%, rgba(45,212,232,0.16) 0%, rgba(59,130,246,0.10) 40%, rgba(10,14,23,0) 75%)",
+          "radial-gradient(60% 50% at 50% 35%, rgba(45,212,232,0.16) 0%, rgba(37,99,235,0.09) 40%, rgba(255,255,255,0) 75%)",
       }}
     />
   );

@@ -24,7 +24,7 @@ export default function WhyUs() {
     <section
       id="warum-luvo-tech"
       aria-labelledby="warum-heading"
-      className="relative border-t border-white/5 bg-surface/40 px-6 py-28"
+      className="relative border-t border-border bg-surface px-6 py-28"
     >
       <div className="mx-auto max-w-6xl">
         <div className="grid gap-16 lg:grid-cols-2 lg:items-start">
@@ -67,7 +67,7 @@ export default function WhyUs() {
             {STATS.map((stat) => (
               <div
                 key={stat.label}
-                className="rounded-2xl border border-white/10 bg-bg/60 p-6"
+                className="rounded-2xl border border-border bg-bg p-6"
               >
                 <Counter value={stat.value} suffix={stat.suffix} />
                 <p className="mt-3 text-sm leading-relaxed text-text-secondary">

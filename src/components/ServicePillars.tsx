@@ -46,7 +46,7 @@ export default function ServicePillars() {
     <section
       id="leistungen"
       aria-labelledby="leistungen-heading"
-      className="relative border-t border-white/5 bg-bg px-6 py-28"
+      className="relative border-t border-border bg-bg px-6 py-28"
     >
       <div className="mx-auto max-w-6xl">
         <div className="mx-auto max-w-2xl text-center">
