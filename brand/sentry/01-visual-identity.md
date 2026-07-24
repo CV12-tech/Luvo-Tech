@@ -1,4 +1,4 @@
-# Greyline — Visual Identity & Design Guidelines
+# Sentry — Visual Identity & Design Guidelines
 
 Begleitdokument zu `00-brand-strategy.md`. Referenz-Logo liegt in `assets/logo.svg`
 (Vollmarke) und `assets/icon.svg` (Icon-only, für Favicon/App-Icons).
@@ -68,9 +68,14 @@ colors: {
 
 | Zweck | Font | Fallback-Stack |
 |---|---|---|
-| Headlines / Display | **Plus Jakarta Sans** (600/700) | `'Plus Jakarta Sans', ui-sans-serif, system-ui` |
+| Headlines / Display | **Space Grotesk** (500/700) | `'Space Grotesk', ui-sans-serif, system-ui` |
 | Fließtext / UI | **Inter** (400/500) | `Inter, ui-sans-serif, system-ui` |
 | Daten, Logs, Specs, Code | **JetBrains Mono** (400/500) | `'JetBrains Mono', ui-monospace, monospace` |
+
+**Update:** Die Display-Schrift wurde von Plus Jakarta Sans auf **Space Grotesk** umgestellt —
+kantigere, geometrische Formen (u. a. die charakteristische offene "G"-Form) wirken technischer
+und zeitgemäßer als die eher freundlich-rundliche Plus Jakarta Sans und passen besser zu einer
+Security-Marke, die auf Nüchternheit statt Zugänglichkeit setzt.
 
 - Headlines immer **satzweise klein geschrieben oder Sentence case** — keine durchgehenden
   Großbuchstaben-Wände (wirkt schnell reißerisch/marktschreierisch, widerspricht "No-BS"-Ton).
@@ -85,7 +90,7 @@ colors: {
 ### Aufbau
 - **Icon:** abgerundetes Quadrat (Radius ~22 % der Kantenlänge) in Obsidian/Navy als Badge,
   darin eine monoline Signalkurve in Neon Mint (`#34D399`), ein Ausschlag hervorgehoben.
-- **Wordmark:** `greyline` in Plus Jakarta Sans SemiBold, durchgängig kleingeschrieben (bewusst
+- **Wordmark:** `sentry` in Plus Jakarta Sans SemiBold, durchgängig kleingeschrieben (bewusst
   kein CamelCase, kein Ausrufezeichen-Energy) — signalisiert Nüchternheit statt Startup-Hype.
 - **Lockup:** Icon + Wordmark horizontal, optional mit Mono-Suffix `SECURITY` klein darunter/
   daneben für Erstnennungen (z. B. Website-Header, erste Slide).

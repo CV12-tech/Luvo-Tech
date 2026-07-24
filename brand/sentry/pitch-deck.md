@@ -5,12 +5,13 @@ paginate: true
 backgroundColor: "#020617"
 color: "#E2E8F0"
 style: |
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
   section {
-    font-family: 'Inter', 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+    font-family: 'Inter', 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
     padding: 64px 72px;
   }
   h1, h2 {
-    font-family: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+    font-family: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
     color: #F8FAFC;
     letter-spacing: -0.02em;
   }
@@ -48,7 +49,7 @@ style: |
 
 <span class="tag">Powered by G&R Cybersecurity</span>
 
-# greyline
+# sentry
 
 ## Sichtbarkeit für dein Netzwerk — ohne SOC-Overhead.
 
@@ -74,7 +75,7 @@ im internen Netz.
 
 ## Die Lösung: Plug-and-Play IDS Sensor
 
-**greyline** ist ein hardware-basierter Netzwerksensor für Intrusion Detection &
+**sentry** ist ein hardware-basierter Netzwerksensor für Intrusion Detection &
 Anomaly Detection — konzipiert für Organisationen, die heute **keine** Sichtbarkeit
 in ihren internen Traffic haben.
 
@@ -102,7 +103,7 @@ Ablenkpunkte ohne dahinterliegenden Service.
    automatisiert über einen auf der SD-Karte festgelegten Release-Channel
 
 <div class="callout">
-"Regel-Treffer" ≠ "bestätigter Vorfall". greyline bewertet nicht, ob ein Treffer
+"Regel-Treffer" ≠ "bestätigter Vorfall". sentry bewertet nicht, ob ein Treffer
 ein echter Angriff ist — das bleibt bewusst beim Kunden bzw. Reseller.
 </div>
 
@@ -117,7 +118,7 @@ gehört den Partnern.
   wiederkehrenden Umsatz bei euren Bestandskunden
 - **White-Labeling** möglich — Auftritt unter eigener Marke
 - **Erstreaktion beim Partner:** ihr entscheidet über Triage & Eskalation,
-  greyline liefert das Signal
+  sentry liefert das Signal
 - **Multi-Tenant-Plattform** — selbst hostbar oder gehostet, je nach Bedarf
 - **Informelles, schnelles Onboarding** in der Startphase statt formaler
   Zertifizierungspflicht (strukturierte Programme folgen mit wachsender Partneranzahl)
@@ -169,4 +170,4 @@ Leopoldstraße 31, 80802 München
 
 office@gr-sec.com &nbsp;·&nbsp; +49 89 189170715 &nbsp;·&nbsp; www.gr-sec.com
 
-<span class="tag">greyline — powered by G&R Cybersecurity · Stand Juli 2026</span>
+<span class="tag">sentry — powered by G&R Cybersecurity · Stand Juli 2026</span>

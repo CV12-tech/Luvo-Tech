@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Greyline — Pragmatische Netzwerk-Anomalie-Erkennung</title>
-<meta name="description" content="Greyline ist ein Plug-and-Play IDS-Sensor für unbefugte Scans &amp; Traffic-Anomalien. In 5 Minuten installiert, ohne Fernzugriff, DSGVO-konform. Für Reseller &amp; KMU." />
+<title>Sentry — Pragmatische Netzwerk-Anomalie-Erkennung</title>
+<meta name="description" content="Sentry ist ein Plug-and-Play IDS-Sensor für unbefugte Scans &amp; Traffic-Anomalien. In 5 Minuten installiert, ohne Fernzugriff, DSGVO-konform. Für Reseller &amp; KMU." />
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 
 <!-- Tailwind CDN -->
 <script src="https://cdn.tailwindcss.com"></script>
@@ -24,7 +24,7 @@
           line: '#1E293B',
         },
         fontFamily: {
-          display: ["'Plus Jakarta Sans'", 'ui-sans-serif', 'system-ui', 'sans-serif'],
+          display: ["'Space Grotesk'", 'ui-sans-serif', 'system-ui', 'sans-serif'],
           sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
           mono: ["'JetBrains Mono'", 'ui-monospace', 'monospace'],
         },
@@ -37,7 +37,7 @@
 
 <style>
   body { background-color: #020617; font-family: 'Inter', ui-sans-serif, system-ui, sans-serif; }
-  .font-display { font-family: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif; }
+  .font-display { font-family: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif; }
   .font-mono { font-family: 'JetBrains Mono', ui-monospace, monospace; }
   .bg-grid {
     background-image:
@@ -71,7 +71,7 @@
         <rect x="2" y="2" width="60" height="60" rx="14" fill="#111827" stroke="#1E293B"/>
         <path d="M13 39 L20 39 L24 31 L30 51 L35 13 L39 35 L46 35 L51 27" fill="none" stroke="#34D399" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
-      <span class="font-display font-semibold text-lg text-slate-50">greyline</span>
+      <span class="font-display font-semibold text-lg text-slate-50">sentry</span>
     </a>
 
     <nav class="hidden md:flex items-center gap-8 text-sm text-slate-400">
@@ -119,7 +119,7 @@
       </h1>
 
       <p class="mt-6 text-lg text-slate-400 max-w-xl leading-relaxed">
-        Greyline ist ein Plug-and-Play-Sensor für Netzwerk-Anomalie-Erkennung: erkennt unbefugte
+        Sentry ist ein Plug-and-Play-Sensor für Netzwerk-Anomalie-Erkennung: erkennt unbefugte
         Scans und auffällige Traffic-Muster in deinem Netzwerk — installiert in unter 5 Minuten,
         ohne Fernzugriff auf das Gerät, mit Konfiguration direkt auf der SD-Karte.
       </p>
@@ -148,7 +148,7 @@
         <div class="flex items-center justify-between mb-5">
           <div class="flex items-center gap-2 font-mono text-xs text-slate-500">
             <span class="w-2 h-2 rounded-full bg-mint pulse-dot"></span>
-            greyline-sensor · standort-01
+            sentry-sensor · standort-01
           </div>
           <span class="font-mono text-xs text-slate-600">eth0 · mirror</span>
         </div>
@@ -171,7 +171,7 @@
         </div>
 
         <p class="mt-4 text-xs text-slate-600 leading-relaxed">
-          Beispielhafte Darstellung. Greyline bewertet nicht, ob ein Regeltreffer einem echten
+          Beispielhafte Darstellung. Sentry bewertet nicht, ob ein Regeltreffer einem echten
           Vorfall entspricht — das bleibt bewusst bei euch bzw. eurem Reseller-Partner.
         </p>
       </div>
@@ -197,7 +197,7 @@
 
     <div class="mt-14 grid md:grid-cols-2 gap-6">
       <div class="rounded-2xl border border-line p-8 bg-navy/40">
-        <h3 class="font-display font-semibold text-slate-200 mb-4">Ohne Greyline</h3>
+        <h3 class="font-display font-semibold text-slate-200 mb-4">Ohne Sentry</h3>
         <ul class="space-y-3 text-sm text-slate-400">
           <li class="flex gap-3"><span class="text-slate-600">—</span> Keine Sichtbarkeit auf internen Traffic</li>
           <li class="flex gap-3"><span class="text-slate-600">—</span> SIEM-Projekte sprengen Budget &amp; Zeitplan</li>
@@ -206,7 +206,7 @@
         </ul>
       </div>
       <div class="rounded-2xl border border-mint/30 p-8 bg-navy/60">
-        <h3 class="font-display font-semibold text-slate-50 mb-4">Mit Greyline</h3>
+        <h3 class="font-display font-semibold text-slate-50 mb-4">Mit Sentry</h3>
         <ul class="space-y-3 text-sm text-slate-300">
           <li class="flex gap-3"><span class="text-mint">✓</span> Sensor in &lt; 5 Minuten am Switch aktiv</li>
           <li class="flex gap-3"><span class="text-mint">✓</span> Statistische Anomalie-Erkennung statt Blackbox-KI</li>
@@ -223,7 +223,7 @@
   <div class="max-w-7xl mx-auto px-6 lg:px-8 py-24">
     <span class="font-mono text-xs tracking-widest text-mint uppercase">Funktionsweise</span>
     <h2 class="font-display text-3xl sm:text-4xl font-semibold text-slate-50 mt-3 max-w-2xl">
-      Ehrlich erklärt: was Greyline erkennt — und wie.
+      Ehrlich erklärt: was Sentry erkennt — und wie.
     </h2>
 
     <div class="mt-14 grid md:grid-cols-2 gap-6">
@@ -233,7 +233,7 @@
         </div>
         <h3 class="font-display font-semibold text-slate-100 mb-2">Statistische Anomalie-Erkennung</h3>
         <p class="text-sm text-slate-400 leading-relaxed">
-          Greyline bildet Erwartungswerte für euren Traffic anhand statistischer Methoden und
+          Sentry bildet Erwartungswerte für euren Traffic anhand statistischer Methoden und
           fester Schwellenwerte — bewusst kein klassisches Machine-Learning/Deep-Learning. Das
           heißt: nachvollziehbare Regeln statt Blackbox-"KI".
         </p>
@@ -277,7 +277,7 @@
     </div>
 
     <p class="mt-8 text-xs text-slate-600 font-mono max-w-2xl">
-      Hinweis: Offene Ports dienen als Ablenkpunkte ohne dahinterliegenden Service — Greyline ist
+      Hinweis: Offene Ports dienen als Ablenkpunkte ohne dahinterliegenden Service — Sentry ist
       kein vollständiges Deception-System mit nachgebildeter Layer-7-Interaktion (keine echte
       SSH-Session, keine echte Freigabe).
     </p>
@@ -294,7 +294,7 @@
           Erweitert euer Portfolio — ohne eigenen Entwicklungs-Overhead.
         </h2>
         <p class="mt-5 text-slate-400 leading-relaxed">
-          Hardware aufstellen, wiederkehrenden Umsatz sichern: Greyline ist als White-Label-Lösung
+          Hardware aufstellen, wiederkehrenden Umsatz sichern: Sentry ist als White-Label-Lösung
           für Systemhäuser und MSP/MSSP konzipiert. Ihr integriert das Signal in euren eigenen
           Incident-Response-Prozess — die Bewertung und Erstreaktion bleibt bei euch.
         </p>
@@ -324,7 +324,7 @@
         <ul class="space-y-4 text-sm text-slate-400">
           <li class="flex gap-3">
             <span class="mt-1 w-1.5 h-1.5 rounded-full bg-amber-400 shrink-0"></span>
-            <span>Greyline selbst bietet <strong class="text-slate-200">keine 24/7-Erstreaktion und keine zugesicherten Reaktionszeiten (SLA)</strong>. Alarme gehen direkt über alle konfigurierten Kanäle raus — unbewertet.</span>
+            <span>Sentry selbst bietet <strong class="text-slate-200">keine 24/7-Erstreaktion und keine zugesicherten Reaktionszeiten (SLA)</strong>. Alarme gehen direkt über alle konfigurierten Kanäle raus — unbewertet.</span>
           </li>
           <li class="flex gap-3">
             <span class="mt-1 w-1.5 h-1.5 rounded-full bg-amber-400 shrink-0"></span>
@@ -365,7 +365,7 @@
 
     <div class="mt-8 rounded-2xl border border-amber-500/25 bg-amber-500/5 p-6">
       <p class="text-sm text-amber-200/90 leading-relaxed">
-        <strong class="text-amber-300">Transparenzhinweis:</strong> Für Greyline liegen aktuell
+        <strong class="text-amber-300">Transparenzhinweis:</strong> Für Sentry liegen aktuell
         <strong>keine</strong> geprüften externen Zertifizierungen vor (weder ISO 27001 noch BSI
         IT-Grundschutz). Es existiert weder eine Datenschutz-Folgenabschätzung noch eine
         auditfähige Dokumentation für Versicherungsprüfungen. Wir kommunizieren das offen, statt
@@ -388,7 +388,7 @@
         <thead>
           <tr class="bg-navy/60 text-slate-400 font-mono text-xs uppercase tracking-wide">
             <th class="px-6 py-4 font-medium">Kategorie</th>
-            <th class="px-6 py-4 font-medium">Umsetzung bei Greyline</th>
+            <th class="px-6 py-4 font-medium">Umsetzung bei Sentry</th>
           </tr>
         </thead>
         <tbody class="divide-y divide-line">
@@ -447,7 +447,7 @@
         Frühe Praxis statt Referenzkunden-Wall.
       </h2>
       <p class="mt-4 text-sm text-slate-400 leading-relaxed">
-        Greyline basiert auf der bestehenden Lösung von G&amp;R Cybersecurity, aktuell mit drei
+        Sentry ist die etablierte Lösung von G&amp;R Cybersecurity, aktuell mit drei
         aktiven Installationen bei Sozialeinrichtungen. Reale Vorfallserkennungen liegen bislang
         nicht dokumentiert vor — bisherige Tests umfassten simulierte Szenarien wie eigene
         Portscans. Wir sagen das offen, statt Case-Studies zu erfinden.
@@ -549,7 +549,7 @@
         <rect x="2" y="2" width="60" height="60" rx="14" fill="#111827" stroke="#1E293B"/>
         <path d="M13 39 L20 39 L24 31 L30 51 L35 13 L39 35 L46 35 L51 27" fill="none" stroke="#34D399" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
-      <span class="font-display text-sm text-slate-400">greyline — powered by G&amp;R Cybersecurity</span>
+      <span class="font-display text-sm text-slate-400">sentry — powered by G&amp;R Cybersecurity</span>
     </div>
     <p class="text-xs text-slate-600 font-mono text-center md:text-right">
       © 2026 G&amp;R Cybersecurity · Leopoldstraße 31, 80802 München · Alle Angaben auf dieser

@@ -1,27 +1,40 @@
-# Greyline — Brand Strategy
+# Sentry — Brand Strategy
 
-**Für:** G&R Cybersecurity (Hersteller/Rechtsträger) · **Produktmarke:** Greyline
+**Für:** G&R Cybersecurity (Hersteller/Rechtsträger) · **Produktmarke:** Sentry
 **Basis:** Bestätigter Fragenkatalog Stand Juli 2026 (Sören, G&R Cybersecurity)
 **Status:** Entwurf zur internen Abstimmung — vor Veröffentlichung mit G&R gegenzuchecken
 
 ---
 
-## 0. Warum ein neuer Name?
+## 0. Namensentscheidung: Sentry bleibt
 
-Der bisherige Produktname "Sentry" ist im Sicherheits- und Software-Markt mehrfach vergeben
-(u. a. Sentry.io als etabliertes Error-Monitoring-Tool) und damit weder markenrechtlich sauber
-noch differenzierend suchbar. Zusätzlich trägt die bestehende Broschüre zwei Aussagen, die laut
-G&R nicht mehr zutreffen (ISO 27001 / BSI IT-Grundschutz, 24/7-Bereitschaft — siehe Abschnitt 6).
-Ein Rebrand ist damit nicht nur kosmetisch, sondern die Gelegenheit, das Produkt so zu benennen
-und zu positionieren, wie es tatsächlich funktioniert: pragmatisch, transparent, ohne Overselling.
+Im ersten Entwurf wurde ein neuer Name vorgeschlagen, weil "Sentry" im Sicherheits- und
+Software-Markt mehrfach vergeben ist (u. a. Sentry.io als etabliertes Error-Monitoring-Tool).
+G&R hat sich bewusst dagegen entschieden, den eingeführten Produktnamen zu ersetzen — **Sentry
+bleibt der Markenname.** Das Rebranding beschränkt sich damit auf Positionierung, Tone of Voice,
+Visual Identity und die inhaltlichen Compliance-Korrekturen, nicht auf die Umbenennung selbst.
+Der bisherige Namensvergleich (Abschnitt 1) bleibt als Entscheidungsdokumentation erhalten.
 
-**Wichtiger rechtlicher Hinweis:** Alle drei Namensvorschläge sind kreativ entwickelt, aber
-*nicht* markenrechtlich recherchiert. Vor Registrierung/Launch ist eine Trademark- und
-Domain-Verfügbarkeitsprüfung (DPMA/EUIPO + Handelsregister + gängige TLDs) zwingend erforderlich.
+Unabhängig vom Namen gilt weiterhin: Die bestehende Broschüre trägt zwei Aussagen, die laut G&R
+nicht mehr zutreffen (ISO 27001 / BSI IT-Grundschutz, 24/7-Bereitschaft — siehe Abschnitt 6). Das
+Rebranding ist die Gelegenheit, das Produkt so zu positionieren, wie es tatsächlich funktioniert:
+pragmatisch, transparent, ohne Overselling.
+
+**Wichtiger rechtlicher Hinweis:** "Sentry" kollidiert namentlich mit Sentry.io (Error-Monitoring-
+SaaS) und wird generisch von mehreren Security-Anbietern verwendet. Das ist ein bekanntes,
+akzeptiertes Risiko — keine Trademark-Freigabe. Empfehlung zur Risikominderung: konsequent als
+**"Sentry Security"** bzw. **"G&R Sentry"** auftreten (nie als alleinstehendes "Sentry" in
+Markenregistrierung, Domain oder Impressum), und vor Registrierung/Launch eine aktuelle
+Trademark- und Domain-Verfügbarkeitsprüfung (DPMA/EUIPO + Handelsregister + gängige TLDs)
+durchführen. `sentry.io` selbst ist vergeben — als Domain kämen z. B. `sentry-security.io`,
+`grsentry.de` oder `getsentry.de` in Frage (Verfügbarkeit vor Nutzung prüfen).
 
 ---
 
-## 1. Namensfindung
+## 1. Namensfindung (Entscheidungsdokumentation)
+
+Zur Einordnung wurden im Vorfeld drei Alternativen geprüft, bevor sich G&R für den Erhalt des
+bestehenden Namens entschieden hat:
 
 ### Option A — Verge Sec
 "Verge" = die Kante, der Rand — der Punkt, an dem normaler Traffic zu einer Anomalie wird.
@@ -34,37 +47,35 @@ Freundlicher, SaaS-artiger Klang, gut merkbar.
 *Risiko:* "Well"-Bestandteil transportiert eher Monitoring/Health als Security/Intrusion —
 positioniert das Produkt tendenziell zu soft für ein Security-Publikum.
 
-### Option C — Greyline ⭐ (Favorit)
-Die "graue Linie" ist die Grenze zwischen normalem und auffälligem Traffic — exakt das, was ein
-statistisches Anomaly-Detection-System sichtbar macht: kein Schwarz-Weiß-Urteil ("Angriff!" vs.
-"alles gut"), sondern eine ehrliche Grauzone, die der Kunde selbst bewertet. Der Name trägt die
-Kernbotschaft der Marke bereits in sich:
+### Option C — Greyline (verworfen, zugunsten von Sentry)
+Die "graue Linie" wäre die Grenze zwischen normalem und auffälligem Traffic gewesen — exakt das,
+was ein statistisches Anomaly-Detection-System sichtbar macht: kein Schwarz-Weiß-Urteil
+("Angriff!" vs. "alles gut"), sondern eine ehrliche Grauzone, die der Kunde selbst bewertet. Der
+Name hätte die Kernbotschaft der Marke im Wort selbst getragen und ein Logo-/UI-Motiv (Linie/
+Wellenform) direkt mitgeliefert — wurde aber zugunsten des eingeführten Namens **Sentry** nicht
+weiterverfolgt.
 
-- **Ehrlichkeit statt Alarmismus:** "Grey" statt Rot/Schwarz — kein Fear-Selling, keine
-  vorschnellen "Fehlalarm/Kein Fehlalarm"-Urteile (was laut Faktenlage auch technisch korrekt
-  ist, siehe Abschnitt 4 der Faktenbasis: G&R bewertet Alarme nicht, sondern meldet Regeltreffer).
-- **Visuelle Eigenständigkeit:** Eine Linie/Wellenform ist 1:1 das Icon-Motiv für Traffic- und
-  Anomalie-Visualisierung — Logo und Produkt-UI erzählen dieselbe Geschichte.
-- **Kein Fantasy-Security-Vokabular:** kein Schild, kein Adler, kein "Guard/Watch"-Klischee
-  (Kollisionsrisiko u. a. mit WatchGuard, Sentry.io, Tripwire, Halcyon — bewusst vermieden).
-- International sprechbar (DE/EN), kurz, gut als Wortmarke und als Domain denkbar
-  (`greyline.security`, `greyline.io` — vor Launch verfügbarkeit prüfen).
+### Finale Entscheidung — Sentry ✅
+Bestehender, bereits eingeführter Produktname von G&R. Vorteil: keine Umgewöhnung für bestehende
+Kunden/Referenzen (3 aktive Installationen), kein Neustart der Markenbekanntheit. Nachteil (siehe
+Abschnitt 0): Namensnähe zu Sentry.io und generische Verwendung in der Security-Branche — bewusst
+in Kauf genommen, abgefedert durch die Lockup-Empfehlung "Sentry Security" / "G&R Sentry".
 
-**Namensarchitektur:** *Greyline — powered by G&R Cybersecurity.* G&R bleibt Hersteller und
+**Namensarchitektur:** *Sentry — powered by G&R Cybersecurity.* G&R bleibt Hersteller und
 Vertragspartner (AVV, Haftung, Rechnungsstellung laufen weiterhin über G&R Cybersecurity GmbH),
-Greyline ist die nach außen sichtbare Produkt-/Reseller-Marke. Das erlaubt White-Labeling für
+Sentry ist die nach außen sichtbare Produkt-/Reseller-Marke. Das erlaubt White-Labeling für
 Reseller, ohne dass G&R als Unternehmen umbenannt werden muss.
 
 **Produktnamen:**
-- Hardware-Sensor: **Greyline Sensor**
-- Plattform/Auswertung: **Greyline Console**
-- Reseller-Programm: **Greyline Partner Program**
+- Hardware-Sensor: **Sentry Sensor**
+- Plattform/Auswertung: **Sentry Console**
+- Reseller-Programm: **Sentry Partner Program**
 
 ---
 
 ## 2. Positionierung
 
-> **Greyline ist die pragmatische Netzwerk-Anomalie-Erkennung für alle, die nicht das Budget
+> **Sentry ist die pragmatische Netzwerk-Anomalie-Erkennung für alle, die nicht das Budget
 > oder den Bedarf für ein volles SIEM/SOC haben — aufgestellt in 5 Minuten, ohne Fernzugriff auf
 > das Gerät, mit Datensparsamkeit als Sicherheitsprinzip statt als Compliance-Feigenblatt.**
 
@@ -113,9 +124,9 @@ und Einfachheit**, nicht über technologische Alleinstellung.
 Entwicklungs-Overhead, mit wiederkehrendem Umsatz."
 
 - Hardware aufstellen (< 5 Min), Konfiguration läuft über SD-Karte — kein Rollout-Projekt.
-- Multi-Tenant-fähige Plattform, selbst hostbar oder bei G&R/Greyline gehostet.
+- Multi-Tenant-fähige Plattform, selbst hostbar oder bei G&R/Sentry gehostet.
 - White-Label-fähig — Auftritt unter eigener Marke möglich.
-- Ihr entscheidet über den Reaktionsprozess bei euren Kunden — Greyline liefert das Signal,
+- Ihr entscheidet über den Reaktionsprozess bei euren Kunden — Sentry liefert das Signal,
   nicht die Triage.
 - Direktes, unkompliziertes Onboarding statt formaler Zertifizierungspflicht in der Startphase.
 
@@ -131,10 +142,10 @@ unsichtbar passiert."
 
 ### Elevator Pitches
 
-- **10 Sekunden (Reseller):** "Greyline ist ein Plug-and-Play-Netzwerksensor, den ihr als
+- **10 Sekunden (Reseller):** "Sentry ist ein Plug-and-Play-Netzwerksensor, den ihr als
   White-Label-Produkt an eure Kunden bringt — in 5 Minuten installiert, ohne dass ihr selbst
   Erkennungslogik entwickeln müsst."
-- **10 Sekunden (Endkunde):** "Greyline zeigt euch, wenn in eurem Netzwerk etwas passiert, das
+- **10 Sekunden (Endkunde):** "Sentry zeigt euch, wenn in eurem Netzwerk etwas passiert, das
   nicht ins übliche Bild passt — Portscans, verdächtige externe Verbindungen, Auffälligkeiten im
   Traffic."
 
@@ -171,6 +182,6 @@ und dürfen in keinem neuen Material (auch nicht implizit) wieder auftauchen:
 2. ~~"24/7-Bereitschaft"~~ → wird aktuell **nicht** angeboten. Stattdessen: Alarmierung über alle
    konfigurierten Kanäle, Reaktionsprozess ist vertragsabhängig und kann optional über
    Reseller-Partner als eigenes Angebot erfolgen (klar als **Partner-Option**, nicht als
-   Greyline-/G&R-Leistung, gekennzeichnet).
+   Sentry-/G&R-Leistung, gekennzeichnet).
 
 Alle Deliverables in diesem Ordner (Landingpage, Pitch Deck) wurden nach diesen Regeln geprüft.
