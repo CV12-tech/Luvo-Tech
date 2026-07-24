@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" role="img" aria-label="Greyline — powered by G&amp;R Cybersecurity">
+  <!-- Icon badge -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#111827" stroke="#1E293B" stroke-width="1"/>
+  <path d="M13 39 L20 39 L24 31 L30 51 L35 13 L39 35 L46 35 L51 27"
+        fill="none" stroke="#34D399" stroke-width="3.5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wordmark (light, for dark backgrounds) -->
+  <text x="76" y="40" font-family="'Plus Jakarta Sans', 'Inter', ui-sans-serif, system-ui, sans-serif"
+        font-size="30" font-weight="600" fill="#F8FAFC" letter-spacing="-0.5">greyline</text>
+  <text x="77" y="55" font-family="'JetBrains Mono', ui-monospace, monospace"
+        font-size="10" font-weight="500" fill="#64748B" letter-spacing="2.5">SECURITY</text>
+</svg>
