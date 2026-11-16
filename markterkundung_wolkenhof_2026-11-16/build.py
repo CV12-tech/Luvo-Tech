@@ -227,17 +227,32 @@ def main() -> None:
         seen[k] = t
         dedup.append(t)
     tenders = dedup
+    akt = json.loads((raw / "aktionen.json").read_text(encoding="utf-8")) if (raw / "aktionen.json").exists() else {}
     for t in tenders:
+        fr0, pub0 = parse_date(t.get("angebotsfrist")), parse_date(t.get("veroeffentlicht_am"))
+        if fr0 is None and ((pub0 and (TODAY - pub0).days > 45) or "abgelaufen" in s(t.get("kurzbeschreibung")).lower()):
+            t["_vermutlich_abgelaufen"] = True
         sc, kl, ko, parts = score_tender(t)
-        t["score"], t["klasse"], t["ko_kriterien"], t["score_details"] = sc, kl, ko, parts
+        a = akt.get(t.get("id"), {})
+        if a.get("ko"):
+            ko.append(a["ko"])
         fr = parse_date(t.get("angebotsfrist"))
         t["frist_status"] = "unbekannt" if fr is None else ("abgelaufen" if fr < TODAY else "offen")
+        if t.get("_vermutlich_abgelaufen"):
+            t["frist_status"] = "vermutlich abgelaufen"
+            sc -= parts["zeit"]
+            parts["zeit"] = 0
+            kl = "A" if sc >= 75 else ("B" if sc >= 50 else "C")
+        t["score"], t["klasse"], t["ko_kriterien"], t["score_details"] = sc, kl, ko, parts
+        t["naechste_aktion"] = a.get("aktion", "")
         t["region"] = region(" ".join(s(t.get(k)) for k in ("ort", "nuts", "auftraggeber")))
-    tenders.sort(key=lambda x: (x["frist_status"] != "offen", -x["score"]))
+    tenders.sort(key=lambda x: ({"offen": 0, "unbekannt": 1}.get(x["frist_status"], 2), -x["score"]))
 
     signals = read_jsonl(raw / "C" / "signale.jsonl")
+    akt = json.loads((raw / "aktionen.json").read_text(encoding="utf-8")) if (raw / "aktionen.json").exists() else {}
     for sg in signals:
         sg["score"], sg["klasse"] = score_signal(sg)
+        sg["naechste_aktion"] = akt.get(sg.get("id"), {}).get("aktion", "")
         sg["region"] = region(s(sg.get("ort")) + " " + s(sg.get("organisation")))
     signals.sort(key=lambda x: -x["score"])
 
@@ -375,7 +390,7 @@ def build_xlsx(tenders, signals, accounts, competitors, partners, awards, market
                 t.get("vertrauensgrad"), t.get("quelle"), as_list(t.get("url"))]
     W = {"Titel": 45, "Auftraggeber": 30, "URL": 40, "Eignung": 35, "Nächste Aktion": 40, "Beschreibung": 50}
 
-    top_t = [t for t in tenders if t["frist_status"] != "abgelaufen" and t["klasse"] in ("A", "B")]
+    top_t = [t for t in tenders if t["frist_status"] in ("offen", "unbekannt") and t["klasse"] in ("A", "B") and not t["ko_kriterien"]]
     top_s = [x for x in signals if x["klasse"] == "A"][:15]
     TOP_H = ["Typ", "Klasse", "Score", "ID", "Geschäftsfeld", "Titel / Signal", "Organisation", "Ort", "Frist / Zeitpunkt",
              "Nächste Aktion", "URL"]
