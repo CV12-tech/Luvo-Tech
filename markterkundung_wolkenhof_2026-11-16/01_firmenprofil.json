@@ -1,0 +1,122 @@
+{
+  "stand": "16.11.2026 (Europe/Berlin)",
+  "methodik_hinweis": "Erhoben ausschließlich über WebSearch-Snippets; wolkenhof.com und Register konnten nicht direkt abgerufen werden (Netzwerk-Allowlist). Status je Aussage: 'belegt' (Quelle nennt es) | 'abgeleitet' | 'offen'.",
+  "stammdaten": {
+    "firma": {"wert": "Wolkenhof GmbH", "status": "belegt", "quelle": "https://www.northdata.com/Wolkenhof%20GmbH,%20Uelzen/Amtsgericht%20L%C3%BCneburg%20HRB%20120618"},
+    "register": {"wert": "HRB 120618, Amtsgericht Lüneburg", "status": "belegt", "quelle": "https://www.online-handelsregister.de/handelsregisterauszug/ni/Lueneburg/HRB/120618/Wolkenhof-GmbH"},
+    "gruendung_rechtstraeger": {"wert": "10.07.1991 (als REC Reimers EDV-Consulting GmbH, 2020 umfirmiert)", "status": "belegt (Drittquellen)", "quelle": "https://openregister.de/company/DE-HRB-P2507-120618-P2504"},
+    "marke_wolkenhof_seit": {"wert": "2020, Fusion von REC Reimers EDV-Consulting, Bürowelt Köhn und Ksoll Systemhaus", "status": "belegt (Stellenanzeige)", "quelle": "https://www.stepstone.de/results/fachinformatik/in-uelzen"},
+    "stammkapital": {"wert": "171.500 EUR", "status": "belegt (Drittquelle)", "quelle": "https://openregister.de/company/DE-HRB-P2507-120618-P2504"},
+    "geschaeftsfuehrung": {"wert": "Nikolai Hofmeister; laut Drittquellen seit 04/2026 zusätzlich Sönke Elbers-Kahlert", "status": "belegt, aber widersprüchlich", "quelle": ["https://openregister.de/company/DE-HRB-P2507-120618-P2504", "https://www.firmenwissen.de/az/firmeneintrag/29525/2330035182/WOLKENHOF_GMBH.html"]},
+    "mitarbeiter": {"wert": "63", "status": "belegt, aber veraltet (Interview ca. 2024)", "quelle": "https://www.wirtschaftsforum.de/interviews/wolkenhof-gmbh/aus-einer-hand-office-rechenzentrum-und-it"},
+    "umsatz": {"wert": "7,6 Mio. EUR", "status": "belegt, aber veraltet (Interview ca. 2024)", "quelle": "https://www.wirtschaftsforum.de/interviews/wolkenhof-gmbh/aus-einer-hand-office-rechenzentrum-und-it"},
+    "standorte": [
+      {"ort": "Uelzen(-Oldenstadt), Klosterstraße 3", "rolle": "Hauptsitz IT/Office, Greencloud, Seminarzentrum; Neubau KfW 40 in Holzrahmenbauweise", "quelle": ["https://wolkenhof.com/kontakt", "https://www.daikin.de/de_de/gewerblich/fallstudien/wolkenhof--energieeffiziente-gebaeudetechnik-fuer-gruene-it-infr.html"]},
+      {"ort": "Bardowick, Papenkamp 1", "rolle": "technischer Standort (Techniker für Raum Lüneburg/Hamburg über A39/A250)", "quelle": "https://wolkenhof.com/kontakt"},
+      {"ort": "Bremen, Haferwende 36a", "rolle": "Systemhaus-Standort", "quelle": "https://wolkenhof.com/systemhaus-bremen"},
+      {"ort": "Geesthacht, Tempelhofer Weg 10", "rolle": "nur in Verzeichnissen und im Interview; auf der Website nicht als Standort bestätigt", "quelle": "https://hohenleitner.it/wolkenhof-gmbh"}
+    ],
+    "fruehere_adresse": "Schillerstraße 13b, Uelzen (in älteren Verzeichnissen)"
+  },
+  "kurzbeschreibung": "Regionales IT-Systemhaus mit eigenem 'grünen' Rechenzentrum (Greencloud), Office-Sparte (Büroplanung, Möbel, Druck/Kopie, DMS) und Seminarzentrum. Hauptsitz Uelzen, Standorte in Bardowick und Bremen; Kunden vor allem im Mittelstand Nordostniedersachsens.",
+  "wertversprechen": "IT, Cloud und Büro aus einer Hand mit einem Ansprechpartner, betrieben aus einem nachhaltigen Rechenzentrum in Norddeutschland.",
+  "alleinstellungsmerkmale": [
+    {"usp": "Komplettanbieter für IT, Cloud, Office und Seminarraum", "status": "belegt", "quelle": "https://wolkenhof.com/"},
+    {"usp": "eigenes Rechenzentrum mit Ökostrom aus lokalem Wind und Solar, PV, Wärmerückgewinnung und Abwärmenutzung", "status": "belegt (Eigenangabe, kein Zertifikat gefunden)", "quelle": "https://wolkenhof.com/leistungen-greencloud"},
+    {"usp": "KfW-40-Neubau mit Wärmepumpen (Daikin-Referenzprojekt, 09/2026)", "status": "belegt", "quelle": "https://www.tga-fachplaner.de/gebaeudetechnik/referenzprojekt-daikin-effiziente-gebaeudetechnik-fuer-gruene-it-infrastruktur"},
+    {"usp": "Mitglied der dbc deutschlands business-cloud (Verbund von ca. 50 Systemhäusern) → überregionale Reichweite, mögliche Bietergemeinschaften", "status": "belegt", "quelle": "https://www.dbc-gruppe.de/ihre-dbc-partner/wolkenhof-gmbh/"},
+    {"usp": "Druckkonzept mit 90 % Energieeinsparung (Voelkel)", "status": "belegt (Eigenangabe)", "quelle": "https://wolkenhof.com/leistungen-greencloud"}
+  ],
+  "kernleistungen": {
+    "greencloud": ["IaaS/virtuelle Server und Arbeitsplätze (Terminalserver/RDS)", "verschlüsseltes Backup in zwei Brandabschnitten (Veeam)", "Exchange, Mail-Archivierung, Cloud-Telefonie", "Hosting/Housing", "Cloud-Migration"],
+    "it": ["Beratung, Managed Services, Fernwartung (Kaseya)", "Hardwarelieferung (Terra/Wortmann, Fujitsu)", "IT-Sicherheit (Securepoint, Trend Micro)", "Microsoft 365", "DATEV-Umgebungen", "ELO-DMS", "Telefonanlagen (Swyx/Enreach)", "PC-Reparatur, Vor-Ort-Support in Lüneburg, Celle, Hamburg, Bremen"],
+    "office": ["Büroplanung und -einrichtung (Interstuhl, König + Neurath, Walter Knoll, Artemide)", "ergonomische Stühle", "Druck- und Kopiersysteme mit Wartungsverträgen (Utax, Toshiba, Epson)", "Dokumentenmanagement"],
+    "seminarzentrum": ["Räume in Uelzen-Oldenstadt an der Wipperau (u. a. Blumenwiese 2/3, Terra, Cafeteria), auch halbtags buchbar; Kontakt seminar@wolkenhof.com (Raumgrößen und Technik laut Vorab-Profil, nicht erneut belegt)"]
+  },
+  "kernleistungen_quellen": ["https://wolkenhof.com/leistungen-regional", "https://wolkenhof.com/swyx-bremen", "https://wolkenhof.com/pc-reparatur-celle", "https://seminarzentrum.wolkenhof.com/v2/", "https://www.european-business.com/en/interviews/wolkenhof-gmbh/all-in-one-office-data-center-and-it"],
+  "zielkunden_profil": {
+    "greencloud": "KMU mit 10–250 Arbeitsplätzen und Windows-/Terminalserver-Anwendungen (DATEV, Branchensoftware), Kanzleien, Steuerberater, Sozialträger; Wunsch nach DSGVO-konformem Hosting in Deutschland; DACH remote",
+    "it": "Mittelstand mit 20–250 Beschäftigten ohne oder mit kleiner eigener IT, Raum Uelzen, Lüneburg, Celle, Hamburg-Süd, Bremen",
+    "office": "Organisationen mit Neubau, Umzug, New-Work-Umbau oder Ersatz von Kopierer-Leasing; Banken, Versicherungen, Sozialträger, Verwaltungen",
+    "seminarzentrum": "Unternehmen, Verbände und Bildungsträger der Region (Schulungen, Klausuren, hybride Veranstaltungen)"
+  },
+  "bedarfsausloeser": [
+    "NIS2 (in Deutschland seit dem NIS2UmsuCG wirksam; Registrierungs- und Sicherheitspflichten) – Status für 11/2026 in Phase 3 prüfen",
+    "E-Rechnung: Empfangspflicht seit 01.01.2025, Ausstellungspflicht ab 2027/2028 → DATEV/ELO/DMS",
+    "Windows Server 2016 (erweiterter Support endet 01/2027), Windows 10 (Ende 10/2025) → Hardware- und Server-Refresh",
+    "Souveränität und Abkehr von US-Hyperscalern",
+    "Nachhaltigkeitsberichte (CSRD-Pflichten durch Omnibus verschoben bzw. reduziert, Lieferkettendruck bleibt) → Green IT",
+    "Neubau, Umzug, New Work → Büroeinrichtung",
+    "auslaufendes Kopierer-Leasing (48–60 Monate)",
+    "Fusionen von Sparkassen, Volksbanken und Sozialträgern",
+    "Förderprogramme (NBank, Digitalpakt 2.0, EFRE)",
+    "Cyberangriffe in der Region",
+    "neue Geschäftsführung oder IT-Leitung, Ansiedlungen"
+  ],
+  "keywords_de": ["Cloud-Hosting", "Private Cloud", "IaaS", "Terminalserver", "Remote Desktop", "virtueller Arbeitsplatz", "VDI", "Server-Hosting", "Housing", "Colocation", "Rechenzentrumsleistungen", "Datensicherung", "Backup as a Service", "Veeam", "Mail-Archivierung", "Exchange-Hosting", "Cloud-Telefonie", "Cloud-PBX", "Green IT", "nachhaltiges Rechenzentrum", "IT-Dienstleistungen", "IT-Betreuung", "Managed Services", "IT-Support", "Helpdesk", "Systemadministration", "Netzwerkbetreuung", "Client-Management", "Microsoft 365", "Lizenzen", "Hardware-Beschaffung", "Notebooks", "Arbeitsplatz-PCs", "Server", "Firewall", "IT-Sicherheit", "Endpoint Protection", "NIS2", "Migration", "Rahmenvertrag IT-Dienstleistungen", "DATEV", "DMS", "ELO", "Telefonanlage", "Swyx", "Büromöbel", "Büroeinrichtung", "Bürodrehstühle", "ergonomische Arbeitsplätze", "höhenverstellbare Schreibtische", "Objekteinrichtung", "Konferenzmöbel", "Multifunktionsgeräte", "Kopierer", "Drucker", "Managed Print Services", "Druckerflotte", "Output-Management", "Druckkonzept", "Tagungsraum", "Seminarraum", "Veranstaltungsort", "Schulungsräume", "hybride Veranstaltung", "Tagungspauschale"],
+  "keywords_en": ["managed IT services", "cloud hosting", "IaaS", "virtual desktop", "backup as a service", "colocation", "green data center", "office furniture", "managed print services", "multifunction printers", "conference venue"],
+  "synonyme": ["EDV-Dienstleistungen", "IT-Service", "Systemhaus", "Wartung IT", "Serverbetrieb", "Rechenzentrumsbetrieb", "Datensicherung extern", "Bürostühle", "Büroausstattung", "Kopiersysteme", "Drucklösung", "Tagungsstätte"],
+  "negativ_keywords": ["Softwareentwicklung", "App-Entwicklung", "Individualprogrammierung", "SAP-Einführung", "Großrechner", "Rechenzentrumsbau", "Tiefbau", "Verkabelung Tiefbau", "Labormöbel", "Sicherheitsüberprüfung", "VS-NfD", "Bundeswehr", "Rüstung", "Schulmöbel (prüfen)"],
+  "cpv_codes": [
+    {"code": "72000000", "titel": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung", "feld": "it", "konfidenz": "hoch"},
+    {"code": "72250000", "titel": "System- und Unterstützungsdienste", "feld": "it", "konfidenz": "hoch"},
+    {"code": "72253000", "titel": "Computerunterstützung (Helpdesk)", "feld": "it", "konfidenz": "hoch"},
+    {"code": "72260000", "titel": "Dienstleistungen in Verbindung mit Software", "feld": "it", "konfidenz": "mittel"},
+    {"code": "72510000", "titel": "Computerbezogene Managementdienste", "feld": "it", "konfidenz": "hoch"},
+    {"code": "72600000", "titel": "Unterstützung und Beratung im Bereich Informatik", "feld": "it", "konfidenz": "mittel"},
+    {"code": "50320000", "titel": "Reparatur und Wartung von PCs (ergänzt)", "feld": "it", "konfidenz": "mittel"},
+    {"code": "72300000", "titel": "Datendienste", "feld": "greencloud", "konfidenz": "hoch"},
+    {"code": "72310000", "titel": "Datenverarbeitung", "feld": "greencloud", "konfidenz": "mittel"},
+    {"code": "72317000", "titel": "Datenspeicherung", "feld": "greencloud", "konfidenz": "hoch"},
+    {"code": "72400000", "titel": "Internetdienste", "feld": "greencloud", "konfidenz": "mittel"},
+    {"code": "72415000", "titel": "Betrieb von Webhosts für WWW-Sites", "feld": "greencloud", "konfidenz": "mittel"},
+    {"code": "72910000", "titel": "Computersicherung (Backup)", "feld": "greencloud", "konfidenz": "mittel"},
+    {"code": "64210000", "titel": "Telefon- und Datenübertragungsdienste", "feld": "greencloud", "konfidenz": "niedrig"},
+    {"code": "30200000", "titel": "Computeranlagen und Zubehör", "feld": "it", "konfidenz": "hoch"},
+    {"code": "30213000", "titel": "PCs", "feld": "it", "konfidenz": "hoch"},
+    {"code": "30230000", "titel": "Computerausrüstung", "feld": "it", "konfidenz": "hoch"},
+    {"code": "48820000", "titel": "Server", "feld": "it", "konfidenz": "hoch"},
+    {"code": "32420000", "titel": "Netzwerkausrüstung", "feld": "it", "konfidenz": "mittel"},
+    {"code": "48000000", "titel": "Software und Informationssysteme", "feld": "it", "konfidenz": "mittel (Lizenzhandel)"},
+    {"code": "48730000", "titel": "Sicherheitssoftware", "feld": "it", "konfidenz": "mittel"},
+    {"code": "48760000", "titel": "Virenschutzsoftware", "feld": "it", "konfidenz": "mittel"},
+    {"code": "30120000", "titel": "Fotokopier- und Offsetdruckgeräte", "feld": "office", "konfidenz": "hoch"},
+    {"code": "30121000", "titel": "Fotokopier- und Thermokopiergeräte", "feld": "office", "konfidenz": "hoch"},
+    {"code": "30232110", "titel": "Laserdrucker", "feld": "office", "konfidenz": "mittel"},
+    {"code": "50313000", "titel": "Wartung und Reparatur von Fotokopiergeräten", "feld": "office", "konfidenz": "hoch"},
+    {"code": "79520000", "titel": "Vervielfältigungsdienste (MPS, ergänzt)", "feld": "office", "konfidenz": "niedrig"},
+    {"code": "39100000", "titel": "Möbel", "feld": "office", "konfidenz": "mittel"},
+    {"code": "39110000", "titel": "Sitze, Stühle und verwandte Erzeugnisse", "feld": "office", "konfidenz": "hoch"},
+    {"code": "39130000", "titel": "Büromöbel", "feld": "office", "konfidenz": "hoch"},
+    {"code": "39121000", "titel": "Schreibtische und Tische", "feld": "office", "konfidenz": "hoch"},
+    {"code": "55120000", "titel": "Konferenz- und Tagungsdienste von Hotels", "feld": "seminarzentrum", "konfidenz": "niedrig"},
+    {"code": "79951000", "titel": "Organisation von Seminaren", "feld": "seminarzentrum", "konfidenz": "niedrig"},
+    {"code": "55520000", "titel": "Verpflegungsdienste", "feld": "seminarzentrum", "konfidenz": "niedrig"}
+  ],
+  "cpv_pruefhinweis": "Titel nach CPV 2008 aus dem Gedächtnis; der Abgleich mit der offiziellen Liste (simap/TED) steht noch aus, weil der Host blockiert ist. 48310000 (Dokumentenerstellung) entfernt: passt nicht zum Profil. 50320000 und 79520000 ergänzt.",
+  "wz_codes": ["62.03", "62.09", "63.11", "47.41", "46.65", "46.66"],
+  "wz_hinweis": "WZ 2008. Ab 2025 gilt die WZ 2025; die Codes für IT-Dienste und Hosting wurden dort teils neu gegliedert (z. B. 63.10 statt 63.11). Bei Registerauswertungen beide Fassungen nutzen.",
+  "nuts_regionen": {
+    "kern": {"DE93A": "Uelzen", "DE935": "Lüneburg, Landkreis", "DE931": "Celle", "DE933": "Harburg", "DE934": "Lüchow-Dannenberg", "DE938": "Heidekreis", "DE917": "Gifhorn (gehört zu DE91 Braunschweig)"},
+    "erweitert": {"DE60": "Hamburg", "DE92": "Hannover (DE929 Region Hannover)", "DE91": "Braunschweig (DE911 Braunschweig, DE913 Wolfsburg)", "DEE0": "Sachsen-Anhalt (Altmark: DEE0D Altmarkkreis Salzwedel, DEE0G Stendal)", "DE80": "Mecklenburg-Vorpommern (Westmecklenburg: DE80O Ludwigslust-Parchim, DE80J Nordwestmecklenburg)", "DE50": "Bremen (ergänzt, wegen Standort)"},
+    "hinweis": "Kreis-Codes nach NUTS 2021 aus dem Gedächtnis; in Phase 3 gegen TED prüfen."
+  },
+  "eignung": {
+    "belegt": ["Referenzen Privatwirtschaft (Versicherung, Lebensmittel, Sozialträger, Sparkasse, Akademie)", "Herstellerpartnerschaften (dbc-Liste: DATEV Solution Partner, ELO Business Partner, Microsoft Solution Partner, Securepoint, Terra Premium Service Partner)", "ca. 63 Beschäftigte und 7,6 Mio. EUR Umsatz (Stand ca. 2024)"],
+    "nicht_gefunden": ["ISO 27001 / ISO 9001 / BSI C5 / EMAS / Blauer Engel RZ / EN 50600 – keine Belege (dbc hat ISO 27001 als Verbund, nicht übertragbar)", "Präqualifizierung AVPQ / PQ-VOL – kein Eintrag gefunden", "Referenzen bei öffentlichen Auftraggebern – keine gefunden (Kooperation mit Stadtwerke Uelzen laut Interview)", "Tier-/Verfügbarkeitsklasse des RZ – keine Angabe"]
+  },
+  "realistische_auftragsgroesse": {
+    "greencloud": "geschätzt 10–150 TEUR p. a. (Hosting/Backup für 10–200 Nutzer); Herleitung: KMU-Fokus, Umsatz 7,6 Mio.",
+    "it": "geschätzt 20–500 TEUR (Managed Services/Rahmenverträge bis ca. 3 Jahre); größere Verfahren nur in Losen oder als Bietergemeinschaft",
+    "office": "geschätzt 10–300 TEUR je Einrichtungsprojekt bzw. Druckflotte; Referenz: über 300 Stühle für eine Sparkasse",
+    "seminarzentrum": "geschätzt 1–20 TEUR je Veranstaltung oder Rahmenvereinbarung"
+  },
+  "bietergemeinschaft_sinnvoll_fuer": ["IT-Rahmenverträge von Landkreisen und Kliniken mit Anforderung 24/7 oder ISO 27001 (z. B. mit einem ISO-zertifizierten dbc-Partner)", "Schuldigitalisierung (Verkabelung, Medientechnik)", "Objekteinrichtung großer Neubauten (Montagekapazität)", "Lose außerhalb der Region (dbc-Verbund)"],
+  "vermutete_wettbewerber": ["regionale Systemhäuser in Uelzen, Lüneburg, Celle (Phase 3)", "Bechtle, Cancom, Computacenter (Niederlassungen Hamburg/Hannover)", "dbc-Mitglieder in der Nachbarschaft (Koopetition)", "Kopierer-Fachhändler (Utax/Kyocera, Konica Minolta, Canon, Ricoh)", "Objekteinrichter der Region", "Tagungsstätten: Woltersburger Mühle, AKZENT Hotel Deutsche Eiche, Seminaris Lüneburg, Gustav-Stresemann-Institut Bad Bevensen"],
+  "quellenbelege": [
+    "https://wolkenhof.com/", "https://wolkenhof.com/ueber-uns", "https://wolkenhof.com/kontakt", "https://wolkenhof.com/leistungen-greencloud", "https://wolkenhof.com/leistungen-regional", "https://wolkenhof.com/systemhaus-bremen", "https://wolkenhof.com/systemhaus-celle", "https://wolkenhof.com/cloud-hamburg", "https://wolkenhof.com/nachhaltigkeit-lueneburg", "https://wolkenhof.com/swyx-bremen", "https://seminarzentrum.wolkenhof.com/v2/",
+    "https://www.wirtschaftsforum.de/interviews/wolkenhof-gmbh/aus-einer-hand-office-rechenzentrum-und-it", "https://www.european-business.com/en/interviews/wolkenhof-gmbh/all-in-one-office-data-center-and-it",
+    "https://openregister.de/company/DE-HRB-P2507-120618-P2504", "https://www.northdata.com/Wolkenhof%20GmbH,%20Uelzen/Amtsgericht%20L%C3%BCneburg%20HRB%20120618", "https://www.firmenwissen.de/az/firmeneintrag/29525/2330035182/WOLKENHOF_GMBH.html", "https://implisense.com/en/companies/wolkenhof-gmbh-uelzen-DEF7LRFSFZ89",
+    "https://www.dbc-gruppe.de/ihre-dbc-partner/wolkenhof-gmbh/", "https://www.daikin.de/de_de/gewerblich/fallstudien/wolkenhof--energieeffiziente-gebaeudetechnik-fuer-gruene-it-infr.html", "https://www.tga-fachplaner.de/gebaeudetechnik/referenzprojekt-daikin-effiziente-gebaeudetechnik-fuer-gruene-it-infrastruktur", "https://leibniz-fh.de/partner/wolkenhof-gmbh/", "https://www.kununu.com/de/wolkenhof1/kommentare", "https://de.linkedin.com/company/wolkenhof", "https://hohenleitner.it/wolkenhof-gmbh"
+  ]
+}
