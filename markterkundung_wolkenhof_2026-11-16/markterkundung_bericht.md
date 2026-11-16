@@ -9,12 +9,14 @@
 1. **Die Zahl der offenen, sofort bietbaren Verfahren ist klein.** 25 Ausschreibungstreffer, davon 7 mit offener Frist. Zwei Fristen enden heute bzw. morgen. Realistisch bleiben **drei Verfahren bis Anfang Dezember**: die Möblierung OPTICUM der LUH Hannover (30.11.), die Cloud-Kommunikation als Managed Service in der Region Hannover (27.11., noch nicht bestätigt) und die Microsoft-Lizenzen des UKE (07.12., margenschwach). [F/A]
 2. **Im Heimatmarkt kauft der IT-Verbund Uelzen ein.** Er vergibt laufend UVgO- und EU-Verfahren für Citrix, Server, Firewall, Storage und TK. Die Kommunen im Landkreis Uelzen kaufen ihre IT über ihn. Ohne Platz auf seiner Bieterliste ist der kommunale Heimatmarkt praktisch zu. [F/A]
 3. **Die größten Hebel liegen in Signalen, nicht in Ausschreibungen.** Es gibt 37 Bedarfssignale, 20 davon in Klasse A. Die drei stärksten:
-   - Windows Server 2016 verliert am **12.01.2027** den Support.
-   - NIS2 gilt seit 06.12.2025, viele Betriebe sind noch nicht registriert.
-   - Die Ausstellungspflicht für E-Rechnungen beginnt am **01.01.2027**.
-   
-   Das sind drei Verkaufsanlässe in den nächsten acht Wochen, die genau zu Greencloud, IT und DMS passen. [F/A]
+    - Windows Server 2016 verliert am **12.01.2027** den Support.
+    - NIS2 gilt seit 06.12.2025, viele Betriebe sind noch nicht registriert.
+    - Die Ausstellungspflicht für E-Rechnungen beginnt am **01.01.2027**.
+
+    Das sind drei Verkaufsanlässe in den nächsten acht Wochen, die genau zu Greencloud, IT und DMS passen. [F/A]
+
 4. **ISO 27001 ist die wichtigste Profillücke.** Ein Beispiel: Der Landkreis Celle verlangte bei der Firewall-Beschaffung ISO/IEC 27001 vom Bieter. Der Heidekreis baut gerade ein ISMS auf. Die Sicherheitsanforderungen kommunaler und klinischer Auftraggeber steigen also. [F/A]
+
 5. **Das Komplettangebot aus einer Hand ist selten.** Die Kombination aus Office/Druck und IT bietet in der Region nur KOS Nord (Seevetal). Den Anspruch auf ein „grünes“ Rechenzentrum stellt vor allem hagel IT (Standort Lüneburg, Colocation in Hamburg). Ein extern **geprüfter** Nachweis zu Energie und Abwärme des Rechenzentrums würde Wolkenhof klar absetzen. [F/A]
 
 ---
@@ -35,6 +37,7 @@
 | 10 | **IT-Verbund Uelzen: Bieterliste und Backup-Rechenzentrum** (A-009/A-011/A-012, C-004) | IT + Greencloud | B/A | laufend | Termin mit der Leitung Zentrale Dienste: Aufnahme in UVgO-Bieterlisten, Greencloud als Ausweich- oder Backup-Rechenzentrum, Hosting weiterer Fachverfahren |
 
 **Heute bzw. morgen nicht mehr machbar, aber gut für den Kontakt:**
+
 - **IT.Niedersachsen, Miete Multifunktionsgeräte ab 03/2027** (A-001): den Gewinner als regionaler Servicepartner ansprechen.
 - **Burgdorf, Rahmenvertrag Schul-IT** (A-002): nächste Runde etwa 2030.
 
@@ -51,6 +54,7 @@
 | ohne Zeitpunkt | 7 | abgeschlossene Vergaben (Celle, Gesundheitsholding Lüneburg, Winsen, Rotenburg) als Wettbewerbs- und Wiederausschreibungssignale |
 
 **Wiederausschreibungen** (Tab „Wiederausschreibungen“, Zeitpunkte [A]):
+
 - Landkreis Helmstedt, Multifunktionsgeräte: 2027/28
 - HaSo PC/Notebook des Landes: 2027
 - IT.N-Rahmenvertrag Drucker: 2028
