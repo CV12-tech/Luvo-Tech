@@ -1,0 +1,434 @@
+{
+  "stand": "16.11.2026 (Europe/Berlin)",
+  "belegqualitaet_hinweis": "Alle Belege stammen aus Auszügen im Suchindex; die Originalseiten konnten wegen der Netzsperre nicht abgerufen werden (siehe 00_tools.md). Angaben mit 'unbelegt' stammen aus dem Vorab-Profil und sind noch nicht geprüft.",
+  "stammdaten": {
+    "firma": "SIGMA Ladenbau und Projekt GmbH",
+    "adresse": "August-Bebel-Straße 19D, 39291 Möser",
+    "register": "HRB 32422, Amtsgericht Stendal",
+    "gesellschaftsvertrag": "17.01.2023",
+    "eintragung": "02.02.2023",
+    "letzte_registeraenderung": "24.09.2025",
+    "stammkapital_eur": 25000,
+    "ust_id": "DE359344967",
+    "geschaeftsfuehrer": "Marcus Strube (Gründer, GF, alleinvertretungsberechtigt)",
+    "unternehmensgegenstand": "Objekt- und Projektmanagement, Planung, Vertrieb, Handel, Umsetzung und Montage von Ladenbau- und Inneneinrichtungen",
+    "schwesterfirma": "Handelsvertretung Jürgen Libner Inh. Marcus Strube e.K., HRA 6640 AG Stendal, Neueintragung 11.12.2020, gleiche Adresse, Handel mit Ladeneinrichtung (Marke 'HV Libner – Individueller Ladenbau aus Magdeburg')",
+    "team_oeffentlich": [
+      "Marcus Strube – Gründer/Geschäftsführer",
+      "Jürgen Libner – Projektingenieur",
+      "Maximilian Bartsch – Innendienst"
+    ],
+    "mitarbeiter": "geschätzt 3–10 (auf der Teamseite stehen 3 Personen; im Register keine Angabe)",
+    "umsatz": null,
+    "quellen": [
+      "https://www.sigma-ladenbau.de/impressum",
+      "https://www.sigma-ladenbau.de/agb",
+      "https://www.sigma-ladenbau.de/team",
+      "https://www.companyhouse.de/SIGMA-Ladenbau-und-Projekt-GmbH-Moeser",
+      "https://www.online-handelsregister.de/handelsregisterauszug/st/Stendal/HRA/6640/Handelsvertretung-Juergen-Libner-Inh-Marcus-Strube-eK"
+    ]
+  },
+  "kurzbeschreibung": "Kleines Ladenbau-Projekt- und Vertriebsbüro bei Magdeburg. Es plant und steuert Ladeneinrichtungen für Lebensmittelhandel, Bäckereien, Fleischereien und Gastronomie und vermarktet bzw. montiert die Einrichtung von Herstellerpartnern, derzeit vor allem O.H.M. (Kirchlengern). Das Familienunternehmen gibt es nach eigener Angabe seit 1998, die GmbH erst seit 2023.",
+  "wertversprechen": "Ein fester Ansprechpartner von der Planung bis zur schlüsselfertigen Übergabe, mit 3D-Visualisierung, Gewerkekoordination und Montage; kurze Wege in Sachsen-Anhalt, Berlin und Brandenburg.",
+  "alleinstellungsmerkmale": [
+    {
+      "aussage": "Fokus auf Frische und Bedienbereiche im LEH sowie Bäckerei-Backshops (Vorkasse) statt Allround-Ladenbau",
+      "status": "teilweise belegt (Projektliste, LinkedIn-Fokus Bäckerei-Ladenbau)"
+    },
+    {
+      "aussage": "herstellerunabhängige Projektsteuerung kombiniert mit dem Fertigungspartner OHM",
+      "status": "Ableitung"
+    },
+    {
+      "aussage": "enge Kontakte zu selbstständigen EDEKA-Kaufleuten und nah&gut-Märkten in Sachsen-Anhalt",
+      "status": "belegt über die Projektliste"
+    },
+    {
+      "aussage": "Spezialgebiet Reinigungs- und Hygienelösungen an der Bedientheke",
+      "status": "unbelegt (im Suchindex nicht gefunden)"
+    }
+  ],
+  "kernleistungen": [
+    "Ladenbauplanung und Store Design (2D/3D)",
+    "Beratung",
+    "Projektleitung und -steuerung",
+    "Lieferung bzw. Handel mit Ladeneinrichtung (Handelsvertretung)",
+    "Montage",
+    "Gewerkekoordination (laut Vorab-Profil; nur 'Montage und sonstige Leistungen' aus den AGB belegt)",
+    "Umbauten und Nachrüstungen (unbelegt)"
+  ],
+  "sortimentsbereiche": [
+    "Backshop/Bäckerei",
+    "Fleisch & Wurst (Bedientheke)",
+    "Fisch",
+    "Käse",
+    "Obst & Gemüse",
+    "Kassenzone",
+    "Sitzbereich/Café",
+    "Wein & Spirituosen",
+    "Spezialmöbel",
+    "Außenanlage (belegt: /sortiment/aussenanlage/)"
+  ],
+  "referenzprojekte_belegt": [
+    {
+      "projekt": "E-Center Wernigerode",
+      "segment": 1
+    },
+    {
+      "projekt": "EDEKA Schatz, Bad Lauchstädt",
+      "segment": 1
+    },
+    {
+      "projekt": "Backshop E-Center Hinze, Naumburg",
+      "segment": 1
+    },
+    {
+      "projekt": "nah&gut Arendsee",
+      "segment": 4
+    },
+    {
+      "projekt": "Halberstädter Bäcker, Halberstadt",
+      "segment": 2
+    },
+    {
+      "projekt": "EDEKA Stenschke, Köthen",
+      "segment": 1
+    },
+    {
+      "projekt": "Backshop EDEKA Mühlenbeck",
+      "segment": 1
+    },
+    {
+      "projekt": "nah&gut Tangermünde",
+      "segment": 4
+    },
+    {
+      "projekt": "nah&gut Zerbst",
+      "segment": 4
+    },
+    {
+      "projekt": "EDEKA Dorbritz (Außenanlage)",
+      "segment": 1
+    }
+  ],
+  "referenzprojekte_quelle": [
+    "https://www.sigma-ladenbau.de/projekte",
+    "https://sigma-ladenbau.de/sortiment/aussenanlage/"
+  ],
+  "zielkunden_profil": {
+    "1_edeka_rewe_kaufleute": {
+      "icp": "selbstständige EDEKA-Kaufleute (EDEKA Minden-Hannover: Gebiet Ostfriesland bis Brandenburg, ca. 640 Kaufleute, ca. 1.500 Märkte), REWE-Partnerkaufleute (REWE Ost)",
+      "entscheider": "Inhaber/Kaufmann; Expansions- und Bauabteilung der Regionalgesellschaft bei Neubau und Übergabe",
+      "quelle": "https://verbund.edeka/verbunds-website/regionsseiten_ez/mh/presse/"
+    },
+    "2_filialbaeckereien_fleischereien": {
+      "icp": "regionale Filialbäckereien und Fleischereien mit 5–150 Filialen, Backshops im Vorkassenbereich von Märkten",
+      "entscheider": "Inhaber/GF, Filial- bzw. Expansionsleitung"
+    },
+    "3_vollsortimenter_sbw": {
+      "icp": "Kaufland, Marktkauf, famila, Globus; meist zentraler Einkauf mit Rahmenlieferanten",
+      "entscheider": "zentrale Bau- und Ladenbauabteilung",
+      "hinweis": "für ein kleines Büro schwer zugänglich; realistisch eher Teilgewerke über Hersteller oder GU"
+    },
+    "4_nahversorger_dorflaeden": {
+      "icp": "nah&gut-Kaufleute, CAP-/Inklusionsmärkte, Konsum, Dorfläden, Genossenschaften",
+      "entscheider": "Kaufmann, Vorstand der Genossenschaft, Kommune (bei Fördermitteln)"
+    },
+    "5_bio": {
+      "icp": "Bio Company (Berlin/Brandenburg), Denns, Alnatura, unabhängige Bioläden",
+      "entscheider": "Expansion/Bau (Filialisten), Inhaber"
+    },
+    "6_gastro_kantine": {
+      "icp": "Cafés, Asia- und Snackkonzepte, Betriebsgastronomie",
+      "entscheider": "Inhaber, Facility-Management, Caterer"
+    },
+    "7_projektentwickler": {
+      "icp": "Entwickler von Nahversorgungs- und Fachmarktzentren in der Kernregion",
+      "entscheider": "Projektleitung/Asset-Management; Ausbau oft über Mieter"
+    },
+    "8_sonder_retail": {
+      "icp": "Tankstellenshops, Bahnhofs-Retail, Hofläden",
+      "entscheider": "Pächter, Netzentwicklung"
+    }
+  },
+  "bedarfsausloeser": [
+    "Neueröffnung, Neubau oder Erweiterung von Märkten (z. B. 2026 laut EDEKA-MH-Presse: Magdeburg Florapark, Hettstedt, Frankfurt (Oder))",
+    "Kaufmannswechsel oder Existenzgründung selbstständiger Kaufleute",
+    "Modernisierungszyklus 7–12 Jahre (geschätzt)",
+    "Backshop-Konzepte im Vorkassenbereich",
+    "F-Gase-Verordnung (EU) 2024/573 → Kühlmöbeltausch (prüfen)",
+    "Förderprogramme Energieeffizienz/Kälte (prüfen)",
+    "Dorfladen-Förderung (LEADER/ELER, Landesprogramme)",
+    "Insolvenzen und Standortaufgaben; NEU: Insolvenz des Wettbewerbers Hanse Ladenbau (07/2026) → dessen Kunden und Außendienstgebiete Berlin/Magdeburg/Dresden ohne Lieferanten",
+    "Konzeptwechsel (Bäckerei mit Café, SB-Bedien-Hybrid, Self-Checkout)",
+    "Hygieneauflagen an der Theke",
+    "Kantinen und Mensen bei Studierendenwerken, Kliniken, Industrie"
+  ],
+  "keywords_de": [
+    "Ladenbau",
+    "Ladeneinrichtung",
+    "Ladenausbau",
+    "Markteinrichtung",
+    "Marktausstattung",
+    "Store Design",
+    "Ladenplanung",
+    "Bedientheke",
+    "Frischetheke",
+    "Fleischtheke",
+    "Wursttheke",
+    "Käsetheke",
+    "Fischtheke",
+    "Backshop",
+    "Backstation",
+    "Bäckereitheke",
+    "Vorkassenbäcker",
+    "Verkaufstheke",
+    "Thekenanlage",
+    "Kühltheke",
+    "Kühlmöbel",
+    "Obst- und Gemüseabteilung",
+    "Kassenzone",
+    "Cafeteria",
+    "Mensa-Ausgabe",
+    "Speisenausgabe",
+    "Ausgabetheke",
+    "Free-Flow",
+    "Cafébereich",
+    "Betriebsrestaurant",
+    "Kantinenumbau",
+    "Shop-Einrichtung",
+    "Marktumbau",
+    "Modernisierung Supermarkt",
+    "Revitalisierung",
+    "Neueröffnung",
+    "Wiedereröffnung",
+    "Umbau im laufenden Betrieb",
+    "Nachrüstung",
+    "Einbaumöbel",
+    "Möblierung",
+    "Innenausbau Einzelhandel"
+  ],
+  "synonyme": {
+    "Ladenbau": [
+      "Shopfitting",
+      "Geschäftseinrichtung",
+      "Objekteinrichtung"
+    ],
+    "Bedientheke": [
+      "Bedienungstheke",
+      "Frischetheke",
+      "Service-Theke"
+    ],
+    "Backshop": [
+      "Vorkassenbäckerei",
+      "Backstation",
+      "Bake-off-Station",
+      "Vorkassenbäcker"
+    ],
+    "Mensa": [
+      "Speisesaal",
+      "Ausgabeküche",
+      "Cafeteria"
+    ]
+  },
+  "negativ_keywords": [
+    "Rohbau",
+    "Tiefbau",
+    "Fassade",
+    "Dachdecker",
+    "Mode-Ladenbau",
+    "Textil",
+    "Elektronikmarkt",
+    "Baumarkt-Regal",
+    "Schulmöbel",
+    "Labormöbel",
+    "Büromöbel",
+    "Wartungsvertrag Kälteanlage",
+    "Großküche ohne Ausgabe",
+    "Messebau"
+  ],
+  "cpv_codes": [
+    {
+      "code": "39154000",
+      "bez": "Ausstellungsausrüstung",
+      "konfidenz": "hoch"
+    },
+    {
+      "code": "39150000",
+      "bez": "Verschiedene Möbel und Ausstattungsgegenstände",
+      "konfidenz": "hoch"
+    },
+    {
+      "code": "39100000",
+      "bez": "Möbel",
+      "konfidenz": "mittel (zu breit)"
+    },
+    {
+      "code": "39141000",
+      "bez": "Küchenmöbel und -ausrüstung",
+      "konfidenz": "mittel"
+    },
+    {
+      "code": "39221000",
+      "bez": "Küchenausrüstung",
+      "konfidenz": "mittel"
+    },
+    {
+      "code": "39314000",
+      "bez": "Industrieküchenausstattung",
+      "konfidenz": "mittel (nur mit Ausgabe)"
+    },
+    {
+      "code": "39711130",
+      "bez": "Kühlschränke",
+      "konfidenz": "niedrig"
+    },
+    {
+      "code": "42500000",
+      "bez": "Kühl- und Lüftungseinrichtungen",
+      "konfidenz": "niedrig (nur als Los)"
+    },
+    {
+      "code": "42513000",
+      "bez": "Kühl- und Gefrieranlagen (Bezeichnung prüfen)",
+      "konfidenz": "niedrig"
+    },
+    {
+      "code": "45421000",
+      "bez": "Bautischlerarbeiten",
+      "konfidenz": "mittel"
+    },
+    {
+      "code": "45421153",
+      "bez": "Einbau von Einbaumöbeln",
+      "konfidenz": "hoch"
+    },
+    {
+      "code": "45400000",
+      "bez": "Ausbaugewerbe",
+      "konfidenz": "niedrig (zu breit)"
+    },
+    {
+      "code": "79933000",
+      "bez": "Designunterstützung",
+      "konfidenz": "mittel"
+    },
+    {
+      "code": "79930000",
+      "bez": "Spezialdesign",
+      "konfidenz": "mittel"
+    },
+    {
+      "code": "71541000",
+      "bez": "Bauprojektmanagement",
+      "konfidenz": "niedrig"
+    }
+  ],
+  "cpv_hinweis": "Die Codes sind noch nicht gegen die amtliche CPV-Liste geprüft (TED nicht erreichbar); 45421150 und 45212000 sind zurückgestellt.",
+  "wz_codes": [
+    "31.01",
+    "43.32",
+    "43.39",
+    "46.15 (Handelsvermittlung Möbel – passt zur Handelsvertretung, neu)",
+    "46.69",
+    "71.11",
+    "74.10"
+  ],
+  "nuts_regionen": {
+    "kern": [
+      "DEE0 Sachsen-Anhalt",
+      "DE30 Berlin",
+      "DE40 Brandenburg"
+    ],
+    "erweitert": [
+      "DED Sachsen",
+      "DE9 Niedersachsen",
+      "DEG Thüringen",
+      "DE80 Mecklenburg-Vorpommern",
+      "DE7 Hessen"
+    ],
+    "hinweis": "Die Website nennt nur ST, BE, BB, SN, NI; TH, MV und HE stammen aus dem Vorab-Profil und sind unbelegt."
+  },
+  "eignung": {
+    "praequalifizierung": "nicht gefunden (PQ-VOB/PQ-VOL/AVPQ)",
+    "handwerksrolle": "nicht gefunden",
+    "oeffentliche_referenzen": "keine gefunden",
+    "einschaetzung": "Bei förmlichen Vergaben mit Mindestumsatz und Referenzanforderungen wahrscheinlich zu klein; realistisch sind Bietergemeinschaften, Nachunternehmerschaft eines Herstellers (OHM) oder Freihändige/Beschränkte Vergaben unter den Schwellenwerten (Ableitung)"
+  },
+  "realistische_auftragsgroesse": "geschätzt 15.000–400.000 € je Auftrag (Teilumbau, Backshop, Theke), größere Märkte bis ca. 1–1,5 Mio. € nur zusammen mit dem Herstellerpartner. Herleitung: Teamgröße von 3 Personen, Handelsvertreter-Modell, Projektliste überwiegend Backshops und nah&gut-Märkte",
+  "partner_und_gewerke": [
+    {
+      "name": "O.H.M. Objekteinrichtungen in Holz und Metall GmbH, Kirchlengern",
+      "rolle": "Fertigungspartner/Hersteller; SIGMA ist laut LinkedIn-Post seit 01.12.(vermutlich 2025) Handelsvertretung für OHM",
+      "fakten": "gegr. 2005, ca. 45 MA, GF Maik Südhölter, Produkt 'Vorkassenbäcker' 2025",
+      "quelle": [
+        "https://www.ohm-ladenbau.de/impressum/",
+        "https://shop-ohm.de/",
+        "https://www.bm-online.de/themenspecials/ts-vernetzte-werkstatt-reportage/hohe-performance-im-einmann-betrieb/",
+        "https://www.linkedin.com/in/marcus-strube-2b2910335/"
+      ]
+    },
+    {
+      "name": "Hanse Ladenbau GmbH, Kavelstorf (MV)",
+      "rolle": "vermutlich früherer Hersteller- bzw. Vertretungspartner (nicht belegt); als Referenz gelistet",
+      "fakten": "Insolvenzverfahren AG Rostock 61a IN 342/26, eröffnet 31.07.2026, Masseunzulänglichkeit",
+      "quelle": [
+        "https://hanse-ladenbau.de/hanse-ladenbau/",
+        "https://insolvenz-radar.de/firmeninsolvenz/hrb+5836/kavelstorf/n1206/"
+      ]
+    },
+    {
+      "name": "Kältetechnik, Elektro, Lüftung, Trockenbau, Boden",
+      "rolle": "Nachunternehmer (Namen unbekannt)"
+    }
+  ],
+  "vermutete_wettbewerber": [
+    "Aichinger",
+    "Schrutka-Peukert",
+    "umdasch",
+    "Wanzl (Kassenzonen)",
+    "Kesseböhmer",
+    "Linde Ladenbau",
+    "Ladenbau Hunold (Leinefelde-Worbis, Bäckerei)",
+    "Köcher Ladenbau (Bad Lausick)",
+    "Hanse Ladenbau (insolvent – Marktaustritt wahrscheinlich)",
+    "regionale Tischlereien (ermitteln)"
+  ],
+  "korrekturen_gegenueber_vorabprofil": [
+    "Gründung: Die GmbH besteht erst seit 2023 (Vertrag 17.01.2023, Eintragung 02.02.2023). '1998' meint das Familienunternehmen bzw. Vorgänger (HV Libner); 'gegründet 1998' trifft auf die GmbH nicht zu.",
+    "Geschäftsmodell: SIGMA ist Handelsvertretung plus Projektsteuerung und Montage, keine eigene Fertigung erkennbar. Fertigung über den Partner O.H.M. (Kirchlengern); Schwesterfirma HV Libner e.K. seit 2020.",
+    "'OHM' in den Referenzen ist der Herstellerpartner, kein Kunde.",
+    "'Hanse Ladenbau' ist ein Ladenbauer und Wettbewerber oder früherer Partner, kein Auftraggeber, und seit 07/2026 insolvent.",
+    "Größe: 3 Personen öffentlich genannt; ein eigener Projektleiter für Norddeutschland ist nicht belegt.",
+    "Region: Die Website nennt ST, BE, BB, SN, NI; TH, MV und HE sind nicht genannt.",
+    "Nicht bestätigbar: 'über 35 Jahre', 'mehr als 600 Projekte', 'Spezialgebiet Reinigungs- und Hygienelösungen', Infineon, P/S, Miss Huyen, Kaufland/Marktkauf/famila/Bio Company als Referenzen (Originalseiten nicht abrufbar).",
+    "Social Media, Stellenanzeigen, Präqualifizierung: nichts gefunden.",
+    "EDEKA-Region bestätigt: Sachsen-Anhalt, Berlin und Brandenburg gehören zu EDEKA Minden-Hannover."
+  ],
+  "offene_punkte": [
+    "Website vollständig crawlen (Leistungen, Referenzen, Hygiene-Spezialgebiet) – braucht Netzfreigabe",
+    "Bundesanzeiger-Jahresabschluss 2023/2024 (Kleinst-GmbH, vermutlich nur Bilanz)",
+    "Rolle von Hanse Ladenbau vor der Insolvenz",
+    "Kältepartner bzw. Kühlmöbel-Hersteller",
+    "Ist P/S = ein Partner?"
+  ],
+  "quellenbelege": [
+    "https://www.sigma-ladenbau.de/",
+    "https://www.sigma-ladenbau.de/projekte",
+    "https://www.sigma-ladenbau.de/team",
+    "https://www.sigma-ladenbau.de/impressum",
+    "https://www.sigma-ladenbau.de/agb",
+    "https://sigma-ladenbau.de/sortiment/aussenanlage/",
+    "https://www.companyhouse.de/SIGMA-Ladenbau-und-Projekt-GmbH-Moeser",
+    "https://www.linkedin.com/in/marcus-strube-2b2910335/",
+    "https://www.online-handelsregister.de/handelsregisterauszug/st/Stendal/HRA/6640/Handelsvertretung-Juergen-Libner-Inh-Marcus-Strube-eK",
+    "https://www.hvlibner-ladenbau.de/impressum",
+    "https://firmeneintrag.creditreform.de/39291/3170379894/HANDELSVERTRETUNG_JUERGEN_LIBNER_INH_MARCUS_STRUBE_E_K",
+    "https://www.ohm-ladenbau.de/impressum/",
+    "https://shop-ohm.de/",
+    "https://hanse-ladenbau.de/hanse-ladenbau/",
+    "https://insolvenz-radar.de/firmeninsolvenz/hrb+5836/kavelstorf/n1206/",
+    "https://www.northdata.com/HANSE%20Ladenbau%20GmbH,%20Kavelstorf/Amtsgericht%20Rostock%20HRB%205836",
+    "https://www.electrive.net/2026/01/28/ladepunkte-bei-60-weiteren-filialen-von-edeka-minden-hannover/"
+  ]
+}
