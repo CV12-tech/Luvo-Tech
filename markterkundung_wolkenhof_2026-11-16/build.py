@@ -162,7 +162,7 @@ def score_tender(t: dict) -> tuple[int, str, list[str], dict]:
         parts["cpv"] = 1 if cpvs else 2
     frist = parse_date(t.get("angebotsfrist"))
     if frist is None:
-        parts["zeit"] = 4
+        parts["zeit"] = 2
     elif frist < TODAY:
         parts["zeit"] = 0
     else:
@@ -178,22 +178,33 @@ def score_tender(t: dict) -> tuple[int, str, list[str], dict]:
 
 # ---------- Bewertung Signale ----------
 def score_signal(sg: dict) -> tuple[int, str]:
-    felder = [f for f in re.split(r"[+,/; ]+", s(sg.get("geschaeftsfeld")).lower()) if f]
-    p = 30 if felder else 12
-    vg = s(sg.get("vertrauensgrad")).lower()
-    p += 20 if vg == "hoch" else (13 if vg == "mittel" else 6)
+    felder = {f for f in re.split(r"[+,/; ]+", s(sg.get("geschaeftsfeld")).lower()) if f}
+    org = s(sg.get("organisation")).lower()
+    makro = bool(re.search(r"\bbsi\b|bund|bundes|eu\b|microsoft|gesetz|nis2|e-rechnung|branche|allgemein", org)) or s(sg.get("signal_typ")).lower().startswith("makro")
+    # Bezug (30): konkrete Organisation mit Bedarf in mehreren Feldern am höchsten
+    p = (30 if len(felder) > 1 else 24 if felder else 10) - (6 if makro else 0)
+    vg = s(sg.get("vertrauensgrad")).lower().strip()
+    p += 20 if vg.startswith("hoch") else (12 if vg.startswith("mittel") else 5)
     m = re.search(r"Q([1-4])\s*/\s*(\d{4})", s(sg.get("erwarteter_zeitpunkt")))
     if m:
         qd = dt.date(int(m[2]), (int(m[1]) - 1) * 3 + 2, 15)
         months = (qd.year - TODAY.year) * 12 + qd.month - TODAY.month
-        p += 20 if months <= 6 else (13 if months <= 12 else 6)
+        p += 20 if months <= 6 else (12 if months <= 12 else 5)
     else:
-        p += 8
+        p += 6
     txt = (s(sg.get("geschaetztes_volumen")) + " " + s(sg.get("beschreibung")) + " " + s(sg.get("abgeleiteter_bedarf"))).lower()
-    p += 15 if re.search(r"rahmenvertrag|mehrjährig|mio|neubau|fusion", txt) else (10 if s(sg.get("geschaetztes_volumen")) else 6)
+    if re.search(r"rahmenvertrag|rahmenvereinbarung|mehrjährig|fusion|mio\.? ?(€|eur)", txt):
+        p += 15
+    elif re.search(r"neubau|umzug|standort|arbeitsplätze", txt):
+        p += 10
+    else:
+        p += 4
     reg = region(s(sg.get("ort")) + " " + s(sg.get("organisation")))
-    p += 15 if reg == "kern" else (9 if reg == "erweitert" else 4)
-    p = min(p, 100)
+    if makro:
+        p += 3
+    else:
+        p += 15 if reg == "kern" else (8 if reg == "erweitert" else 3)
+    p = max(min(p, 100), 0)
     return p, ("A" if p >= 75 else "B" if p >= 50 else "C")
 
 
