@@ -1,0 +1,44 @@
+# Konfiguration für scout.py – inkrementelle Läufe der Markterkundung Wolkenhof
+# Empfohlen: wöchentlich Modul A/B (--module A B), monatlich C/D.
+firma: "Wolkenhof GmbH, Klosterstraße 3, 29525 Uelzen"
+zeitzone: "Europe/Berlin"
+ausgabe_basis: "./markterkundung_wolkenhof_{date}/"
+letzter_lauf_datei: "./scout_state.json"
+
+rate_limit_sekunden_pro_domain: 1.0
+retries: 4
+backoff_faktor: 2.0
+
+mindestwert_eur:
+  office: 10000
+  it_hardware: 10000
+  it_dienste: 20000
+  greencloud: 20000
+
+regionen:
+  kern_nuts: [DE93A, DE935, DE931, DE933, DE934, DE938, DE917]
+  erweitert_nuts: [DE60, DE92, DE91, DEE0, DE80, DE50]
+  cloud_laender: [DEU, AUT, CHE]   # Cloud/Hosting DACH-weit
+  kern_orte: [Uelzen, Lüneburg, Celle, Gifhorn, Soltau, Fallingbostel, Walsrode, Munster, Lüchow, Dannenberg, Winsen, Buchholz, Seevetal, Tostedt, Bardowick, Bad Bevensen, Ebstorf, Suderburg, Wittingen, Bispingen, Rosengarten]
+
+cpv:
+  greencloud: ["72300000", "72310000", "72317000", "72400000", "72415000", "72910000", "64210000"]
+  it: ["72000000", "72250000", "72253000", "72260000", "72510000", "72600000", "50320000", "30200000", "30213000", "30230000", "48820000", "32420000", "48000000", "48730000", "48760000"]
+  office: ["30120000", "30121000", "30232110", "50313000", "79520000", "39100000", "39110000", "39130000", "39121000"]
+  seminarzentrum: ["55120000", "79951000", "55520000"]
+
+negativ_keywords: [Softwareentwicklung, App-Entwicklung, Individualprogrammierung, SAP-Einführung, Großrechner, Rechenzentrumsbau, Tiefbau, Labormöbel, Sicherheitsüberprüfung, VS-NfD, Bundeswehr, Schulmöbel]
+
+quellen:
+  ted:
+    aktiv: true
+    endpoint: "https://api.ted.europa.eu/v3/notices/search"
+    tage_rueckblick: 90
+    felder: [publication-number, notice-title, buyer-name, buyer-city, place-of-performance, classification-cpv, deadline-receipt-tender-date-lot, estimated-value-lot, notice-type, links]
+  oeffentlichevergabe:
+    aktiv: true
+    # Datenservice Öffentlicher Einkauf – Bekanntmachungen als eForms/OCDS; Endpoint vor dem ersten Lauf in der Doku prüfen
+    endpoint: "https://oeffentlichevergabe.de/api/notice-exports"
+  rss:
+    aktiv: false
+    feeds: []   # z. B. kommunale Ausschreibungsseiten, sobald RSS-URLs bekannt sind
