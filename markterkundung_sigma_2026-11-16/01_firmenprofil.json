@@ -335,19 +335,28 @@
     "74.10"
   ],
   "nuts_regionen": {
-    "kern": [
+    "stufe_1_kern": [
       "DEE0 Sachsen-Anhalt",
       "DE30 Berlin",
       "DE40 Brandenburg"
     ],
-    "erweitert": [
+    "stufe_2_nahbereich": [
       "DED Sachsen",
-      "DE9 Niedersachsen",
       "DEG Thüringen",
+      "DE91 Braunschweig",
+      "DE92 Hannover"
+    ],
+    "stufe_3_nord_mitte": [
       "DE80 Mecklenburg-Vorpommern",
+      "DE60 Hamburg",
+      "DEF0 Schleswig-Holstein",
+      "DE50 Bremen",
+      "DE93 Lüneburg",
+      "DE94 Weser-Ems",
       "DE7 Hessen"
     ],
-    "hinweis": "Die Website nennt nur ST, BE, BB, SN, NI; TH, MV und HE stammen aus dem Vorab-Profil und sind unbelegt."
+    "nicht_im_suchraum": "NRW, Rheinland-Pfalz, Saarland, Baden-Württemberg, Bayern (nur Hinweis 'Partner nötig'; Ausnahme: OWL bei OHM-gestützten Projekten)",
+    "hinweis": "Stufe 1–3 umfasst alle 11 Länder Nord- und Mitteldeutschlands. Die Zuordnung zu NI-Regionen (NUTS-2) folgt der Entfernung zu Möser."
   },
   "eignung": {
     "praequalifizierung": "nicht gefunden (PQ-VOB/PQ-VOL/AVPQ)",
@@ -403,7 +412,8 @@
     "Region: Die Website nennt ST, BE, BB, SN, NI; TH, MV und HE sind nicht genannt.",
     "Nicht bestätigbar: 'über 35 Jahre', 'mehr als 600 Projekte', 'Spezialgebiet Reinigungs- und Hygienelösungen', Infineon, P/S, Miss Huyen, Kaufland/Marktkauf/famila/Bio Company als Referenzen (Originalseiten nicht abrufbar).",
     "Social Media, Stellenanzeigen, Präqualifizierung: nichts gefunden.",
-    "EDEKA-Region bestätigt: Sachsen-Anhalt, Berlin und Brandenburg gehören zu EDEKA Minden-Hannover."
+    "EDEKA-Region bestätigt: Sachsen-Anhalt, Berlin und Brandenburg gehören zu EDEKA Minden-Hannover.",
+    "Region per Freigabe erweitert: ganz Nord- und Mitteldeutschland in 3 Stufen statt Kern plus 'erweitert'."
   ],
   "offene_punkte": [
     "Website vollständig crawlen (Leistungen, Referenzen, Hygiene-Spezialgebiet) – braucht Netzfreigabe",
@@ -430,5 +440,6 @@
     "https://insolvenz-radar.de/firmeninsolvenz/hrb+5836/kavelstorf/n1206/",
     "https://www.northdata.com/HANSE%20Ladenbau%20GmbH,%20Kavelstorf/Amtsgericht%20Rostock%20HRB%205836",
     "https://www.electrive.net/2026/01/28/ladepunkte-bei-60-weiteren-filialen-von-edeka-minden-hannover/"
-  ]
+  ],
+  "freigabe": "Profil am 16.11.2026 freigegeben; Region auf ganz Nord- und Mitteldeutschland erweitert (Stufenplan: 02a_umsetzungs_stufenplan.md)"
 }
