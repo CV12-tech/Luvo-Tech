@@ -56,7 +56,7 @@ for s in S:
         top.append(("Signal", s["score"], s["klasse"], seg(s["segment"]), s["stufe"], s["organisation"], s["signal_typ"], s.get("ort"), s.get("termin"), None, aktion(s["organisation"], s["signal_typ"]), s["beleg_url"][0]))
 for a in A:
     if not a["ko"] and a["klasse"] in ("A", "B") and a["score"] >= 63:
-        top.append(("Ausschreibung", a["score"], a["klasse"], seg(a["segment"]), a["stufe"], a["auftraggeber"], (a["titel"] or "")[:120], a["ort"], None, as_date(a["angebotsfrist"]), aktion(a["auftraggeber"] or ""), a["url"][0]))
+        top.append(("Ausschreibung", a["score"], a["klasse"], seg(a["segment"]), a["stufe"], a["auftraggeber"], (a["titel"] or "")[:120], a["ort"], None, as_date(a["angebotsfrist"]), (aktion(a["auftraggeber"] or "") if aktion(a["auftraggeber"] or "") != "Beobachten" else "Unterlagen über die Vergabeplattform laden (kostenlose Registrierung), Leistungsverzeichnis und Eignung prüfen, Go/No-Go bis 5 Werktage vor Frist; ggf. mit Partner (Großküchen-Fachhandel/Tischlerei)"), a["url"][0]))
 for c in C:
     if c.get("klasse") == "A":
         top.append(("Account", c["score"], "A", seg(c["segment"]), None, c["organisation"], c["typ"], "; ".join((c.get("standorte") or [])[:3]), None, None, aktion(c["organisation"]), (c.get("beleg_url") or [""])[0] if c.get("beleg_url") else c.get("website")))
