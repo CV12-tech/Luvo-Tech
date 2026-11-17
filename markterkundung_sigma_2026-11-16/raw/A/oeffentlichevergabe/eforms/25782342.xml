@@ -1,0 +1,51 @@
+<ns8:ContractNotice xmlns:ns8="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:ns2="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:ns3="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ns4="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:ns5="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:ns6="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ns7="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:ns9="urn:oasis:names:specification:ubl:schema:xsd:PriorInformationNotice-2"><ns3:UBLVersionID>2.3</ns3:UBLVersionID><ns3:CustomizationID>eforms-sdk-0.1</ns3:CustomizationID><ns3:ID>25782342</ns3:ID><ns3:ContractFolderID/><ns3:VersionID>1</ns3:VersionID><ns3:RequestedPublicationDate>2026-09-03+02:00</ns3:RequestedPublicationDate><ns3:RegulatoryDomain>de-vob</ns3:RegulatoryDomain><ns3:NoticeTypeCode listName="competition">cn-standard</ns3:NoticeTypeCode><ns5:ContractingParty><ns5:Party><ns5:PartyName><ns3:Name>Gemeindeverwaltung Burkau</ns3:Name></ns5:PartyName></ns5:Party></ns5:ContractingParty><ns5:TenderingProcess><ns3:ProcedureCode listName="procurement-procedure-type">de-open</ns3:ProcedureCode></ns5:TenderingProcess><ns5:ProcurementProject><ns3:Name>Stärkung des Wirtschaftsstandortes Burkau durch Schaffung zusätzlicher Betreuungskapazitäten - Los 23 Küchentechnische Ausstattung</ns3:Name><ns3:Description>a) Auftraggeber:  Offizielle Bezeichnung: Gemeindeverwaltung Burkau; Straße, Hausnummer: Hauptstraße 241; Postleitzahl: 01906; Ort: Burkau; Land: DE; Telefon: +49 3595329090; Fax: +49 35953290929; Internet-Adresse: www.gemeinde-burkau.de; E-Mail: info@gemeinde-burkau.de
+b) Vergabeart: Öffentliche Ausschreibung
+c) Angebote können nur schriftlich abgegeben werden.
+d) Art des Auftrages: Küchentechnische Ausstattung
+e) Ort(e) der Ausführung: Straße, Hausnummer: Schulstraße 4d; Postleitzahl: 01906; Ort: Burkau; Land: DE
+f) Art und Umfang der Leistung: 1 St. Kombi-Kühl- und Tiefkühlzelle mit kältetechnischer Ausstattung; 1 St. Multifunktionsgargerät; 2 St. Kombidämpfer; 1 St. Induktionsherd; 1 St. Speisenausgabe; 1 St. Spülstrecke mit Zu- und Ablauftisch; 1 St. Kühlschrank; 1 St. Tiefkühlschrank; 1 St. Kühltisch; div. Edelstahlmöbel und Armaturen; div. Regale
+g) Es werden keine Planungsleistungen gefordert
+h) Aufteilung in mehrere Lose: nein
+i) Ausführungsfristen: Beginn: 02.01.2027, Ende: 31.01.2027
+j) Gegebenenfalls Angaben nach § 8 Absatz 2 Nummer 3 zur Nichtzulassung von Nebenangeboten: Nebenangebote sind nicht zugelassen. Vergleichbare Angebote sind über das Leistungsverzeichnis möglich. Alternative Technologien sind nicht gewünscht.
+k) Gegebenenfalls Angaben nach § 8 Absatz 2 Nummer 4 zur Nichtzulassung der Abgabe mehrerer Hauptangebote: Die Abgabe mehrerer Hauptangebote ist nicht zugelassen. siehe Nebenangebote
+ l) Stelle, bei der die Vergabeunterlagen angefordert werden können: Die Vergabeunterlagen werden auf der Vergabeplattform evergabe.de bereitgestellt. Ein unentgeltlicher Abruf ohne Registrierung ist möglich unter https://www.evergabe.de/unterlagen/3449254/zustellweg-auswaehlen.
+m) Kosten für Vervielfältigungen der Vergabeunterlagen: entfällt
+n) entfällt
+o) Frist für den Eingang der Angebote: 25.09.2026, 10:00 Uhr; Bindefrist: 06.11.2026
+p) Angebote sind schriftlich (Papierform) zu richten an: siehe Buchstabe a).
+q) Angebote sind abzufassen in: Deutsch
+r) Zuschlagskriterien, sofern diese nicht in den Vergabeunterlagen genannt werden und gegebenenfalls deren Gewichtung: Die Zuschlagskriterien sind in den Vergabeunterlagen genannt.
+s) Eröffnungstermin: Datum: 25.09.2026, 10:00 Uhr; Ort: Gemeindeverwaltung Burkau, Hauptstraße 241, 01906 Burkau - Großer Sitzungssaal - 1. OG; Personen, die anwesend sein dürfen: Bieter und/oder deren Bevollmächtigte
+t) Sicherheiten: siehe Vergabeunterlagen (Formblatt 214)
+u) Finanzierungs- und Zahlungsbedingungen: siehe Vergabeunterlagen (Formblatt 214)
+v) Rechtsform einer Bietergemeinschaft: Gesamtschuldnerisch haftend mit bevollmächtigtem Vertreter
+w) Verlangte Nachweise für die Beurteilung der Eignung: Präqualifikation oder Eigenerklärung nach Formblatt 124, ergänzende Angaben in den Vergabeunterlagen
+x) Vergabenachprüfstelle: Offizielle Bezeichnung: Landesdirektion Sachsen; Bereich/Abteilung: Referat 39; Straße, Hausnummer: Altchemnitzer Straße 41; Postleitzahl: 09120; Ort: Chemnitz; Land: DE; Internet-Adresse: www.lds.sachsen.de; E-Mail: post@lds.sachsen.de
+
+Großküchen-/ Hotellerietechnik</ns3:Description><ns5:RealizedLocation><ns5:Address><ns3:CityName>01906 Burkau</ns3:CityName><ns3:CountrySubentityCode listName="nuts">DED</ns3:CountrySubentityCode><ns5:Country><ns3:IdentificationCode listName="country">DEU</ns3:IdentificationCode></ns5:Country></ns5:Address></ns5:RealizedLocation></ns5:ProcurementProject><ns5:ProcurementProjectLot><ns3:ID schemeName="Lot">LOT-0000</ns3:ID><ns5:TenderingTerms><ns5:CallForTendersDocumentReference><ns3:ID>25782342</ns3:ID><ns3:DocumentType>non-restricted-document</ns3:DocumentType><ns5:Attachment><ns5:ExternalReference><ns3:URI>https://www.evergabe.de/auftraege/suche-ueber-vergabestellen/Gemeindeverwaltung%2520Burkau/3449254</ns3:URI></ns5:ExternalReference></ns5:Attachment></ns5:CallForTendersDocumentReference></ns5:TenderingTerms><ns5:TenderingProcess><ns5:TenderSubmissionDeadlinePeriod><ns3:EndDate>2026-09-25+02:00</ns3:EndDate><ns3:EndTime>10:00:00+02:00</ns3:EndTime></ns5:TenderSubmissionDeadlinePeriod></ns5:TenderingProcess><ns5:ProcurementProject><ns3:Name>Stärkung des Wirtschaftsstandortes Burkau durch Schaffung zusätzlicher Betreuungskapazitäten - Los 23 Küchentechnische Ausstattung</ns3:Name><ns3:Description>a) Auftraggeber:  Offizielle Bezeichnung: Gemeindeverwaltung Burkau; Straße, Hausnummer: Hauptstraße 241; Postleitzahl: 01906; Ort: Burkau; Land: DE; Telefon: +49 3595329090; Fax: +49 35953290929; Internet-Adresse: www.gemeinde-burkau.de; E-Mail: info@gemeinde-burkau.de
+b) Vergabeart: Öffentliche Ausschreibung
+c) Angebote können nur schriftlich abgegeben werden.
+d) Art des Auftrages: Küchentechnische Ausstattung
+e) Ort(e) der Ausführung: Straße, Hausnummer: Schulstraße 4d; Postleitzahl: 01906; Ort: Burkau; Land: DE
+f) Art und Umfang der Leistung: 1 St. Kombi-Kühl- und Tiefkühlzelle mit kältetechnischer Ausstattung; 1 St. Multifunktionsgargerät; 2 St. Kombidämpfer; 1 St. Induktionsherd; 1 St. Speisenausgabe; 1 St. Spülstrecke mit Zu- und Ablauftisch; 1 St. Kühlschrank; 1 St. Tiefkühlschrank; 1 St. Kühltisch; div. Edelstahlmöbel und Armaturen; div. Regale
+g) Es werden keine Planungsleistungen gefordert
+h) Aufteilung in mehrere Lose: nein
+i) Ausführungsfristen: Beginn: 02.01.2027, Ende: 31.01.2027
+j) Gegebenenfalls Angaben nach § 8 Absatz 2 Nummer 3 zur Nichtzulassung von Nebenangeboten: Nebenangebote sind nicht zugelassen. Vergleichbare Angebote sind über das Leistungsverzeichnis möglich. Alternative Technologien sind nicht gewünscht.
+k) Gegebenenfalls Angaben nach § 8 Absatz 2 Nummer 4 zur Nichtzulassung der Abgabe mehrerer Hauptangebote: Die Abgabe mehrerer Hauptangebote ist nicht zugelassen. siehe Nebenangebote
+ l) Stelle, bei der die Vergabeunterlagen angefordert werden können: Die Vergabeunterlagen werden auf der Vergabeplattform evergabe.de bereitgestellt. Ein unentgeltlicher Abruf ohne Registrierung ist möglich unter https://www.evergabe.de/unterlagen/3449254/zustellweg-auswaehlen.
+m) Kosten für Vervielfältigungen der Vergabeunterlagen: entfällt
+n) entfällt
+o) Frist für den Eingang der Angebote: 25.09.2026, 10:00 Uhr; Bindefrist: 06.11.2026
+p) Angebote sind schriftlich (Papierform) zu richten an: siehe Buchstabe a).
+q) Angebote sind abzufassen in: Deutsch
+r) Zuschlagskriterien, sofern diese nicht in den Vergabeunterlagen genannt werden und gegebenenfalls deren Gewichtung: Die Zuschlagskriterien sind in den Vergabeunterlagen genannt.
+s) Eröffnungstermin: Datum: 25.09.2026, 10:00 Uhr; Ort: Gemeindeverwaltung Burkau, Hauptstraße 241, 01906 Burkau - Großer Sitzungssaal - 1. OG; Personen, die anwesend sein dürfen: Bieter und/oder deren Bevollmächtigte
+t) Sicherheiten: siehe Vergabeunterlagen (Formblatt 214)
+u) Finanzierungs- und Zahlungsbedingungen: siehe Vergabeunterlagen (Formblatt 214)
+v) Rechtsform einer Bietergemeinschaft: Gesamtschuldnerisch haftend mit bevollmächtigtem Vertreter
+w) Verlangte Nachweise für die Beurteilung der Eignung: Präqualifikation oder Eigenerklärung nach Formblatt 124, ergänzende Angaben in den Vergabeunterlagen
+x) Vergabenachprüfstelle: Offizielle Bezeichnung: Landesdirektion Sachsen; Bereich/Abteilung: Referat 39; Straße, Hausnummer: Altchemnitzer Straße 41; Postleitzahl: 09120; Ort: Chemnitz; Land: DE; Internet-Adresse: www.lds.sachsen.de; E-Mail: post@lds.sachsen.de
+
+Großküchen-/ Hotellerietechnik</ns3:Description><ns5:RealizedLocation><ns5:Address><ns3:CityName>01906 Burkau</ns3:CityName><ns3:CountrySubentityCode listName="nuts">DED</ns3:CountrySubentityCode><ns5:Country><ns3:IdentificationCode listName="country">DEU</ns3:IdentificationCode></ns5:Country></ns5:Address></ns5:RealizedLocation></ns5:ProcurementProject></ns5:ProcurementProjectLot></ns8:ContractNotice>

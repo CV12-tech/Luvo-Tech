@@ -1,0 +1,329 @@
+<ns7:ContractNotice xmlns:ns7="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:ns2="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:ns3="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ns4="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:ns5="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:ns6="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ns8="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:ns9="urn:oasis:names:specification:ubl:schema:xsd:PriorInformationNotice-2"><ns3:UBLVersionID>2.3</ns3:UBLVersionID><ns3:CustomizationID>eforms-sdk-0.1</ns3:CustomizationID><ns3:ID>25974836</ns3:ID><ns3:ContractFolderID/><ns3:VersionID>1</ns3:VersionID><ns3:RequestedPublicationDate>2026-10-27+01:00</ns3:RequestedPublicationDate><ns3:RegulatoryDomain>de-vob</ns3:RegulatoryDomain><ns3:NoticeTypeCode listName="competition">cn-standard</ns3:NoticeTypeCode><ns5:ContractingParty><ns5:Party><ns5:PartyName><ns3:Name>Stadt Leinefelde-Worbis</ns3:Name></ns5:PartyName></ns5:Party></ns5:ContractingParty><ns5:TenderingProcess><ns3:ProcedureCode listName="procurement-procedure-type">de-open</ns3:ProcedureCode></ns5:TenderingProcess><ns5:ProcurementProject><ns3:Name>Neugestaltung Eingangsgebäude zum Bärenpark und Aufwertung Park-Caravanplatz - Los 18 - Ladenbau</ns3:Name><ns3:Description>a) Öffentlicher Auftraggeber (Vergabestelle)
+
+Name und Anschrift:
+Stadt Leinefelde-Worbis
+Bahnhofstraße 43
+37327 Leinefelde-Worbis
+Telefon:
+03605/200-451
+Fax:
+03605/200-199
+E-Mail:
+bauamt@leinefelde-worbis.de
+Internet:
+www.leinefelde-worbis.de
+
+b)
+
+Vergabeverfahren:
+Öffentliche Ausschreibung, VOB/A
+Vergabenummer:
+16/2026
+
+c) Angaben zum elektronischen Vergabeverfahren und zur Ver- und Entschlüsselung der Unterlagen
+
+Zugelassene Angebotsabgabe
+elektronisch
+in Textform
+
+d) Art des Auftrags
+
+Ausführung von Bauleistungen
+
+e) Ort der Ausführung
+
+37339 Leinefelde-Worbis, OT Worbis
+
+f) Art und Umfang der Leistung, ggf. aufgeteilt nach Losen
+
+Art der Leistung:
+Los 18 - Ladenbau
+Umfang der Leistung:
+Die Stadt Leinefelde-Worbis beabsichtigt im OT Worbis ein neues Eingangsgebäude für den Bärenpark zu errichten.
+Die Baustellenanfahrtsadresse lautet:
+Stiftung für Bären, Worbis, Duderstädter Allee 49a, 37339 Leinefelde-Worbis.
+Wir möchten Ihnen auf diesem Wege die Möglichkeit geben, sich durch Abgabe
+eines Angebotes gemäß Verdingungsordnung für Bauleistungen in der Fassung von 2019 für die Leistung Los 18 - Ladenbau an diesem attraktiven Bauvorhaben zu beteiligen.
+Grobmengen:
+Fertigung und Montage eines Verkaufstresens mit Auszügen, Glaspräsentatonsfläche und angesetzter Eiskühltruheneinhausung - 1 Stück
+"Fertigung und Einbau Verkaufsrückwand mit Warenträgerschienen und Auszügen" - 1 Stück
+"Fertigung und Einbau Servicerückwand mit multifunktionalen Einbauschränken" - 1 Stück
+"Fertigung und Einbau Sideboards mit Auszügen, Ablage- und Sitzplatzfunktionen" - 25 m
+Fertigung und Anbau einer multifunktionalen Wandlichtleiste - 18 m
+Fertigung und Einbau Bodenlüftungskanal - 18 m
+Fertigung und Nischeneinbau als Schließfachschrank - 1 Stück
+Festeinbau Stuhllager mit angeschlossener Beamerwand - 1 Stück
+Fertigung und Einbau Möblierung Malecke - 1 Stück
+Einhausung Flaschenkühlerschrank - 1 Stück
+Fertigung und Montage Warenträger mit Warenträgerschienen - 2 Stück
+
+g) Angaben über den Zweck der baulichen Anlage oder des Auftrags, wenn auch Planungsleistungen gefordert werden
+
+Zweck der baulichen Anlage:
+Neubau Eingangsgebäude Bärenpark
+Zweck des Auftrags:
+
+h) Aufteilung in Lose (Art und Umfang der Lose siehe Buchstabe f)
+
+Vergabe nach Losen:
+Nein
+
+i) Ausführungsfristen
+
+Beginn der Ausführung:
+09.12.2026
+Fertigstellung oder Dauer der Leistungen:
+26.02.2027
+weitere Fristen:
+
+j) Nebenangebote
+
+nur in Verbindung mit einem Hauptangebot zugelassen
+
+k) mehrere Hauptangebote
+
+nicht zugelassen
+
+l) Bereitstellung/Anforderung der Vergabeunterlagen
+
+Vergabeunterlagen werden elektronisch zur Verfügung gestellt
+unter:
+https://www.evergabe.de/unterlagen/54321-Tender-1a17d11ca39-2470b36fcd4734c1
+Maßnahmen zum Schutz vertraulicher Informationen:
+Nein
+Nachforderung:
+Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden nachgefordert
+
+o) Ablauf der Angebotsfrist
+
+am:
+17.11.2026
+um:
+10:00 Uhr
+Ablauf der Bindefrist am:
+18.12.2026
+
+p)
+
+Adresse für elektronische Angebote (URL): https://www.evergabe.de
+Anschrift für schriftliche Angebote: -ENTFÄLLT- (es sind ausschließlich elektronische Angebote zugelassen)
+
+q) Sprache, in der die Angebote abgefasst sein müssen
+
+Deutsch
+
+r) Zuschlagskriterien
+
+nachfolgende Zuschlagskriterien, ggf. einschl. Gewichtung:
+Niedrigster Preis
+
+s) Eröffnungstermin
+
+Der Eröffnungstermin entfällt, es sind ausschließlich elektronische Angebote zugelassen.
+Ort:
+digital
+Personen, die bei der Eröffnung anwesend sein dürfen:
+
+t) geforderte Sicherheiten
+
+Sicherheiten für Vertragserfüllung in Höhe von 5 v. H. der
+Auftragssumme ohne Nachträge (nur bei Auftragssummen &gt;
+250.000,00 €)
+Sicherheit für Mängelansprüche in Höhe von 3 v. H. der
+Abrechnungssumme
+
+u) Wesentliche Finanzierungs- und Zahlungsbedingungen und/oder Hinweise auf die maßgeblichen Vorschriften, in denen sie enthalten sind
+
+Unbedenklichkeitserklärung /Freistellungsbescheinigung d. Finanzamtes, Haftpflichtversicherung,
+
+v) Rechtsform der/Anforderung an Bietergemeinschaften
+
+gesamtschuldnerisch haftend
+
+w) Beurteilung der Eignung
+
+Präqualifizierte Unternehmen führen den Nachweis der Eignung durch den Eintrag in die Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis). Bei Einsatz von Nachunternehmen ist auf gesondertes Verlangen nachzuweisen, dass diese präqualifiziert sind oder die Voraussetzung für die Präqualifikation erfüllen.
+Nicht präqualifizierte Unternehmen haben als vorläufigen Nachweis der Eignung mit dem Angebot das ausgefüllte Formblatt ''Eigenerklärung zur Eignung'' vorzulegen. Bei Einsatz von Nachunternehmen sind auf gesondertes Verlangen die Eigenerklärungen auch für diese abzugeben. Sind die Nachunternehmen präqualifiziert, reicht die Angabe der Nummer, unter der diese in der Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis) geführt werden.
+Gelangt das Angebot in die engere Wahl, sind die Eigenerklärungen (auch die der Nachunternehmen) auf gesondertes Verlangen durch Vorlage der in der ''Eigenerklärung zur Eignung'' genannten Bescheinigungen zuständiger Stellen zu bestätigen. Bescheinigungen, die nicht in deutscher Sprache abgefasst sind, ist eine Übersetzung in die deutsche Sprache beizufügen.
+Das Formblatt 'Eigenerklärung zur Eignung' ist erhältlich:
+Darüber hinaus hat der Bieter zum Nachweis seiner Fachkunde folgende Angaben gemäß § 6a Abs. 3 VOB/A zu machen:
+
+x) Nachprüfung behaupteter Verstöße
+
+Nachprüfungsstelle (§ 21 VOB/A):
+Thüringer Landesverwaltungsamt
+Vergabekammer Thüringen
+Jorge-Semprún-Platz 4
+99423 Weimar. • Auf die Möglichkeit der Beanstandung der beabsichtigten Vergabeentscheidung beim Auftraggeber nach § 14 Abs. 2 ThürVgG und die Kostenfolge nach § 14 Abs. 5 ThürVgG wird hingewiesen.
+
+y) Sonstige Angaben
+
+Bieterfragen zu den Vergabeunterlagen sind ausschließlich in elektronischer Form über die Vergabeplattform zu stellen und können bis spätestens zum 11.11.2026 eingereicht werden.
+Nach diesem Zeitpunkt eingehende Bieterfragen werden aus vergaberechtlichen und organisatorischen Gründen nicht mehr berücksichtigt.
+
+
+Tischler/ Innenausbau/ Einbaumöbel,Möbel (Sonstige)</ns3:Description><ns5:MainCommodityClassification><ns3:ItemClassificationCode listName="cpv">45</ns3:ItemClassificationCode></ns5:MainCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">43</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">44</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">71</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:RealizedLocation><ns5:Address><ns3:CityName>37339 Leinefelde-Worbis OT Worbis</ns3:CityName><ns3:CountrySubentityCode listName="nuts">DEG</ns3:CountrySubentityCode><ns5:Country><ns3:IdentificationCode listName="country">DEU</ns3:IdentificationCode></ns5:Country></ns5:Address></ns5:RealizedLocation></ns5:ProcurementProject><ns5:ProcurementProjectLot><ns3:ID schemeName="Lot">LOT-0000</ns3:ID><ns5:TenderingTerms><ns5:CallForTendersDocumentReference><ns3:ID>25974836</ns3:ID><ns3:DocumentType>non-restricted-document</ns3:DocumentType><ns5:Attachment><ns5:ExternalReference><ns3:URI>https://www.evergabe.de/auftraege/suche-ueber-vergabestellen/Stadt%2520Leinefelde%252DWorbis/3474254</ns3:URI></ns5:ExternalReference></ns5:Attachment></ns5:CallForTendersDocumentReference></ns5:TenderingTerms><ns5:TenderingProcess><ns5:TenderSubmissionDeadlinePeriod><ns3:EndDate>2026-11-17+01:00</ns3:EndDate><ns3:EndTime>10:00:00+01:00</ns3:EndTime></ns5:TenderSubmissionDeadlinePeriod></ns5:TenderingProcess><ns5:ProcurementProject><ns3:Name>Neugestaltung Eingangsgebäude zum Bärenpark und Aufwertung Park-Caravanplatz - Los 18 - Ladenbau</ns3:Name><ns3:Description>a) Öffentlicher Auftraggeber (Vergabestelle)
+
+Name und Anschrift:
+Stadt Leinefelde-Worbis
+Bahnhofstraße 43
+37327 Leinefelde-Worbis
+Telefon:
+03605/200-451
+Fax:
+03605/200-199
+E-Mail:
+bauamt@leinefelde-worbis.de
+Internet:
+www.leinefelde-worbis.de
+
+b)
+
+Vergabeverfahren:
+Öffentliche Ausschreibung, VOB/A
+Vergabenummer:
+16/2026
+
+c) Angaben zum elektronischen Vergabeverfahren und zur Ver- und Entschlüsselung der Unterlagen
+
+Zugelassene Angebotsabgabe
+elektronisch
+in Textform
+
+d) Art des Auftrags
+
+Ausführung von Bauleistungen
+
+e) Ort der Ausführung
+
+37339 Leinefelde-Worbis, OT Worbis
+
+f) Art und Umfang der Leistung, ggf. aufgeteilt nach Losen
+
+Art der Leistung:
+Los 18 - Ladenbau
+Umfang der Leistung:
+Die Stadt Leinefelde-Worbis beabsichtigt im OT Worbis ein neues Eingangsgebäude für den Bärenpark zu errichten.
+Die Baustellenanfahrtsadresse lautet:
+Stiftung für Bären, Worbis, Duderstädter Allee 49a, 37339 Leinefelde-Worbis.
+Wir möchten Ihnen auf diesem Wege die Möglichkeit geben, sich durch Abgabe
+eines Angebotes gemäß Verdingungsordnung für Bauleistungen in der Fassung von 2019 für die Leistung Los 18 - Ladenbau an diesem attraktiven Bauvorhaben zu beteiligen.
+Grobmengen:
+Fertigung und Montage eines Verkaufstresens mit Auszügen, Glaspräsentatonsfläche und angesetzter Eiskühltruheneinhausung - 1 Stück
+"Fertigung und Einbau Verkaufsrückwand mit Warenträgerschienen und Auszügen" - 1 Stück
+"Fertigung und Einbau Servicerückwand mit multifunktionalen Einbauschränken" - 1 Stück
+"Fertigung und Einbau Sideboards mit Auszügen, Ablage- und Sitzplatzfunktionen" - 25 m
+Fertigung und Anbau einer multifunktionalen Wandlichtleiste - 18 m
+Fertigung und Einbau Bodenlüftungskanal - 18 m
+Fertigung und Nischeneinbau als Schließfachschrank - 1 Stück
+Festeinbau Stuhllager mit angeschlossener Beamerwand - 1 Stück
+Fertigung und Einbau Möblierung Malecke - 1 Stück
+Einhausung Flaschenkühlerschrank - 1 Stück
+Fertigung und Montage Warenträger mit Warenträgerschienen - 2 Stück
+
+g) Angaben über den Zweck der baulichen Anlage oder des Auftrags, wenn auch Planungsleistungen gefordert werden
+
+Zweck der baulichen Anlage:
+Neubau Eingangsgebäude Bärenpark
+Zweck des Auftrags:
+
+h) Aufteilung in Lose (Art und Umfang der Lose siehe Buchstabe f)
+
+Vergabe nach Losen:
+Nein
+
+i) Ausführungsfristen
+
+Beginn der Ausführung:
+09.12.2026
+Fertigstellung oder Dauer der Leistungen:
+26.02.2027
+weitere Fristen:
+
+j) Nebenangebote
+
+nur in Verbindung mit einem Hauptangebot zugelassen
+
+k) mehrere Hauptangebote
+
+nicht zugelassen
+
+l) Bereitstellung/Anforderung der Vergabeunterlagen
+
+Vergabeunterlagen werden elektronisch zur Verfügung gestellt
+unter:
+https://www.evergabe.de/unterlagen/54321-Tender-1a17d11ca39-2470b36fcd4734c1
+Maßnahmen zum Schutz vertraulicher Informationen:
+Nein
+Nachforderung:
+Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden nachgefordert
+
+o) Ablauf der Angebotsfrist
+
+am:
+17.11.2026
+um:
+10:00 Uhr
+Ablauf der Bindefrist am:
+18.12.2026
+
+p)
+
+Adresse für elektronische Angebote (URL): https://www.evergabe.de
+Anschrift für schriftliche Angebote: -ENTFÄLLT- (es sind ausschließlich elektronische Angebote zugelassen)
+
+q) Sprache, in der die Angebote abgefasst sein müssen
+
+Deutsch
+
+r) Zuschlagskriterien
+
+nachfolgende Zuschlagskriterien, ggf. einschl. Gewichtung:
+Niedrigster Preis
+
+s) Eröffnungstermin
+
+Der Eröffnungstermin entfällt, es sind ausschließlich elektronische Angebote zugelassen.
+Ort:
+digital
+Personen, die bei der Eröffnung anwesend sein dürfen:
+
+t) geforderte Sicherheiten
+
+Sicherheiten für Vertragserfüllung in Höhe von 5 v. H. der
+Auftragssumme ohne Nachträge (nur bei Auftragssummen &gt;
+250.000,00 €)
+Sicherheit für Mängelansprüche in Höhe von 3 v. H. der
+Abrechnungssumme
+
+u) Wesentliche Finanzierungs- und Zahlungsbedingungen und/oder Hinweise auf die maßgeblichen Vorschriften, in denen sie enthalten sind
+
+Unbedenklichkeitserklärung /Freistellungsbescheinigung d. Finanzamtes, Haftpflichtversicherung,
+
+v) Rechtsform der/Anforderung an Bietergemeinschaften
+
+gesamtschuldnerisch haftend
+
+w) Beurteilung der Eignung
+
+Präqualifizierte Unternehmen führen den Nachweis der Eignung durch den Eintrag in die Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis). Bei Einsatz von Nachunternehmen ist auf gesondertes Verlangen nachzuweisen, dass diese präqualifiziert sind oder die Voraussetzung für die Präqualifikation erfüllen.
+Nicht präqualifizierte Unternehmen haben als vorläufigen Nachweis der Eignung mit dem Angebot das ausgefüllte Formblatt ''Eigenerklärung zur Eignung'' vorzulegen. Bei Einsatz von Nachunternehmen sind auf gesondertes Verlangen die Eigenerklärungen auch für diese abzugeben. Sind die Nachunternehmen präqualifiziert, reicht die Angabe der Nummer, unter der diese in der Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis) geführt werden.
+Gelangt das Angebot in die engere Wahl, sind die Eigenerklärungen (auch die der Nachunternehmen) auf gesondertes Verlangen durch Vorlage der in der ''Eigenerklärung zur Eignung'' genannten Bescheinigungen zuständiger Stellen zu bestätigen. Bescheinigungen, die nicht in deutscher Sprache abgefasst sind, ist eine Übersetzung in die deutsche Sprache beizufügen.
+Das Formblatt 'Eigenerklärung zur Eignung' ist erhältlich:
+Darüber hinaus hat der Bieter zum Nachweis seiner Fachkunde folgende Angaben gemäß § 6a Abs. 3 VOB/A zu machen:
+
+x) Nachprüfung behaupteter Verstöße
+
+Nachprüfungsstelle (§ 21 VOB/A):
+Thüringer Landesverwaltungsamt
+Vergabekammer Thüringen
+Jorge-Semprún-Platz 4
+99423 Weimar. • Auf die Möglichkeit der Beanstandung der beabsichtigten Vergabeentscheidung beim Auftraggeber nach § 14 Abs. 2 ThürVgG und die Kostenfolge nach § 14 Abs. 5 ThürVgG wird hingewiesen.
+
+y) Sonstige Angaben
+
+Bieterfragen zu den Vergabeunterlagen sind ausschließlich in elektronischer Form über die Vergabeplattform zu stellen und können bis spätestens zum 11.11.2026 eingereicht werden.
+Nach diesem Zeitpunkt eingehende Bieterfragen werden aus vergaberechtlichen und organisatorischen Gründen nicht mehr berücksichtigt.
+
+
+Tischler/ Innenausbau/ Einbaumöbel,Möbel (Sonstige)</ns3:Description><ns5:MainCommodityClassification><ns3:ItemClassificationCode listName="cpv">45</ns3:ItemClassificationCode></ns5:MainCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">43</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">44</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">71</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:RealizedLocation><ns5:Address><ns3:CityName>37339 Leinefelde-Worbis OT Worbis</ns3:CityName><ns3:CountrySubentityCode listName="nuts">DEG</ns3:CountrySubentityCode><ns5:Country><ns3:IdentificationCode listName="country">DEU</ns3:IdentificationCode></ns5:Country></ns5:Address></ns5:RealizedLocation></ns5:ProcurementProject></ns5:ProcurementProjectLot></ns7:ContractNotice>

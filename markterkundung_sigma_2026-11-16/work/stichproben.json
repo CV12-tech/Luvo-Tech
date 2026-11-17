@@ -1,0 +1,157 @@
+[
+ {
+  "modul": "A",
+  "id": "A-25960856",
+  "url": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25960856",
+  "geprueft": [
+   "2026-11-19"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "<ns9:ContractNotice xmlns:ns9=\"urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2\" xmlns=\"http://data.europa.eu/p27/eforms-ubl-extension-ba"
+ },
+ {
+  "modul": "A",
+  "id": "A-781744-2026",
+  "url": "https://ted.europa.eu/de/notice/-/detail/781744-2026",
+  "geprueft": [
+   "2026-12-15"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "{\"notices\": [{\"deadline-receipt-tender-date-lot\": [\"2026-12-15+01:00\"], \"publication-number\": \"781744-2026\", \"links\": {\"xml\": {\"MUL\": \"https://ted.eur"
+ },
+ {
+  "modul": "A",
+  "id": "A-25955982",
+  "url": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=25955982",
+  "geprueft": [
+   "2026-11-18"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "<ns9:ContractNotice xmlns:ns9=\"urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2\" xmlns=\"http://data.europa.eu/p27/eforms-ubl-extension-ba"
+ },
+ {
+  "modul": "A",
+  "id": "A-819b8d86-7287",
+  "url": "https://oeffentlichevergabe.de/ui/de/search/details?noticeId=819b8d86-7287-4461-9d73-5e9e3b7e73d4",
+  "geprueft": [
+   "2026-10-02"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "<ContractNotice xmlns=\"urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2\" xmlns:cac=\"urn:oasis:names:specification:ubl:schema:xsd:CommonAg"
+ },
+ {
+  "modul": "A",
+  "id": "A-645288-2026",
+  "url": "https://ted.europa.eu/de/notice/-/detail/645288-2026",
+  "geprueft": [
+   "2026-10-20"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "{\"notices\": [{\"deadline-receipt-tender-date-lot\": [\"2026-10-20+02:00\"], \"publication-number\": \"645288-2026\", \"links\": {\"xml\": {\"MUL\": \"https://ted.eur"
+ },
+ {
+  "modul": "C",
+  "id": "C-N0118",
+  "url": "https://www.neueroeffnung.info/hohenmocker/hofbaeckerei-klee",
+  "geprueft": [
+   "17111",
+   "4. Quartal 2027"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": " [NEU] Hofbäckerei Klee eröffnet in Hohenmocker | Neueroeffnung.info Karte                         Kategorien                                         "
+ },
+ {
+  "modul": "C",
+  "id": "C-N0389",
+  "url": "https://www.neueroeffnung.info/grossraeschen/aldi-nord_983",
+  "geprueft": [
+   "01983",
+   "19.11.2026"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": " [NEU] ALDI Nord wiedereröffnet in Großräschen | Neueroeffnung.info Karte                         Kategorien                                          "
+ },
+ {
+  "modul": "C",
+  "id": "C-N0086",
+  "url": "https://www.neueroeffnung.info/vellmar/rewe_519538",
+  "geprueft": [
+   "34246",
+   "1. Quartal 2027"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": " [NEU] REWE wiedereröffnet in Vellmar | Neueroeffnung.info Karte                         Kategorien                                                   "
+ },
+ {
+  "modul": "C",
+  "id": "C-N0317",
+  "url": "https://www.neueroeffnung.info/schlitz/edeka_915",
+  "geprueft": [
+   "36110",
+   "05.11.2026"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": " [NEU] EDEKA wiedereröffnet in Schlitz | Neueroeffnung.info Karte                         Kategorien                                                  "
+ },
+ {
+  "modul": "C",
+  "id": "C-M001",
+  "url": "https://www.volksstimme.de/lokal/magdeburg/np-edeka-umbau-supermarkt-4347215",
+  "geprueft": [
+   "39104",
+   "Edeka"
+  ],
+  "ergebnis": "Abweichung",
+  "auszug": " NP wird Edeka: Magdeburgs am längsten geöffneter Supermarkt wird umgebaut Anzeige Anzeige                                 Shop                       "
+ },
+ {
+  "modul": "D",
+  "id": "Bäcker Andresen",
+  "url": "https://www.openstreetmap.org/node/1645374842",
+  "geprueft": [
+   "Bäcker"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "{\"version\":\"0.6\",\"generator\":\"openstreetmap-cgimap 2.1.1 (2332451 spike-07.openstreetmap.org)\",\"copyright\":\"OpenStreetMap and contributors\",\"attributi"
+ },
+ {
+  "modul": "D",
+  "id": "Der Bäcker Feihl",
+  "url": "https://www.openstreetmap.org/node/603300197",
+  "geprueft": [
+   "Der"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "{\"version\":\"0.6\",\"generator\":\"openstreetmap-cgimap 2.1.1 (3021026 spike-08.openstreetmap.org)\",\"copyright\":\"OpenStreetMap and contributors\",\"attributi"
+ },
+ {
+  "modul": "D",
+  "id": "mannamia",
+  "url": "https://www.openstreetmap.org/node/280314157",
+  "geprueft": [
+   "mannamia"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "{\"version\":\"0.6\",\"generator\":\"openstreetmap-cgimap 2.1.1 (2319645 spike-06.openstreetmap.org)\",\"copyright\":\"OpenStreetMap and contributors\",\"attributi"
+ },
+ {
+  "modul": "D",
+  "id": "Bäckerei Düsedau",
+  "url": "https://www.openstreetmap.org/node/309720701",
+  "geprueft": [
+   "Bäckerei"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "{\"version\":\"0.6\",\"generator\":\"openstreetmap-cgimap 2.1.1 (2337959 spike-07.openstreetmap.org)\",\"copyright\":\"OpenStreetMap and contributors\",\"attributi"
+ },
+ {
+  "modul": "D",
+  "id": "Lindner",
+  "url": "https://www.openstreetmap.org/node/345806447",
+  "geprueft": [
+   "Lindner"
+  ],
+  "ergebnis": "bestätigt",
+  "auszug": "{\"version\":\"0.6\",\"generator\":\"openstreetmap-cgimap 2.1.1 (2251778 spike-07.openstreetmap.org)\",\"copyright\":\"OpenStreetMap and contributors\",\"attributi"
+ }
+]

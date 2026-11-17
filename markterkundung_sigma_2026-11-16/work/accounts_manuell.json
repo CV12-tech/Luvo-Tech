@@ -1,0 +1,485 @@
+[
+ {
+  "organisation": "Steinecke (Meisterbäckerei/Brotmeisterei Steinecke)",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": true,
+  "einkaufsweg": "Zentrale (Expansion/Bau), Backshops in Märkten",
+  "entscheiderrolle": "GF / Leitung Expansion & Filialbau",
+  "website": "https://steinecke.de/baeckereien/",
+  "beleg_url": [
+   "https://steinecke.de/baeckereien/"
+  ],
+  "filialen_hinweis": "über 500 Filialen in 6 Bundesländern (Eigenangabe)",
+  "match": [
+   "steinecke"
+  ]
+ },
+ {
+  "organisation": "Halberstädter Bäcker und Konditoren GmbH",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": true,
+  "einkaufsweg": "Inhaber/GF (Eigenverwaltung, Sachwalter)",
+  "entscheiderrolle": "Geschäftsführung",
+  "beleg_url": [
+   "https://innovatis.expert/files/Pressemitteilungen_News/Pressemitteilung_HalberstaedterBaeckerundKonditorenGmbH_20260620.pdf"
+  ],
+  "filialen_hinweis": "23 Filialen (02/2026), Fokus Landkreis Harz",
+  "match": [
+   "halberstädter",
+   "hbk"
+  ]
+ },
+ {
+  "organisation": "Ihr Landbäcker",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": true,
+  "einkaufsweg": "Inhaber/GF",
+  "entscheiderrolle": "Geschäftsführung",
+  "beleg_url": [],
+  "match": [
+   "ihr landbäcker"
+  ]
+ },
+ {
+  "organisation": "Altmärker Fleisch- und Wurstwaren GmbH",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": true,
+  "einkaufsweg": "Inhaber/GF",
+  "entscheiderrolle": "Geschäftsführer",
+  "website": "https://www.altmaerker.de/filialen/",
+  "beleg_url": [
+   "https://www.altmaerker.de/filialen/",
+   "https://www.volksstimme.de/lokal/stendal/altmarker-fleischer-aus-stendal-speckt-ab-aber-neueroffnung-ist-geplant-4175705"
+  ],
+  "filialen_hinweis": "ca. 60–70 Filialen BE/BB/ST",
+  "match": [
+   "altmärker"
+  ]
+ },
+ {
+  "organisation": "Schäfer's (EDEKA Minden-Hannover)",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": true,
+  "einkaufsweg": "Zentrale (EDEKA MH Tochter)",
+  "entscheiderrolle": "Expansion/Bau Schäfer's",
+  "beleg_url": [
+   "https://regionalheute.de/schaefers-baeckerei-zieht-aus-rewe-maerkten-aus-so-geht-es-jetzt-weiter-braunschweig-gifhorn-goslar-harz-helmstedt-peine-salzgitter-wolfenbuettel-wolfsburg-1765541092-a/"
+  ],
+  "match": [
+   "schäfer's"
+  ]
+ },
+ {
+  "organisation": "EDEKA Minden-Hannover – Bau / Gebäudemanagement / Ladenbau",
+  "typ": "Zielkunde (Gatekeeper)",
+  "segment": 1,
+  "bestandskunde": true,
+  "einkaufsweg": "Zentrale Bauabteilung; Rahmenlieferanten; Kaufleute entscheiden bei Umbau mit",
+  "entscheiderrolle": "Leitung Bau/Ladenbau, Expansion",
+  "website": "https://verbund.edeka/minden-hannover/immobilien-expansion/gebaeude-baumanagement-und-technik/",
+  "beleg_url": [
+   "https://verbund.edeka/minden-hannover/immobilien-expansion/gebaeude-baumanagement-und-technik/"
+  ],
+  "filialen_hinweis": "ca. 1.500 Märkte, ca. 640 selbstständige Kaufleute",
+  "match": [
+   "edeka minden-hannover",
+   "aus np",
+   "(ex np)",
+   "nah & gut"
+  ]
+ },
+ {
+  "organisation": "EDEKA Nordbayern-Sachsen-Thüringen – Bau/Expansion",
+  "typ": "Zielkunde (Gatekeeper)",
+  "segment": 1,
+  "bestandskunde": false,
+  "einkaufsweg": "Zentrale Bauabteilung; Kaufleute",
+  "entscheiderrolle": "Leitung Bau/Expansion",
+  "beleg_url": [
+   "https://www.wer-zu-wem.de/firma/edeka-nordbayern.html"
+  ],
+  "match": [
+   "edeka nordbayern"
+  ]
+ },
+ {
+  "organisation": "EDEKA Hessenring – Bau/Expansion (tegut-Übernahmen)",
+  "typ": "Zielkunde (Gatekeeper)",
+  "segment": 1,
+  "bestandskunde": false,
+  "einkaufsweg": "Zentrale; Übergabe an Kaufleute geplant",
+  "entscheiderrolle": "Leitung Expansion/Bau",
+  "beleg_url": [
+   "https://www.fuldainfo.de/aus-tegut-wird-edeka-33-uebernommene-maerkte-oeffnen-am-5-november/"
+  ],
+  "match": [
+   "tegut",
+   "hessenring"
+  ]
+ },
+ {
+  "organisation": "EDEKA Nord – Bau/Expansion",
+  "typ": "Zielkunde (Gatekeeper)",
+  "segment": 1,
+  "bestandskunde": false,
+  "einkaufsweg": "Zentrale; Kaufleute",
+  "entscheiderrolle": "Leitung Bau/Expansion",
+  "beleg_url": [
+   "https://www.iz.de/projekte/news/-edeka-nordwest-baut-markt-in-travemuende-2000050310"
+  ],
+  "match": [
+   "edeka nord",
+   "payk",
+   "bensch"
+  ]
+ },
+ {
+  "organisation": "Konsum Leipzig eG",
+  "typ": "Zielkunde",
+  "segment": 4,
+  "bestandskunde": false,
+  "einkaufsweg": "Genossenschaft – Vorstand/Bau & Expansion",
+  "entscheiderrolle": "Vorstand, Leitung Bau/Expansion",
+  "beleg_url": [
+   "https://www.leipziginfo.de/aktuelles/artikel/zwischen-tradition-und-reformen-konsum-leipzig-geht-gestaerkt-in-die-zukunft/"
+  ],
+  "filialen_hinweis": ">5 Mio €/Jahr Filialinvestitionen",
+  "match": [
+   "konsum leipzig"
+  ]
+ },
+ {
+  "organisation": "Konsum Dresden eG",
+  "typ": "Zielkunde",
+  "segment": 4,
+  "bestandskunde": false,
+  "einkaufsweg": "Genossenschaft – Vorstand; seit 2026 EDEKA-Verbund",
+  "entscheiderrolle": "Vorstand",
+  "beleg_url": [
+   "https://lebensmittelpraxis.de/handel-aktuell/47764-dresdner-genossenschaft-konsum-senkt-preise-nach-wiedereroeffnung-auf-dauer.html"
+  ],
+  "filialen_hinweis": "ca. 30 Filialen",
+  "match": [
+   "konsum dresden"
+  ]
+ },
+ {
+  "organisation": "BIO COMPANY SE (inkl. Partnermärkte)",
+  "typ": "Zielkunde",
+  "segment": 5,
+  "bestandskunde": true,
+  "einkaufsweg": "Zentrale Expansion/Bau; Partner-Händler eigenständig",
+  "entscheiderrolle": "Leitung Expansion; selbstständige Partner",
+  "beleg_url": [
+   "https://biohandel.de/bio-branche/bio-company-expansion-partnermaerkte"
+  ],
+  "match": [
+   "bio company"
+  ]
+ },
+ {
+  "organisation": "Bäcker Lampe",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": false,
+  "einkaufsweg": "Inhaber (Eigenverwaltung)",
+  "entscheiderrolle": "Geschäftsführung / Sachwalter",
+  "beleg_url": [
+   "https://www.freiepresse.de/nachrichten/sachsen/baecker-lampe-insolvent-filialen-bleiben-geoeffnet-artikel14288420"
+  ],
+  "filialen_hinweis": "44 Filialen TH/SN/ST",
+  "match": [
+   "lampe"
+  ]
+ },
+ {
+  "organisation": "Bäckerei Wahl",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": false,
+  "einkaufsweg": "Inhaber (Eigenverwaltung)",
+  "entscheiderrolle": "Geschäftsführung",
+  "beleg_url": [
+   "https://www.berliner-kurier.de/berlin/brandenburg/baeckerei-wahl-insolvenz-berlin-brandenburg-li.10254472"
+  ],
+  "filialen_hinweis": "ca. 50+ Filialen BB/BE",
+  "match": [
+   "bäckerei wahl"
+  ]
+ },
+ {
+  "organisation": "Köthener Fleisch- und Wurstwaren",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": false,
+  "einkaufsweg": "Inhaber/GF",
+  "entscheiderrolle": "Geschäftsführung",
+  "website": "https://koet-fleisch-wurst.de/filialen/",
+  "beleg_url": [
+   "https://koet-fleisch-wurst.de/filialen/"
+  ],
+  "filialen_hinweis": "ca. 20 Filialen ST",
+  "match": [
+   "köthener"
+  ]
+ },
+ {
+  "organisation": "Unser Schopp (24/7-Dorfläden)",
+  "typ": "Zielkunde",
+  "segment": 4,
+  "bestandskunde": false,
+  "einkaufsweg": "Inhaber/Initiative + LEADER-Förderung",
+  "entscheiderrolle": "Gründer/GF",
+  "website": "https://www.unser-schopp.de/",
+  "beleg_url": [
+   "https://www.unser-schopp.de/"
+  ],
+  "match": [
+   "unser schopp"
+  ]
+ },
+ {
+  "organisation": "Backhaus Hennig",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": false,
+  "einkaufsweg": "Inhaber/GF",
+  "entscheiderrolle": "Geschäftsführung",
+  "beleg_url": [
+   "https://www.neueroeffnung.info/leipzig/backhaus-hennig_6"
+  ],
+  "match": [
+   "hennig"
+  ]
+ },
+ {
+  "organisation": "Bäcker Beims",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": false,
+  "einkaufsweg": "Inhaber",
+  "entscheiderrolle": "Inhaber",
+  "beleg_url": [
+   "https://www.neueroeffnung.info/magdeburg/baecker-beims"
+  ],
+  "match": [
+   "beims"
+  ]
+ },
+ {
+  "organisation": "Laube Bäckerei & Konditorei (Franchise)",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": false,
+  "einkaufsweg": "Franchisegeber",
+  "entscheiderrolle": "GF",
+  "beleg_url": [
+   "https://www.baeckerei-laube.de/franchise/"
+  ],
+  "match": [
+   "laube"
+  ]
+ },
+ {
+  "organisation": "Fleischerei Spiegel, Rostock (Hanse-Altkunde)",
+  "typ": "Zielkunde",
+  "segment": 2,
+  "bestandskunde": false,
+  "einkaufsweg": "Inhaber",
+  "entscheiderrolle": "Inhaber",
+  "beleg_url": [
+   "http://hanse-ladenbau.de/referenzen/fisch-und-fleisch/fleischerei-spiegel-rostock"
+  ],
+  "match": [
+   "spiegel"
+  ],
+  "hanse_altkunde": true
+ },
+ {
+  "organisation": "EDEKA Petersen, Pansdorf (Hanse-Altkunde)",
+  "typ": "Zielkunde",
+  "segment": 1,
+  "bestandskunde": false,
+  "einkaufsweg": "Kaufmann",
+  "entscheiderrolle": "Kaufmann",
+  "beleg_url": [
+   "https://www.wer-zu-wem.de/firma/hanse-ladenbau.html"
+  ],
+  "match": [
+   "petersen"
+  ],
+  "hanse_altkunde": true
+ },
+ {
+  "organisation": "Aichinger GmbH (EDEKA-Gruppe)",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "beleg_url": [
+   "https://fleischundco.at/info-politik/breaking-news-edeka-uebernimmt-ladenbau-spezialisten-aichinger",
+   "https://de.wikipedia.org/wiki/Aichinger_(Unternehmen)"
+  ],
+  "notiz": "Thekenspezialist, Umsatz 2024 74,4 Mio €, seit 2025 EDEKA-Gruppe – Vorzugslieferant-Risiko im EDEKA-Kanal"
+ },
+ {
+  "organisation": "Schrutka-Peukert GmbH (Kulmbach)",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "beleg_url": [
+   "https://die-deutsche-wirtschaft.de/unternehmen/schrutka-peukert-gmbh-baeckerei-metzgerei-objekteinrichtungen-kulmbach/"
+  ],
+  "notiz": "Bäckerei-/Metzgerei-Einrichtungen, ca. 116 MA, ca. 29 Mio € (Schätzung Datenbank)"
+ },
+ {
+  "organisation": "umdasch The Store Makers",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "beleg_url": [
+   "https://de.wikipedia.org/wiki/Umdasch"
+  ],
+  "notiz": "Konzern 1,93 Mrd € (2024); Großprojekte LEH"
+ },
+ {
+  "organisation": "Kesseböhmer Ladenbau",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "beleg_url": [
+   "https://de.wikipedia.org/wiki/Kesseb%C3%B6hmer_Metallwaren"
+  ],
+  "notiz": "Warenpräsentation/Ladenbausysteme"
+ },
+ {
+  "organisation": "Wanzl",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "beleg_url": [],
+  "notiz": "Kassenzonen/Eingangsanlagen (aus Vorab-Profil, ungeprüft)"
+ },
+ {
+  "organisation": "Ladenbau Hunold GmbH (Leinefelde-Worbis)",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "website": "https://ladenbau-hunold.de/",
+  "beleg_url": [
+   "https://ladenbau-hunold.de/ladenbau-erfurt/",
+   "https://ladenbau-hunold.de/ladenbau-hamburg/"
+  ],
+  "notiz": "Bäckerei-Ladenbau mit eigener Fertigung, Referenzen Bergmann, Sternenbäck, Helbing; bundesweite Montage"
+ },
+ {
+  "organisation": "Ernst Nestler & Söhne GmbH (ENS Ladenbau, Sachsen)",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "website": "https://www.ladenbau-nestler.de/",
+  "beleg_url": [
+   "https://www.ladenbau-nestler.de/"
+  ],
+  "notiz": "seit 1889, Bäckereien/Fleischereien Erzgebirge, Chemnitz, Döbeln, Cottbus"
+ },
+ {
+  "organisation": "Geisler Ladenbau GmbH (Berlin)",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "website": "https://geisler-ladenbau.de/",
+  "beleg_url": [
+   "https://geisler-ladenbau.de/leistungen/ladenbau.html"
+  ],
+  "notiz": "seit 1997, ca. 20 MA, eigene Fertigung, Bäckerei/Metzgerei/Supermarkt BE/BB, auch Kälte"
+ },
+ {
+  "organisation": "LINOVAG Ladenbau",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "website": "https://www.linovag.de/",
+  "beleg_url": [
+   "https://www.linovag.de/"
+  ],
+  "notiz": "EDEKA-Komplettmärkte (u. a. Dresden)"
+ },
+ {
+  "organisation": "Köcher Ladenbau (Bad Lausick)",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "beleg_url": [
+   "https://www.stepstone.de/cmp/de/k%c3%b6cher-ladenbau-zeltverleih-inh-manuel-k%c3%b6cher-5015303/jobs"
+  ],
+  "notiz": "Discountmarkt-Einrichtung, sucht Monteure"
+ },
+ {
+  "organisation": "Robobau / ObjektStation (Berlin)",
+  "typ": "Wettbewerber",
+  "segment": 0,
+  "beleg_url": [
+   "https://www.robobau.de/",
+   "https://objektstation.de/"
+  ],
+  "notiz": "Gastro-/Bäckerei-Innenausbau Berlin"
+ },
+ {
+  "organisation": "HANSE Ladenbau GmbH (insolvent)",
+  "typ": "Wettbewerber (ausscheidend)",
+  "segment": 0,
+  "beleg_url": [
+   "https://insolvenz-radar.de/firmeninsolvenz/hrb+5836/kavelstorf/n1206/"
+  ],
+  "notiz": "Verfahren eröffnet 31.07.2026, Masseunzulänglichkeit – Kunden/Personal verfügbar"
+ },
+ {
+  "organisation": "Großküchen-Fachhandel (Chefs Culinar Ost/Nord-Ost, Kunkel, KPC, Emmerich, Neltner, Herrmann-Rowedder, Püschel)",
+  "typ": "Wettbewerber/Partner (öffentlich)",
+  "segment": 6,
+  "beleg_url": [
+   "https://ted.europa.eu/de/notice/-/detail/"
+  ],
+  "notiz": "Gewinnen Mensa-/Kantinen-Küchentechnik-Lose (TED-Zuschläge 2021–2026)"
+ },
+ {
+  "organisation": "O.H.M. Objekteinrichtungen in Holz und Metall GmbH",
+  "typ": "Partner",
+  "segment": 0,
+  "website": "https://www.ohm-ladenbau.de/",
+  "beleg_url": [
+   "https://www.ohm-ladenbau.de/impressum/",
+   "https://www.linkedin.com/in/marcus-strube-2b2910335/"
+  ],
+  "notiz": "Fertigungspartner (Kirchlengern), SIGMA Handelsvertretung"
+ },
+ {
+  "organisation": "Liebherr Kühlmöbel-Service",
+  "typ": "Partner (potenziell)",
+  "segment": 0,
+  "beleg_url": [],
+  "notiz": "Kühlmöbel-Aufbereitung bei Umbauten (Index-Auszug, ungeprüft)"
+ },
+ {
+  "organisation": "Woodlife Team (Montage, Magdeburg)",
+  "typ": "Partner (potenziell)",
+  "segment": 0,
+  "beleg_url": [
+   "https://www.auftragsbank.de/suche-ladenbau/sachsen-anhalt/34085"
+  ],
+  "notiz": "Montagekapazität Ladenbau (Gesuch 01/2026)"
+ },
+ {
+  "organisation": "Pietrucha Bau GmbH (Nahversorgungszentrum Damsdorf)",
+  "typ": "Projektentwickler",
+  "segment": 7,
+  "beleg_url": [
+   "https://www.klosterlehnin.de/news/index.php?rubrik=1&news=915683&typ=1"
+  ],
+  "notiz": "Multifunktionales Nahversorgungszentrum, 10,3 Mio € (Stand unklar)"
+ },
+ {
+  "organisation": "WMG Wolfsburg (mit EDEKA MH, Dunantplatz)",
+  "typ": "Projektentwickler",
+  "segment": 7,
+  "beleg_url": [
+   "https://regionalheute.de/wolfsburg/hier-soll-ein-neuer-edeka-markt-entstehen-wolfsburg-1773335760/"
+  ],
+  "notiz": "LOI Lebensmittelmarkt mit Wohnen"
+ }
+]

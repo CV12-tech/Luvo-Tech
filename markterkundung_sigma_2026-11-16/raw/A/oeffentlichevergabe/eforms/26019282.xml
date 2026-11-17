@@ -1,0 +1,375 @@
+<ns9:ContractNotice xmlns:ns9="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:ns2="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:ns3="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ns4="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:ns5="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:ns6="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ns7="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:ns8="urn:oasis:names:specification:ubl:schema:xsd:PriorInformationNotice-2"><ns3:UBLVersionID>2.3</ns3:UBLVersionID><ns3:CustomizationID>eforms-sdk-0.1</ns3:CustomizationID><ns3:ID>26019282</ns3:ID><ns3:ContractFolderID/><ns3:VersionID>1</ns3:VersionID><ns3:RequestedPublicationDate>2026-11-09+01:00</ns3:RequestedPublicationDate><ns3:RegulatoryDomain>de-vob</ns3:RegulatoryDomain><ns3:NoticeTypeCode listName="competition">cn-standard</ns3:NoticeTypeCode><ns5:ContractingParty><ns5:Party><ns5:PartyName><ns3:Name>Universitätsklinikum Halle (Saale) AöR</ns3:Name></ns5:PartyName></ns5:Party></ns5:ContractingParty><ns5:TenderingProcess><ns3:ProcedureCode listName="procurement-procedure-type">de-open</ns3:ProcedureCode></ns5:TenderingProcess><ns5:ProcurementProject><ns3:Name>Zentrale Notaufnahme (2. Bauabschnitt) Umbau zentraler Tresen Tischlerarbeiten</ns3:Name><ns3:Description>a) Öffentlicher Auftraggeber (Vergabestelle)
+
+Name und Anschrift:
+Universitätsklinikum Halle (Saale) AöR
+Kiefernweg 34
+06120 Halle (Saale)
+Telefon:
++49 345 557 1110
+Fax:
++49 345 557 4979
+E-Mail:
+vergabezd14@uk-halle.de
+Internet:
+https://www.umh.de/
+
+b)
+
+Vergabeverfahren:
+Öffentliche Ausschreibung, VOB/A
+Vergabenummer:
+951946-34-STBP
+
+c) Angaben zum elektronischen Vergabeverfahren und zur Ver- und Entschlüsselung der Unterlagen
+
+Zugelassene Angebotsabgabe
+elektronisch
+in Textform
+mit fortgeschrittener/m Signatur/Siegel
+mit qualifizierter/m Signatur/Siegel
+
+d) Art des Auftrags
+
+Ausführung von Bauleistungen
+
+e) Ort der Ausführung
+
+Universitätsklinikum Halle (Saale) AöR
+Zentrale Notaufnahme (2. Bauabschnitt) - Umbau zentraler Tresen
+Ernst- Grube- Straße 40
+06120 Halle (Saale)
+
+f) Art und Umfang der Leistung, ggf. aufgeteilt nach Losen
+
+Art der Leistung:
+Tischlerarbeiten
+Umfang der Leistung:
+Lieferung und Montage von Rammschutz- und Kantenschutzsystemen einschließlich Wandverkleidungen und Spritzschutz
+Lieferung und Montage von Tischler- und Schreinerarbeiten einschließlich individueller Möbel- und Einbaulösungen
+Herstellung und Montage einer zentralen Tresenanlage als Pflegestützpunkt einschließlich Arbeits- und Ablageflächen, integrierter Beleuchtung und erforderlicher Unterkonstruktionen
+Lieferung und Montage von Fensterbänken und zusätzlichen Dokumentations- und Schreibflächen
+Herstellung und Montage einer Medikamentenaufbereitungsstrecke einschließlich Ober- und Unterschränken, Arbeitsplatte und erforderlichen Einbauten
+Lieferung und Montage höhenverstellbarer Schreibtische einschließlich Kabelmanagement und Klemmschutz
+Lieferung und Montage von Sitztraversen und Sitzgelegenheiten für den Wartebereich
+Lieferung und Montage von Vorhangsystemen einschließlich Deckenschienen als Sichtschutz
+Lieferung und Montage mobiler bzw. wandmontierter Trennwandsysteme einschließlich erforderlicher Halterungen und Befestigungselemente
+Durchführung sämtlicher erforderlicher Aufmaß-, Werkplanungs-, Detailplanungs- und Bemusterungsleistungen
+Abstimmung der Ausführung mit den beteiligten Gewerken, insbesondere Trockenbau, Maler, Elektro sowie Heizungs-, Lüftungs- und Sanitärtechnik (HLS)
+Berücksichtigung der hygienischen, brandschutztechnischen und funktionalen Anforderungen an den Krankenhausbetrieb, insbesondere hinsichtlich Reinigungsfähigkeit, Desinfektionsmittelbeständigkeit und mechanischer Belastbarkeit
+Fachgerechte Herstellung sämtlicher Anschlüsse, Befestigungen, Ausschnitte und Anschlussfugen einschließlich erforderlicher Nebenleistungen
+Bauabschnittsweise Durchführung der Arbeiten unter Aufrechterhaltung des laufenden Betriebs der Zentralen Notaufnahme
+Einhaltung der erforderlichen Hygiene-, Arbeits- und Sicherheitsvorschriften sowie der besonderen betrieblichen Anforderungen des Krankenhausbetriebs
+Rechtzeitige Abstimmung der Arbeitsabläufe und Montagezeiten mit dem Auftraggeber und der Bauleitung
+Einreichung und Übergabe sämtlicher erforderlicher Dokumentationen, technischer Datenblätter, Prüfzeugnisse, Klassifizierungsberichte, Zulassungen und Verwendbarkeitsnachweise
+Übergabe der Pflege- und Reinigungshinweise sowie der Nachweise zur Beständigkeit der verwendeten Oberflächen gegenüber den eingesetzten Desinfektionsmitteln
+
+g) Angaben über den Zweck der baulichen Anlage oder des Auftrags, wenn auch Planungsleistungen gefordert werden
+
+Zweck der baulichen Anlage:
+Zweck des Auftrags:
+
+h) Aufteilung in Lose (Art und Umfang der Lose siehe Buchstabe f)
+
+Vergabe nach Losen:
+Nein
+
+i) Ausführungsfristen
+
+Beginn der Ausführung:
+07.01.2027
+Fertigstellung oder Dauer der Leistungen:
+30.07.2027
+weitere Fristen:
+
+j) Nebenangebote
+
+nicht zugelassen
+
+k) mehrere Hauptangebote
+
+nicht zugelassen
+
+l) Bereitstellung/Anforderung der Vergabeunterlagen
+
+Vergabeunterlagen werden elektronisch zur Verfügung gestellt
+unter:
+https://www.evergabe.de/unterlagen/54321-Tender-1a1a6cbdea9-6aa3ca0f6630931
+Maßnahmen zum Schutz vertraulicher Informationen:
+Nein
+Nachforderung:
+Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden nachgefordert
+
+o) Ablauf der Angebotsfrist
+
+am:
+01.12.2026
+um:
+09:00 Uhr
+Ablauf der Bindefrist am:
+30.12.2026
+
+p)
+
+Adresse für elektronische Angebote (URL): https://www.evergabe.de
+Anschrift für schriftliche Angebote: -ENTFÄLLT- (es sind ausschließlich elektronische Angebote zugelassen)
+
+q) Sprache, in der die Angebote abgefasst sein müssen
+
+Deutsch
+
+r) Zuschlagskriterien
+
+siehe Vergabeunterlagen
+
+s) Eröffnungstermin
+
+Der Eröffnungstermin entfällt, es sind ausschließlich elektronische Angebote zugelassen.
+Ort:
+Kiefernweg 34, 06120 Halle (Saale)
+Personen, die bei der Eröffnung anwesend sein dürfen:
+keine
+
+t) geforderte Sicherheiten
+
+siehe Vergabeunterlagen
+
+u) Wesentliche Finanzierungs- und Zahlungsbedingungen und/oder Hinweise auf die maßgeblichen Vorschriften, in denen sie enthalten sind
+
+siehe Vergabeunterlagen
+
+v) Rechtsform der/Anforderung an Bietergemeinschaften
+
+Gesamtschuldnerisch haftend mit bevollmächtigten Vertreter
+
+w) Beurteilung der Eignung
+
+Präqualifizierte Unternehmen führen den Nachweis der Eignung durch den Eintrag in die Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis). Bei Einsatz von Nachunternehmen ist auf gesondertes Verlangen nachzuweisen, dass diese präqualifiziert sind oder die Voraussetzung für die Präqualifikation erfüllen.
+Nicht präqualifizierte Unternehmen haben als vorläufigen Nachweis der Eignung mit dem Angebot das ausgefüllte Formblatt ''Eigenerklärung zur Eignung'' vorzulegen. Bei Einsatz von Nachunternehmen sind auf gesondertes Verlangen die Eigenerklärungen auch für diese abzugeben. Sind die Nachunternehmen präqualifiziert, reicht die Angabe der Nummer, unter der diese in der Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis) geführt werden.
+Gelangt das Angebot in die engere Wahl, sind die Eigenerklärungen (auch die der Nachunternehmen) auf gesondertes Verlangen durch Vorlage der in der ''Eigenerklärung zur Eignung'' genannten Bescheinigungen zuständiger Stellen zu bestätigen. Bescheinigungen, die nicht in deutscher Sprache abgefasst sind, ist eine Übersetzung in die deutsche Sprache beizufügen.
+Das Formblatt 'Eigenerklärung zur Eignung' ist erhältlich:
+siehe Vergabeunterlagen
+Darüber hinaus hat der Bieter zum Nachweis seiner Fachkunde folgende Angaben gemäß § 6a Abs. 3 VOB/A zu machen:
+2 (zwei) vergleichbare Referenzvorhaben (gleichartige Leistungen, die "im laufenden Betrieb" und im Krankenhaus oder vergleichbaren Einrichtungen erbracht wurden), die innerhalb der letzten 5 (fünf) Kalenderjahre erbracht wurden
+Durchschnittlicher Jahresumsatz von 200.000 Euro innerhalb der letzten 3 (drei) abgeschlossenen Geschäftsjahre
+Der Nachweis erfolgt durch die Angaben in der Eigenerklärung zur Eignung. Bei Nicht-Einreichung der Eigenerklärung zur Eignung (beispielsweise bei Präqualifizierung) sind die Angaben auf einer gesonderten Unterlage einzureichen.
+Eingereichte Referenzbescheinigungen müssen folgende Mindestangaben enthalten: Projektbezeichnung (Titel), Auftraggeber mit Anschrift und Kontaktdaten, Umfang der realisierten (selbst ausgeführten) Leistungen, Angaben zur Termin- und Kostentreue. Referenzbescheinigungen sind im Format A4 auf maximal 2 Seiten auszuführen und müssen hinsichtlich der geforderten Anforderungen in Bezug auf die ausgeschriebene Leistung nachvollziehbar beschrieben, aussagekräftig und vollständig sein. Referenzbescheinigungen müssen durch den Auftraggeber ausgestellt sein. Werden durch den Auftraggeber keine Referenzbescheinigungen ausgestellt, ist ein Bestätigungsersatz durch aussagekräftige und überprüfbare Eigenerklärungen (Formblatt 444 - Referenzbescheinigung) mit den geforderten Angaben und der Benennung eines zuständigen Ansprechpartners des Auftraggebers zulässig.
+ACHTUNG:
+Präqualifizierte Unternehmen, die den Nachweis der Eignung und Fachkunde durch ihren Eintrag in ein Präqualifizierungsverzeichnis erbringen, haben die Aktualität, Vollständigkeit und insbesondere Vergleichbarkeit zu den geforderten Referenzvorhaben ihrer im Präqualifizierungsverzeichnis hinterlegten Referenzvorhaben sicherzustellen. Eine Nachforderung oder nachträgliche Einreichung der geforderten Referenzbescheinigungen ist nicht zulässig und führt zum Ausschluss von der Wertung (VK Sachsen-Anhalt, Beschluss vom 05.08.2020 - 3 VK LSA 27/20).
+Weitere Eignungsnachweise, die auf gesondertes Verlangen der Vergabestelle vorzulegen sind (siehe auch Vergabeunterlagen):
+Erklärung zur Zahl der in den letzten 3 Jahren jahresdurchschnittlich beschäftigten Arbeitskräfte, gegliedert nach Lohngruppen, mit extra ausgewiesenem Leitungspersonal
+Gewerbeanmeldung, Handelsregisterauszug und Eintragung in der Handwerksrolle (Handwerkskarte) bzw. bei der Industrie- und Handelskammer
+rechtskräftig bestätigter Insolvenzplan (falls eine Erklärung über das Vorliegen eines solchen Insolvenzplanes angegeben wurde)
+Unbedenklichkeitsbescheinigung der tariflichen Sozialkasse, falls das Unternehmen beitragspflichtig ist
+Unbedenklichkeitsbescheinigung des Finanzamtes bzw. Bescheinigung in Steuersachen, falls das Finanzamt eine solche Bescheinigung ausstellt
+Freistellungsbescheinigung nach § 48b Einkommenssteuergesetz
+Unbedenklichkeitsbescheinigung der Berufsgenossenschaft des zuständigen Versicherungsträgers mit Angabe der Lohnsummen
+Formblatt 223 - Aufgliederung der Einheitspreise
+Anmerkung 1:
+Die Nachweise müssen am Tag der Übergabe gültig sein.
+Anmerkung 2:
+Sollte der Bieter in einer vom Land Sachsen-Anhalt anerkannten Präqualifizierungsstelle für Lieferungen und Leistungen sowie Bauleistungen des Landes Sachsen-Anhalt gelistet sein, so kann eine entsprechende Bescheinigung eingereicht werden.
+Anmerkung 3:
+Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert waren, werden sowohl vom Bestbieter als auch parallel von nachrangigen Bietern nachgefordert. Die Nachforderung erfolgt über die Vergabeplattform. Nachgeforderte Unterlagen sind innerhalb von 7 (Sieben) Kalendertagen vorzulegen. Falls der Bieter beabsichtigt, Nachauftragnehmer einzusetzen, so sind auf gesondertes Verlangen der Vergabestelle auch alle Nachweise durch die Nachauftragnehmer vorzulegen. Eine ausbleibende oder nicht rechtzeitige Vorlage der geforderten Nachweise innerhalb der gesetzten Fristen führt zum Ausschluss von der Wertung (§ 16a Abs. 5 VOB/A).
+Anmerkung 4:
+Die Beantwortung von Bieterauskünften erfolgt bis 24.11.2026, 12:00 Uhr.
+
+x) Nachprüfung behaupteter Verstöße
+
+Nachprüfungsstelle (§ 21 VOB/A):
+Landesverwaltungsamt Sachsen-Anhalt
+Ernst-Kamieth-Straße 2
+06112 Halle (Saale)
+
+y) Sonstige Angaben
+
+keine
+
+
+Tischler/ Innenausbau/ Einbaumöbel,Möbel (Sonstige)</ns3:Description><ns5:MainCommodityClassification><ns3:ItemClassificationCode listName="cpv">45</ns3:ItemClassificationCode></ns5:MainCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">43</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">44</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">71</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:RealizedLocation><ns5:Address><ns3:CityName>06120 Halle (Saale)</ns3:CityName><ns3:CountrySubentityCode listName="nuts">DEE</ns3:CountrySubentityCode><ns5:Country><ns3:IdentificationCode listName="country">DEU</ns3:IdentificationCode></ns5:Country></ns5:Address></ns5:RealizedLocation></ns5:ProcurementProject><ns5:ProcurementProjectLot><ns3:ID schemeName="Lot">LOT-0000</ns3:ID><ns5:TenderingTerms><ns5:CallForTendersDocumentReference><ns3:ID>26019282</ns3:ID><ns3:DocumentType>non-restricted-document</ns3:DocumentType><ns5:Attachment><ns5:ExternalReference><ns3:URI>https://www.evergabe.de/auftraege/suche-ueber-vergabestellen/Universit%25C3%25A4tsklinikum%2520Halle%2520%2528Saale%2529%2520A%25C3%25B6R/3477983</ns3:URI></ns5:ExternalReference></ns5:Attachment></ns5:CallForTendersDocumentReference></ns5:TenderingTerms><ns5:TenderingProcess><ns5:TenderSubmissionDeadlinePeriod><ns3:EndDate>2026-12-01+01:00</ns3:EndDate><ns3:EndTime>09:00:00+01:00</ns3:EndTime></ns5:TenderSubmissionDeadlinePeriod></ns5:TenderingProcess><ns5:ProcurementProject><ns3:Name>Zentrale Notaufnahme (2. Bauabschnitt) Umbau zentraler Tresen Tischlerarbeiten</ns3:Name><ns3:Description>a) Öffentlicher Auftraggeber (Vergabestelle)
+
+Name und Anschrift:
+Universitätsklinikum Halle (Saale) AöR
+Kiefernweg 34
+06120 Halle (Saale)
+Telefon:
++49 345 557 1110
+Fax:
++49 345 557 4979
+E-Mail:
+vergabezd14@uk-halle.de
+Internet:
+https://www.umh.de/
+
+b)
+
+Vergabeverfahren:
+Öffentliche Ausschreibung, VOB/A
+Vergabenummer:
+951946-34-STBP
+
+c) Angaben zum elektronischen Vergabeverfahren und zur Ver- und Entschlüsselung der Unterlagen
+
+Zugelassene Angebotsabgabe
+elektronisch
+in Textform
+mit fortgeschrittener/m Signatur/Siegel
+mit qualifizierter/m Signatur/Siegel
+
+d) Art des Auftrags
+
+Ausführung von Bauleistungen
+
+e) Ort der Ausführung
+
+Universitätsklinikum Halle (Saale) AöR
+Zentrale Notaufnahme (2. Bauabschnitt) - Umbau zentraler Tresen
+Ernst- Grube- Straße 40
+06120 Halle (Saale)
+
+f) Art und Umfang der Leistung, ggf. aufgeteilt nach Losen
+
+Art der Leistung:
+Tischlerarbeiten
+Umfang der Leistung:
+Lieferung und Montage von Rammschutz- und Kantenschutzsystemen einschließlich Wandverkleidungen und Spritzschutz
+Lieferung und Montage von Tischler- und Schreinerarbeiten einschließlich individueller Möbel- und Einbaulösungen
+Herstellung und Montage einer zentralen Tresenanlage als Pflegestützpunkt einschließlich Arbeits- und Ablageflächen, integrierter Beleuchtung und erforderlicher Unterkonstruktionen
+Lieferung und Montage von Fensterbänken und zusätzlichen Dokumentations- und Schreibflächen
+Herstellung und Montage einer Medikamentenaufbereitungsstrecke einschließlich Ober- und Unterschränken, Arbeitsplatte und erforderlichen Einbauten
+Lieferung und Montage höhenverstellbarer Schreibtische einschließlich Kabelmanagement und Klemmschutz
+Lieferung und Montage von Sitztraversen und Sitzgelegenheiten für den Wartebereich
+Lieferung und Montage von Vorhangsystemen einschließlich Deckenschienen als Sichtschutz
+Lieferung und Montage mobiler bzw. wandmontierter Trennwandsysteme einschließlich erforderlicher Halterungen und Befestigungselemente
+Durchführung sämtlicher erforderlicher Aufmaß-, Werkplanungs-, Detailplanungs- und Bemusterungsleistungen
+Abstimmung der Ausführung mit den beteiligten Gewerken, insbesondere Trockenbau, Maler, Elektro sowie Heizungs-, Lüftungs- und Sanitärtechnik (HLS)
+Berücksichtigung der hygienischen, brandschutztechnischen und funktionalen Anforderungen an den Krankenhausbetrieb, insbesondere hinsichtlich Reinigungsfähigkeit, Desinfektionsmittelbeständigkeit und mechanischer Belastbarkeit
+Fachgerechte Herstellung sämtlicher Anschlüsse, Befestigungen, Ausschnitte und Anschlussfugen einschließlich erforderlicher Nebenleistungen
+Bauabschnittsweise Durchführung der Arbeiten unter Aufrechterhaltung des laufenden Betriebs der Zentralen Notaufnahme
+Einhaltung der erforderlichen Hygiene-, Arbeits- und Sicherheitsvorschriften sowie der besonderen betrieblichen Anforderungen des Krankenhausbetriebs
+Rechtzeitige Abstimmung der Arbeitsabläufe und Montagezeiten mit dem Auftraggeber und der Bauleitung
+Einreichung und Übergabe sämtlicher erforderlicher Dokumentationen, technischer Datenblätter, Prüfzeugnisse, Klassifizierungsberichte, Zulassungen und Verwendbarkeitsnachweise
+Übergabe der Pflege- und Reinigungshinweise sowie der Nachweise zur Beständigkeit der verwendeten Oberflächen gegenüber den eingesetzten Desinfektionsmitteln
+
+g) Angaben über den Zweck der baulichen Anlage oder des Auftrags, wenn auch Planungsleistungen gefordert werden
+
+Zweck der baulichen Anlage:
+Zweck des Auftrags:
+
+h) Aufteilung in Lose (Art und Umfang der Lose siehe Buchstabe f)
+
+Vergabe nach Losen:
+Nein
+
+i) Ausführungsfristen
+
+Beginn der Ausführung:
+07.01.2027
+Fertigstellung oder Dauer der Leistungen:
+30.07.2027
+weitere Fristen:
+
+j) Nebenangebote
+
+nicht zugelassen
+
+k) mehrere Hauptangebote
+
+nicht zugelassen
+
+l) Bereitstellung/Anforderung der Vergabeunterlagen
+
+Vergabeunterlagen werden elektronisch zur Verfügung gestellt
+unter:
+https://www.evergabe.de/unterlagen/54321-Tender-1a1a6cbdea9-6aa3ca0f6630931
+Maßnahmen zum Schutz vertraulicher Informationen:
+Nein
+Nachforderung:
+Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden nachgefordert
+
+o) Ablauf der Angebotsfrist
+
+am:
+01.12.2026
+um:
+09:00 Uhr
+Ablauf der Bindefrist am:
+30.12.2026
+
+p)
+
+Adresse für elektronische Angebote (URL): https://www.evergabe.de
+Anschrift für schriftliche Angebote: -ENTFÄLLT- (es sind ausschließlich elektronische Angebote zugelassen)
+
+q) Sprache, in der die Angebote abgefasst sein müssen
+
+Deutsch
+
+r) Zuschlagskriterien
+
+siehe Vergabeunterlagen
+
+s) Eröffnungstermin
+
+Der Eröffnungstermin entfällt, es sind ausschließlich elektronische Angebote zugelassen.
+Ort:
+Kiefernweg 34, 06120 Halle (Saale)
+Personen, die bei der Eröffnung anwesend sein dürfen:
+keine
+
+t) geforderte Sicherheiten
+
+siehe Vergabeunterlagen
+
+u) Wesentliche Finanzierungs- und Zahlungsbedingungen und/oder Hinweise auf die maßgeblichen Vorschriften, in denen sie enthalten sind
+
+siehe Vergabeunterlagen
+
+v) Rechtsform der/Anforderung an Bietergemeinschaften
+
+Gesamtschuldnerisch haftend mit bevollmächtigten Vertreter
+
+w) Beurteilung der Eignung
+
+Präqualifizierte Unternehmen führen den Nachweis der Eignung durch den Eintrag in die Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis). Bei Einsatz von Nachunternehmen ist auf gesondertes Verlangen nachzuweisen, dass diese präqualifiziert sind oder die Voraussetzung für die Präqualifikation erfüllen.
+Nicht präqualifizierte Unternehmen haben als vorläufigen Nachweis der Eignung mit dem Angebot das ausgefüllte Formblatt ''Eigenerklärung zur Eignung'' vorzulegen. Bei Einsatz von Nachunternehmen sind auf gesondertes Verlangen die Eigenerklärungen auch für diese abzugeben. Sind die Nachunternehmen präqualifiziert, reicht die Angabe der Nummer, unter der diese in der Liste des Vereins für die Präqualifikation von Bauunternehmen e.V. (Präqualifikationsverzeichnis) geführt werden.
+Gelangt das Angebot in die engere Wahl, sind die Eigenerklärungen (auch die der Nachunternehmen) auf gesondertes Verlangen durch Vorlage der in der ''Eigenerklärung zur Eignung'' genannten Bescheinigungen zuständiger Stellen zu bestätigen. Bescheinigungen, die nicht in deutscher Sprache abgefasst sind, ist eine Übersetzung in die deutsche Sprache beizufügen.
+Das Formblatt 'Eigenerklärung zur Eignung' ist erhältlich:
+siehe Vergabeunterlagen
+Darüber hinaus hat der Bieter zum Nachweis seiner Fachkunde folgende Angaben gemäß § 6a Abs. 3 VOB/A zu machen:
+2 (zwei) vergleichbare Referenzvorhaben (gleichartige Leistungen, die "im laufenden Betrieb" und im Krankenhaus oder vergleichbaren Einrichtungen erbracht wurden), die innerhalb der letzten 5 (fünf) Kalenderjahre erbracht wurden
+Durchschnittlicher Jahresumsatz von 200.000 Euro innerhalb der letzten 3 (drei) abgeschlossenen Geschäftsjahre
+Der Nachweis erfolgt durch die Angaben in der Eigenerklärung zur Eignung. Bei Nicht-Einreichung der Eigenerklärung zur Eignung (beispielsweise bei Präqualifizierung) sind die Angaben auf einer gesonderten Unterlage einzureichen.
+Eingereichte Referenzbescheinigungen müssen folgende Mindestangaben enthalten: Projektbezeichnung (Titel), Auftraggeber mit Anschrift und Kontaktdaten, Umfang der realisierten (selbst ausgeführten) Leistungen, Angaben zur Termin- und Kostentreue. Referenzbescheinigungen sind im Format A4 auf maximal 2 Seiten auszuführen und müssen hinsichtlich der geforderten Anforderungen in Bezug auf die ausgeschriebene Leistung nachvollziehbar beschrieben, aussagekräftig und vollständig sein. Referenzbescheinigungen müssen durch den Auftraggeber ausgestellt sein. Werden durch den Auftraggeber keine Referenzbescheinigungen ausgestellt, ist ein Bestätigungsersatz durch aussagekräftige und überprüfbare Eigenerklärungen (Formblatt 444 - Referenzbescheinigung) mit den geforderten Angaben und der Benennung eines zuständigen Ansprechpartners des Auftraggebers zulässig.
+ACHTUNG:
+Präqualifizierte Unternehmen, die den Nachweis der Eignung und Fachkunde durch ihren Eintrag in ein Präqualifizierungsverzeichnis erbringen, haben die Aktualität, Vollständigkeit und insbesondere Vergleichbarkeit zu den geforderten Referenzvorhaben ihrer im Präqualifizierungsverzeichnis hinterlegten Referenzvorhaben sicherzustellen. Eine Nachforderung oder nachträgliche Einreichung der geforderten Referenzbescheinigungen ist nicht zulässig und führt zum Ausschluss von der Wertung (VK Sachsen-Anhalt, Beschluss vom 05.08.2020 - 3 VK LSA 27/20).
+Weitere Eignungsnachweise, die auf gesondertes Verlangen der Vergabestelle vorzulegen sind (siehe auch Vergabeunterlagen):
+Erklärung zur Zahl der in den letzten 3 Jahren jahresdurchschnittlich beschäftigten Arbeitskräfte, gegliedert nach Lohngruppen, mit extra ausgewiesenem Leitungspersonal
+Gewerbeanmeldung, Handelsregisterauszug und Eintragung in der Handwerksrolle (Handwerkskarte) bzw. bei der Industrie- und Handelskammer
+rechtskräftig bestätigter Insolvenzplan (falls eine Erklärung über das Vorliegen eines solchen Insolvenzplanes angegeben wurde)
+Unbedenklichkeitsbescheinigung der tariflichen Sozialkasse, falls das Unternehmen beitragspflichtig ist
+Unbedenklichkeitsbescheinigung des Finanzamtes bzw. Bescheinigung in Steuersachen, falls das Finanzamt eine solche Bescheinigung ausstellt
+Freistellungsbescheinigung nach § 48b Einkommenssteuergesetz
+Unbedenklichkeitsbescheinigung der Berufsgenossenschaft des zuständigen Versicherungsträgers mit Angabe der Lohnsummen
+Formblatt 223 - Aufgliederung der Einheitspreise
+Anmerkung 1:
+Die Nachweise müssen am Tag der Übergabe gültig sein.
+Anmerkung 2:
+Sollte der Bieter in einer vom Land Sachsen-Anhalt anerkannten Präqualifizierungsstelle für Lieferungen und Leistungen sowie Bauleistungen des Landes Sachsen-Anhalt gelistet sein, so kann eine entsprechende Bescheinigung eingereicht werden.
+Anmerkung 3:
+Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert waren, werden sowohl vom Bestbieter als auch parallel von nachrangigen Bietern nachgefordert. Die Nachforderung erfolgt über die Vergabeplattform. Nachgeforderte Unterlagen sind innerhalb von 7 (Sieben) Kalendertagen vorzulegen. Falls der Bieter beabsichtigt, Nachauftragnehmer einzusetzen, so sind auf gesondertes Verlangen der Vergabestelle auch alle Nachweise durch die Nachauftragnehmer vorzulegen. Eine ausbleibende oder nicht rechtzeitige Vorlage der geforderten Nachweise innerhalb der gesetzten Fristen führt zum Ausschluss von der Wertung (§ 16a Abs. 5 VOB/A).
+Anmerkung 4:
+Die Beantwortung von Bieterauskünften erfolgt bis 24.11.2026, 12:00 Uhr.
+
+x) Nachprüfung behaupteter Verstöße
+
+Nachprüfungsstelle (§ 21 VOB/A):
+Landesverwaltungsamt Sachsen-Anhalt
+Ernst-Kamieth-Straße 2
+06112 Halle (Saale)
+
+y) Sonstige Angaben
+
+keine
+
+
+Tischler/ Innenausbau/ Einbaumöbel,Möbel (Sonstige)</ns3:Description><ns5:MainCommodityClassification><ns3:ItemClassificationCode listName="cpv">45</ns3:ItemClassificationCode></ns5:MainCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">43</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">44</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:AdditionalCommodityClassification><ns3:ItemClassificationCode listName="cpv">71</ns3:ItemClassificationCode></ns5:AdditionalCommodityClassification><ns5:RealizedLocation><ns5:Address><ns3:CityName>06120 Halle (Saale)</ns3:CityName><ns3:CountrySubentityCode listName="nuts">DEE</ns3:CountrySubentityCode><ns5:Country><ns3:IdentificationCode listName="country">DEU</ns3:IdentificationCode></ns5:Country></ns5:Address></ns5:RealizedLocation></ns5:ProcurementProject></ns5:ProcurementProjectLot></ns9:ContractNotice>

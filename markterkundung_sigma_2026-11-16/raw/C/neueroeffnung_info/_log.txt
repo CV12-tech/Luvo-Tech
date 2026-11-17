@@ -1,0 +1,4 @@
+supermaerkte 12
+baeckereien 12
+geruechte 12
+fertig 36

@@ -1,0 +1,54 @@
+# Konfiguration für scout.py – Markterkundung SIGMA Ladenbau
+# Empfohlener Rhythmus: Module A/B/C wöchentlich, D monatlich (siehe Bericht)
+
+ausgabe_ordner: ./laeufe            # je Lauf ein Unterordner JJJJ-MM-TT
+zustand_datei: ./laeufe/_zustand.json   # bekannte IDs für den Diff-Report
+
+region:
+  # Stufenplan (02a_umsetzungs_stufenplan.md)
+  nuts:
+    stufe_1: [DEE, DE3, DE4]            # ST, BE, BB
+    stufe_2: [DED, DEG, DE91, DE92]     # SN, TH, NI-Ost
+    stufe_3: [DE8, DE6, DEF, DE5, DE93, DE94, DE7]   # MV, HH, SH, HB, NI-West, HE
+  filter_klasse:                         # in Stufe 2 nur ab B, in Stufe 3 nur A melden
+    stufe_1: C
+    stufe_2: B
+    stufe_3: A
+
+modul_a:
+  ted:
+    aktiv: true
+    api: https://api.ted.europa.eu/v3/notices/search
+    tage_rueckblick: 14                  # wöchentlicher Lauf + Puffer
+    cpv: [39154000, 39154100, 39150000, 39151000, 39151100, 39151200, 39141000, 39141300, 39221000,
+          39221100, 39221110, 39314000, 39711130, 39711100, 42513000, 42513200, 45421153, 45421150,
+          45421000, 39100000, 79933000, 79930000, 39312000, 39312100, 39312200]
+    volltext: [Ladenbau, Ladeneinrichtung, Bedientheke, Ausgabetheke, Thekenanlage, Theke, Cafeteria,
+               Mensa, Speisenausgabe, Ausgabeanlage, Backshop, Kühltheke, Free-Flow, Shopeinrichtung,
+               Kiosk, Verkaufstheke, Kassenzone, Dorfladen, Markthalle, Museumsshop]
+  oeffentlichevergabe:
+    aktiv: true
+    export_url: https://oeffentlichevergabe.de/api/notice-exports?pubDay={tag}&format=ocds.zip
+    detail_url: https://oeffentlichevergabe.de/api/notices/{id}?format=eforms
+    tage_rueckblick: 8
+  min_leistungs_fit: 16                  # Relevanzfilter (scripts/relevanz.py)
+
+modul_c:
+  neueroeffnung_info:
+    aktiv: true
+    seeds_datei: raw/C/neueroeffnung_info/_seeds.txt
+    max_seiten: 600                      # Schneeball je Lauf (1 Anfrage/s)
+    kategorien: [supermaerkte, baeckereien, geruechte]
+  rss:                                   # optionale Pressefeeds (öffentlich), Keyword-Filter unten
+    aktiv: false
+    feeds: []
+  keywords_signal: [Neueröffnung, Wiedereröffnung, Umbau, Modernisierung, Abriss, Neubau, Bebauungsplan,
+                    übernimmt, Kaufmann, Kauffrau, Insolvenz, Eigenverwaltung, Dorfladen, Backshop, Fleischtheke]
+
+modul_d:
+  osm:
+    aktiv: false                         # monatlich: Germany-Extrakt (~6 GB) von download.openstreetmap.fr
+    extrakt_url: https://download.openstreetmap.fr/extracts/europe/germany-latest.osm.pbf
+
+rate_limit_sekunden: 1.0
+user_agent: "markterkundung-scout/1.0"

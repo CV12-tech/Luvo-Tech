@@ -1,0 +1,1317 @@
+<ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:defext="german-eforms-extension" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:Changes>
+                  <efbc:ChangedNoticeIdentifier>aa8ed1e3-ace9-46c2-b85c-d030f8c0764b-01</efbc:ChangedNoticeIdentifier>
+                  <efac:ChangeReason>
+                     <cbc:ReasonCode listName="change-corrig-justification">update-add</cbc:ReasonCode>
+                     <efbc:ReasonDescription languageID="DEU">Zur Sicherstellung einer verhältnismäßigen Eignungsprüfung wurden die Umsatzanforderungen, der maximal geforderte Mindest-Jahresumsätze der Lose 1-4 an die unterschiedliche Auftragswerte der Lose je Los angepasst.</efbc:ReasonDescription>
+                  </efac:ChangeReason>
+               </efac:Changes>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.langenhagen.de</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Stadt Langenhagen</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Marktplatz 1</cbc:StreetName>
+                           <cbc:CityName>Langenhagen</cbc:CityName>
+                           <cbc:PostalZone>30853</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>Leitweg-ID 032410010010-0-90</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>040 236000-929</cbc:Telephone>
+                           <cbc:ElectronicMail>j.strauss@convis.com</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Vergabekammer Niedersachsen beim Nds. Ministerium für Wirtschaft, Arbeit, Verkehr und Digit.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Auf der Hude 2</cbc:StreetName>
+                           <cbc:CityName>Lündeburg</cbc:CityName>
+                           <cbc:PostalZone>21339</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE935</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>t:04131153308</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>vergabekammer@mw.niedersachsen.de</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            </efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-de-2.1</cbc:CustomizationID>
+   <cbc:ProfileID>eforms-sdk-1.14</cbc:ProfileID>
+   <cbc:ID schemeName="notice-id">44fce19b-1b1a-4aa7-904d-b66105e22cec</cbc:ID>
+   <cbc:ContractFolderID>b3c0c4d6-9144-468b-ba89-c1390e2fa4e7</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-11-06+01:00</cbc:IssueDate>
+   <cbc:IssueTime>14:52:08+01:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2026-11-06+01:00</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode>DEU</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">koerp-oer-kommun</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>vob-a-eu</cbc:ID>
+      </cac:ProcurementLegislationDocumentReference>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">distorsion</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Betrug oder Subventionsbetrug; Bildung krimineller Vereinigungen; Bildung terroristischer  Vereinigungen; Einstellung der beruflichen Tätigkeit; Geldwäsche oder Terrorismusfinanzierung;  
+Insolvenz; Interessenkonflikt; Menschenhandel, Zwangsprostitution, Zwangsarbeit oder Ausbeutung;  Mit Insolvenz vergleichbares Verfahren; Rein nationale Ausschlussgründe; Schwere Verfehlung;  
+Täuschung oder unzulässige Beeinflussung des Vergabeverfahrens; Verstöße gegen  
+arbeitsrechtliche Verpflichtungen; Verstöße gegen sozialrechtliche Verpflichtungen; Verstöße gegen  umweltrechtliche Verpflichtungen; Verstöße gegen Verpflichtungen zur Zahlung von  
+Sozialversicherungsbeiträgen; Verstöße gegen Verpflichtungen zur Zahlung von Steuern oder  
+Abgaben; Wettbewerbsbeschränkende Vereinbarungen; Wettbewerbsverzerrung wegen  
+Vorbefassung; Zahlungsunfähigkeit</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:LotDistribution>
+         <cbc:MaximumLotsAwardedNumeric>4</cbc:MaximumLotsAwardedNumeric>
+         <cbc:MaximumLotsSubmittedNumeric>4</cbc:MaximumLotsSubmittedNumeric>
+      </cac:LotDistribution>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">true</cbc:ProcessReasonCode>
+         <cbc:ProcessReason languageID="DEU">Gemäß § 10 Abs. 1 VOB/A kann die Angebotsfrist bei besonderen Dringlichkeiten verkürzt werden, wenn dies objektiv erforderlich ist und die Frist noch eine ordnungsgemäße Angebotsabgabe ermöglicht. Im vorliegenden Fall sind die Voraussetzungen für eine Fristverkürzung erfüllt: Die bisherigen 5 Ausschreibungsverfahren mussten mangels wertbarer Angebote aufgehoben werden. Die Tischler Innenausbauleistungen sind für den Baufortschritt von zentraler Bedeutung. Ohne deren zeitnahe Beauftragung droht ein Baustopp, der zu gravierenden Bauablaufstörungen führen wird. Ein Baustopp würde zu erheblichen Mehrkosten in den Schnittstellengewerken (z. B. Innenausbau, Haustechnik) führen, da Gewerke ihre Arbeiten nicht fortsetzen könnten und zusätzliche Stillstandskosten anfallen würden. Eine weitere Verzögerung gefährdet den Fertigstellungstermin des Bauvorhabens. Im konkreten Fall besteht die Gefahr, dass die geplante Schuleröffnung nicht rechtzeitig erfolgen kann, was zu Unterrichtsausfall und organisatorischen Problemen für die Kommune führt. Die Dringlichkeit ist somit nicht selbstverschuldet, sondern ergibt sich aus einer außergewöhnlichen und unvorhersehbaren Entwicklung im Vergabeprozess. Unter Abwägung aller entscheidungsrelevanten Umstände wird die Verkürzung der Angebotsfrist auf 17 Kalendertage als erforderlich und vergaberechtlich zulässig angesehen, um den Baufortschritt sicherzustellen, wirtschaftliche Nachteile abzuwenden und den geplanten Inbetriebnahmetermin der Schule zu gewährleisten</cbc:ProcessReason>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="DEU">IGS SÜD</cbc:Name>
+      <cbc:Description languageID="DEU">Die Stadt Langenhagen beabsichtigt den Umbau, die Sanierung und die Erweiterung durch Neubauten der bestehenden Brinker Schule an der Angerstraße 12 in 30851 Langenhagen. Im ersten Bauabschnitt werden das Gebäude Forum (3.086 m² BGF), die Sekundarstufe 1 (10.184 m² BGF), die Dreifeldsporthalle (3.020 m² BGF) und die Heizzentrale gebaut. Im zweiten Bauabschnitt erfolgen die Sanierungs- und Umbaumaßnahmen. Forum: 2-geschossiger rechteckiger Baukörper mit Hauptküche und Mensa sowie zwei Lehrküchen, Aula und Musikräumen; Sekundarstufe 1: 5-zügige Grundschule als dreigeschossiger Bau mit zentralem Innenhof, Lernhäfen mit angrenzenden Klassen- und Differenzierungsräumen, sowie Lehrerstationen und Sanitärkerne; das Gebäude teilt sich in zwei Brandabschnitte mittels innerer Brandwand; 3-Feld-Sporthalle: Schul- und Vereinssporthalle; Umkleide- und Nasszellenbereich, sowie übrige Nebenräume im EG; Technikbereich, sowie Multifunktions- und Theorieraum im 1. OG; Tribünenbereich über die gesamte Sporthallenbreite im 1. OG oberhalb der Geräte-, Regieräume und Hausanschlussraum Heizhaus: Heizzentrale mit ca. 670 kW; über Heizzentrale werden zukünftig auch die Bestandsgebäude mit Wärme versorgt</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">works</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">44220000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">45421160</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">45421000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="DEU">1. Rügen sind ausschließlich an den unter ORG-0001 genannten Auftraggeber zu  
+senden.  2. Im Vergabeverfahren werden nur elektronische Kommunikationsmittel  
+zugelassen.  3. Werden im Vergabeverfahren Bescheinigungen von Auftraggebern oder  
+amtlichen Stellen  gefordert, sind sie - soweit sie nicht in Deutsch verfasst wurden- inklusive 
+einer beglaubigten deutschsprachigen Übersetzung einzureichen. 4. Wegen der  
+Erklärungen  und der Nachweisführung und der Nachweispflichten gilt § 6b EU VOB/A. 5. Der  
+Bieter/Bewerber,  der sich wegen der Nichtvorlage von Nachweisen auf § 6b EU Abs. 3, 2. Alt.  
+VOB/A beruft, muss angeben, in welchem Verfahren und wann die Vergabestelle bereits in 
+den Besitz  der Nachweise gekommen ist. 6. Die fehlende Eignung oder die fehlende  
+technische  und/oder Leistungsfähigkeit oder das Vorliegen von Ausschlussgründen eines  
+benannten Nachunternehmers führt zum Ausschluss des Angebots des Bieters/Bewerbers.  
+Der Bieter/Bewerber ist berechtigt, einen benannten Nachunternehmer auszutauschen, wenn 
+dieser die geforderten Erklärungen/Nachweise nicht erbringt und/oder bei ihm 
+Ausschlussgründe gem. § 6e EU Abs. 1 bis 5 VOB/A vorliegen und die Vergabestelle das 
+Angebot deshalb  
+ausschließen will. Der neue Nachunternehmer ist unter Vorlage der Nachweise/Erklärungen  
+betr. den neuen Nachunternehmer innerhalb von 6 Werktagen nach Mitteilung der  
+Vergabestelle zu benennen. Ein Austausch des neuen Nachunternehmers entsprechend dem  
+Vorstehenden ist nicht zulässig. Alternativ kann der Bieter/Bewerber innerhalb der 
+vorstehenden</cbc:Description>
+         <cac:Address>
+            <cbc:StreetName>Angerstraße 12  </cbc:StreetName>
+            <cbc:CityName>Langenhagen</cbc:CityName>
+            <cbc:PostalZone>30851</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-ins</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Nachweis über das Bestehen einer  
+Berufshaftpflichtversicherung (§ 6a EU Nr. 2a VOB/A)  
+/ Betriebshaftpflichtversicherung; Deckungssumme mind. EUR 3 Mio.  
+jeweils für Personen-  
+und sonstige Schäden (Sach- und Vermögensschäden) oder Zusage eines  
+Versicherungsunternehmens,  
+wonach die Deckungssummen im Auftragsfalle auf EUR 3 Mio. erhöht  
+werden können. (Siehe  
+auch Formblatt 216_Verzeichnis vorzulegende Unterlagen).</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über den Umsatz des Bieters/Bewerbers jeweils  
+bezogen auf die letzten drei  abgeschlossenen Geschäftsjahre, soweit er Bauleistungen und 
+andere Leistungen betrifft, die mit der zu vergebenden Leistung vergleichbar sind, unter 
+Einschluss des Anteils bei gemeinsam mit anderen Unternehmen ausgeführten Aufträgen (§ 
+6a EU Nr. 2c VOB/A).  // Mindeststandard: Mindestumsatz in Höhe von 184.000 € netto  
+durchschnittlich (gemittelt) in jedem Geschäftsjahr. // Hinweise zu Ziff. 2: a) Als die  
+„letzten 3 abgeschlossenen Geschäftsjahre“ gelten nur die 3 Kalenderjahre, die dem  
+Jahr der  Veröffentlichung der Auftragsbekanntmachung vorhergehen (Beispiel:  
+Veröffentlichung  im Jahr 2020: die „letzten 3 abgeschlossenen Geschäftsjahre“ sind die Jahre  
+2017, 2018 und 2019); b) präqualifizierte Bieter/Bewerber haben in eigener  
+Verantwortung zu prüfen, ob diese „letzten 3 abgeschlossenen Geschäftsjahre“ für sie (und  
+ggf. ihre Nachunternehmer) im Präqualifikationsverzeichnis dokumentiert sind und  
+
+
+ggf. dort nicht  dokumentierte Erklärungen/Nachweise vorzulegen. // Hinweise zu  
+Wirtschaftliche und  finanzielle Leistungsfähigkeit: a) Nimmt der Bewerber/Bieter im Hinblick  
+auf die Kriterien für die wirtschaftliche und finanzielle Leistungsfähigkeit die  
+Kapazitäten  anderer Unternehmen in Anspruch, behält sich der Auftraggeber vor, zu  
+verlangen, dass Bewerber/Bieter und diese Unternehmen gemeinsam für die  
+Auftragsausführung haften (§ 6d EU Abs. 2 VOB/A). b) Wenn der Bieter/Bewerber den Einsatz 
+von  Nachunternehmern  
+beabsichtigt, sind für jeden Nachunternehmer auf Verlangen der  
+Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 und 2 (Siehe auch 
+Formblatt 216_Verzeichnis vorzulegende Unterlagen). c) Mindeststandard bei 
+Nachunternehmereinsatz   in Bezug  auf dessen wirtschaftliche und finanzielle 
+Leistungsfähigkeit: Der Mindestumsatz des  Nachunternehmers muss in den letzten 3 
+abgeschlossen Geschäftsjahren durchschnittlich  
+(gemittelt) mindestens den Wert des Auftragsteils, dessen Abarbeitung dem  
+Nachunternehmer  
+übertragen werden soll, betragen. (durchschnittlicher(gemittelter) Umsatz  
+pro Geschäftsjahr  
+des NU: min.50.500 € netto). // Bitte auch Hinweise unter “Zusätzliche Angaben“  
+(5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Angaben über die Ausführung von Leistungen in den  
+letzten bis zu fünf abgeschlossenen Kalenderjahren, die mit der zu vergebenden Leistung 
+vergleichbar sind (§ 6a EU Nr.  3a VOB/A). // Mindeststandard: 1 vergleichbares 
+Referenzobjekte // Hinweise zu  Ziff. 1.: a) Vergleichbar sind Leistungen, die den 
+ausgeschriebenen  Leistungen inhaltlich im Wesentlichen entsprechen und einen Auftragswert von mindestens 
+netto       50.750 ,- €  Netto  haben. b) Die Vergabestelle behält sich vor, Nachweise zu 
+verlangen,  insbesondere über die ordnungsgemäße Ausführung und das Ergebnis der Bauleistungen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 1 bis 4 VOB/A  
+vorliegen und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A.  
+Die Vergabestelle behält sich vor, geeignete Nachweise (insbesondere  
+Erklärung des zuständigen Finanzamtes und Freistellungsbescheinigung nach § 48b EStG  
+wegen der Verpflichtung  zur Zahlung von Steuern und Abgabe und/oder Erklärungen der 
+Träger der  Sozialversicherung wegen der Verpflichtung zur Zahlung von Beiträgen zur  
+Sozialversicherung)  zu verlangen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 6 VOB/A vorliegen  
+und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A. Die  
+Vergabestelle behält sich vor, Nachweise zu verlangen.  
+Kriterium: Anteil der Unterauftragsvergabe 
+Beschreibung: Angabe, welche Teile des Auftrags der Unternehmer unter  
+Umständen als Unteraufträge  zu vergeben beabsichtigt (§ 6a EU Nr. 3i VOB/A)</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-subc</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Nachunternehmer: a) Wenn der Bieter/Bewerber den  
+Einsatz von Nachunternehmern beabsichtigt,  
+sind für jeden Nachunternehmer auf gesondertes Verlangen der  
+Vergabestelle vorzulegen:  
+Nachweise/Erklärungen zu vorstehend Ziff. 1 bis 4.;  
+Verpflichtungserklärung und Erklärung/Vereinbarung  
+über die Einhaltung von Mindestlohnvorschriften u.a. (vergl.  
+Vergabeunterlagen).   
+b) Mindeststandard bei Nachunternehmereinsatz in Bezug auf dessen  
+technische und berufliche  
+Leistungsfähigkeit (nachzuweisen auf Anforderung der Vergabestelle): 
+keine oder Mindeststandard:  
+(3) vergleichbare Referenzobjekte // Vergleichbar sind Leistungen, die  
+den an den Nachunternehmer zu übertragenden Leistungen inhaltlich im  
+Wesentlichen entsprechen  
+und einen Auftragswert von mindestens 50% des Wertes des Auftragsteils  
+(gem. Angebot)  
+haben, dessen Abarbeitung dem Nachunternehmer übertragen werden soll.  
+Die Vergabestelle  
+behält sich vor, Nachweise zu verlangen, insbesondere über die  
+ordnungsgemäße Ausführung  
+und das Ergebnis der wichtigsten Bauleistungen. (Beispiel: Übertragene  
+Leistung an  
+NU: 200.000,- € netto = Referenz: NU: 100.000,- € netto) // Bitte auch  
+Hinweise  
+unter “Zusätzliche Angaben“ (5.1.6) beachten</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über die Eintragung des Bieters/Bewerbers in das   
+Berufs- oder Handelsregister  
+oder der Handwerksrolle ihres Sitzes oder Wohnsitzes (§ 6a EU Nr. 1  
+VOB/A).// Die  Vergabestelle behält sich vor, einen Nachweis zu verlangen (Siehe auch  
+Formblatt 216_Verzeichnis  vorzulegender Unterlagen). // Wenn der Bieter/Bewerber den 
+Einsatz von Nachunternehmern beabsichtigt, sind für jeden Nachunternehmer auf 
+gesondertes Verlangen  der Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 // Bitte auch  
+Hinweise unter “Zusätzliche Angaben“ (5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E81884784</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E81884784</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-some</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden teilweise nachgefordert, und zwar folgende Unterlagen: gem. § 16a EU VOB/A</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="DEU">100% Preis</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E81884784</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="DAY">60</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-11-16+01:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+01:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-11-16+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>13:00:00+01:00</cbc:OccurrenceTime>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0001 300.01.19 - Tischler Innenausbau</cbc:ID>
+         <cbc:Name languageID="DEU">Tischlerarbeiten Innenausbau - IGS SÜD für die Gebäude Forum, Sekundarstufe 1 und Sporthalle.</cbc:Name>
+         <cbc:Description languageID="DEU">Das vorliegende Los umfasst im Wesentlichen die Tischlerarbeiten für den 
+Neubau IGS-Süd in Langenhagen für die Gebäude Forum, Sekundarstufe 1 und Sporthalle.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">works</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="DEU">#Besonders auch geeignet für:freelance#, #Besonders auch geeignet für:startup#, #Besonders auch geeignet für:other-sme#, #Besonders auch geeignet für:selbst#</cbc:Note>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45421000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Angerstraße 12  </cbc:StreetName>
+               <cbc:CityName>Langenhagen</cbc:CityName>
+               <cbc:PostalZone>30851</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DescriptionCode listName="timeperiod">UNKNOWN</cbc:DescriptionCode>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-ins</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Nachweis über das Bestehen einer  
+Berufshaftpflichtversicherung (§ 6a EU Nr. 2a VOB/A)  
+/ Betriebshaftpflichtversicherung; Deckungssumme mind. EUR 3 Mio.  
+jeweils für Personen-  
+und sonstige Schäden (Sach- und Vermögensschäden) oder Zusage eines  
+Versicherungsunternehmens,  
+wonach die Deckungssummen im Auftragsfalle auf EUR 3 Mio. erhöht  
+werden können. (Siehe  
+auch Formblatt 216_Verzeichnis vorzulegende Unterlagen).</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über den Umsatz des Bieters/Bewerbers jeweils  
+bezogen auf die letzten drei  abgeschlossenen Geschäftsjahre, soweit er Bauleistungen und 
+andere Leistungen betrifft, die mit der zu vergebenden Leistung vergleichbar sind, unter 
+Einschluss des Anteils bei gemeinsam mit anderen Unternehmen ausgeführten Aufträgen (§ 
+6a EU Nr. 2c VOB/A).  // Mindeststandard: Mindestumsatz in Höhe von 246.000 € netto  
+durchschnittlich (gemittelt) in jedem Geschäftsjahr. // Hinweise zu Ziff. 2: a) Als die  
+„letzten 3 abgeschlossenen Geschäftsjahre“ gelten nur die 3 Kalenderjahre, die dem  
+Jahr der  Veröffentlichung der Auftragsbekanntmachung vorhergehen (Beispiel:  
+Veröffentlichung  im Jahr 2020: die „letzten 3 abgeschlossenen Geschäftsjahre“ sind die Jahre  
+2017, 2018 und 2019); b) präqualifizierte Bieter/Bewerber haben in eigener  
+Verantwortung zu prüfen, ob diese „letzten 3 abgeschlossenen Geschäftsjahre“ für sie (und  
+ggf. ihre Nachunternehmer) im Präqualifikationsverzeichnis dokumentiert sind und  
+
+
+ggf. dort nicht  dokumentierte Erklärungen/Nachweise vorzulegen. // Hinweise zu  
+Wirtschaftliche und  finanzielle Leistungsfähigkeit: a) Nimmt der Bewerber/Bieter im Hinblick  
+auf die Kriterien für die wirtschaftliche und finanzielle Leistungsfähigkeit die  
+Kapazitäten  anderer Unternehmen in Anspruch, behält sich der Auftraggeber vor, zu  
+verlangen, dass Bewerber/Bieter und diese Unternehmen gemeinsam für die  
+Auftragsausführung haften (§ 6d EU Abs. 2 VOB/A). b) Wenn der Bieter/Bewerber den Einsatz 
+von  Nachunternehmern  
+beabsichtigt, sind für jeden Nachunternehmer auf Verlangen der  
+Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 und 2 (Siehe auch 
+Formblatt 216_Verzeichnis vorzulegende Unterlagen). c) Mindeststandard bei 
+Nachunternehmereinsatz   in Bezug  auf dessen wirtschaftliche und finanzielle 
+Leistungsfähigkeit: Der Mindestumsatz des  Nachunternehmers muss in den letzten 3 
+abgeschlossen Geschäftsjahren durchschnittlich  
+(gemittelt) mindestens den Wert des Auftragsteils, dessen Abarbeitung dem  
+Nachunternehmer  
+übertragen werden soll, betragen. (durchschnittlicher(gemittelter) Umsatz  
+pro Geschäftsjahr  
+des NU: min.50.500 € netto). // Bitte auch Hinweise unter “Zusätzliche Angaben“  
+(5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Angaben über die Ausführung von Leistungen in den  
+letzten bis zu fünf abgeschlossenen Kalenderjahren, die mit der zu vergebenden Leistung 
+vergleichbar sind (§ 6a EU Nr.  3a VOB/A). // Mindeststandard: 1 vergleichbares 
+Referenzobjekte // Hinweise zu  Ziff. 1.: a) Vergleichbar sind Leistungen, die den 
+ausgeschriebenen  Leistungen inhaltlich im Wesentlichen entsprechen und einen Auftragswert von mindestens 
+netto       50.750 ,- €  Netto  haben. b) Die Vergabestelle behält sich vor, Nachweise zu 
+verlangen,  insbesondere über die ordnungsgemäße Ausführung und das Ergebnis der Bauleistungen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 1 bis 4 VOB/A  
+vorliegen und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A.  
+Die Vergabestelle behält sich vor, geeignete Nachweise (insbesondere  
+Erklärung des zuständigen Finanzamtes und Freistellungsbescheinigung nach § 48b EStG  
+wegen der Verpflichtung  zur Zahlung von Steuern und Abgabe und/oder Erklärungen der 
+Träger der  Sozialversicherung wegen der Verpflichtung zur Zahlung von Beiträgen zur  
+Sozialversicherung)  zu verlangen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 6 VOB/A vorliegen  
+und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A. Die  
+Vergabestelle behält sich vor, Nachweise zu verlangen.  
+Kriterium: Anteil der Unterauftragsvergabe 
+Beschreibung: Angabe, welche Teile des Auftrags der Unternehmer unter  
+Umständen als Unteraufträge  zu vergeben beabsichtigt (§ 6a EU Nr. 3i VOB/A)</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-subc</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Nachunternehmer: a) Wenn der Bieter/Bewerber den  
+Einsatz von Nachunternehmern beabsichtigt,  
+sind für jeden Nachunternehmer auf gesondertes Verlangen der  
+Vergabestelle vorzulegen:  
+Nachweise/Erklärungen zu vorstehend Ziff. 1 bis 4.;  
+Verpflichtungserklärung und Erklärung/Vereinbarung  
+über die Einhaltung von Mindestlohnvorschriften u.a. (vergl.  
+Vergabeunterlagen).   
+b) Mindeststandard bei Nachunternehmereinsatz in Bezug auf dessen  
+technische und berufliche  
+Leistungsfähigkeit (nachzuweisen auf Anforderung der Vergabestelle): 
+keine oder Mindeststandard:  
+(3) vergleichbare Referenzobjekte // Vergleichbar sind Leistungen, die  
+den an den Nachunternehmer zu übertragenden Leistungen inhaltlich im  
+Wesentlichen entsprechen  
+und einen Auftragswert von mindestens 50% des Wertes des Auftragsteils  
+(gem. Angebot)  
+haben, dessen Abarbeitung dem Nachunternehmer übertragen werden soll.  
+Die Vergabestelle  
+behält sich vor, Nachweise zu verlangen, insbesondere über die  
+ordnungsgemäße Ausführung  
+und das Ergebnis der wichtigsten Bauleistungen. (Beispiel: Übertragene  
+Leistung an  
+NU: 200.000,- € netto = Referenz: NU: 100.000,- € netto) // Bitte auch  
+Hinweise  
+unter “Zusätzliche Angaben“ (5.1.6) beachten</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über die Eintragung des Bieters/Bewerbers in das   
+Berufs- oder Handelsregister  
+oder der Handwerksrolle ihres Sitzes oder Wohnsitzes (§ 6a EU Nr. 1  
+VOB/A).// Die  Vergabestelle behält sich vor, einen Nachweis zu verlangen (Siehe auch  
+Formblatt 216_Verzeichnis  vorzulegender Unterlagen). // Wenn der Bieter/Bewerber den 
+Einsatz von Nachunternehmern beabsichtigt, sind für jeden Nachunternehmer auf 
+gesondertes Verlangen  der Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 // Bitte auch  
+Hinweise unter “Zusätzliche Angaben“ (5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E81884784</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E81884784</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-some</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden teilweise nachgefordert, und zwar folgende Unterlagen: gem. § 16a EU VOB/A</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="DEU">100% Preis</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E81884784</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="DAY">60</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-11-16+01:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+01:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-11-16+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>13:00:00+01:00</cbc:OccurrenceTime>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0002 300.01.19 - Tischler Innenausbau</cbc:ID>
+         <cbc:Name languageID="DEU">Tischlerarbeiten Innenausbau - IGS SÜD Aula</cbc:Name>
+         <cbc:Description languageID="DEU">Das vorliegende Los umfasst im Wesentlichen die Tischlerarbeiten für die Tischlerarbeiten Innenausbau im Bereich der Aula.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">works</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="DEU">#Besonders auch geeignet für:freelance#, #Besonders auch geeignet für:startup#, #Besonders auch geeignet für:other-sme#, #Besonders auch geeignet für:selbst#</cbc:Note>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45421000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Angerstraße 12  </cbc:StreetName>
+               <cbc:CityName>Langenhagen</cbc:CityName>
+               <cbc:PostalZone>30851</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DescriptionCode listName="timeperiod">UNKNOWN</cbc:DescriptionCode>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-ins</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Nachweis über das Bestehen einer  
+Berufshaftpflichtversicherung (§ 6a EU Nr. 2a VOB/A)  
+/ Betriebshaftpflichtversicherung; Deckungssumme mind. EUR 3 Mio.  
+jeweils für Personen-  
+und sonstige Schäden (Sach- und Vermögensschäden) oder Zusage eines  
+Versicherungsunternehmens,  
+wonach die Deckungssummen im Auftragsfalle auf EUR 3 Mio. erhöht  
+werden können. (Siehe  
+auch Formblatt 216_Verzeichnis vorzulegende Unterlagen).</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über den Umsatz des Bieters/Bewerbers jeweils  
+bezogen auf die letzten drei  abgeschlossenen Geschäftsjahre, soweit er Bauleistungen und 
+andere Leistungen betrifft, die mit der zu vergebenden Leistung vergleichbar sind, unter 
+Einschluss des Anteils bei gemeinsam mit anderen Unternehmen ausgeführten Aufträgen (§ 
+6a EU Nr. 2c VOB/A).  // Mindeststandard: Mindestumsatz in Höhe von 16.000 € netto  
+durchschnittlich (gemittelt) in jedem Geschäftsjahr. // Hinweise zu Ziff. 2: a) Als die  
+„letzten 3 abgeschlossenen Geschäftsjahre“ gelten nur die 3 Kalenderjahre, die dem  
+Jahr der  Veröffentlichung der Auftragsbekanntmachung vorhergehen (Beispiel:  
+Veröffentlichung  im Jahr 2020: die „letzten 3 abgeschlossenen Geschäftsjahre“ sind die Jahre  
+2017, 2018 und 2019); b) präqualifizierte Bieter/Bewerber haben in eigener  
+Verantwortung zu prüfen, ob diese „letzten 3 abgeschlossenen Geschäftsjahre“ für sie (und  
+ggf. ihre Nachunternehmer) im Präqualifikationsverzeichnis dokumentiert sind und  
+
+
+ggf. dort nicht  dokumentierte Erklärungen/Nachweise vorzulegen. // Hinweise zu  
+Wirtschaftliche und  finanzielle Leistungsfähigkeit: a) Nimmt der Bewerber/Bieter im Hinblick  
+auf die Kriterien für die wirtschaftliche und finanzielle Leistungsfähigkeit die  
+Kapazitäten  anderer Unternehmen in Anspruch, behält sich der Auftraggeber vor, zu  
+verlangen, dass Bewerber/Bieter und diese Unternehmen gemeinsam für die  
+Auftragsausführung haften (§ 6d EU Abs. 2 VOB/A). b) Wenn der Bieter/Bewerber den Einsatz 
+von  Nachunternehmern  
+beabsichtigt, sind für jeden Nachunternehmer auf Verlangen der  
+Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 und 2 (Siehe auch 
+Formblatt 216_Verzeichnis vorzulegende Unterlagen). c) Mindeststandard bei 
+Nachunternehmereinsatz   in Bezug  auf dessen wirtschaftliche und finanzielle 
+Leistungsfähigkeit: Der Mindestumsatz des  Nachunternehmers muss in den letzten 3 
+abgeschlossen Geschäftsjahren durchschnittlich  
+(gemittelt) mindestens den Wert des Auftragsteils, dessen Abarbeitung dem  
+Nachunternehmer  
+übertragen werden soll, betragen. (durchschnittlicher(gemittelter) Umsatz  
+pro Geschäftsjahr  
+des NU: min.50.500 € netto). // Bitte auch Hinweise unter “Zusätzliche Angaben“  
+(5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Angaben über die Ausführung von Leistungen in den  
+letzten bis zu fünf abgeschlossenen Kalenderjahren, die mit der zu vergebenden Leistung 
+vergleichbar sind (§ 6a EU Nr.  3a VOB/A). // Mindeststandard: 1 vergleichbares 
+Referenzobjekte // Hinweise zu  Ziff. 1.: a) Vergleichbar sind Leistungen, die den 
+ausgeschriebenen  Leistungen inhaltlich im Wesentlichen entsprechen und einen Auftragswert von mindestens 
+netto       50.750 ,- €  Netto  haben. b) Die Vergabestelle behält sich vor, Nachweise zu 
+verlangen,  insbesondere über die ordnungsgemäße Ausführung und das Ergebnis der Bauleistungen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 1 bis 4 VOB/A  
+vorliegen und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A.  
+Die Vergabestelle behält sich vor, geeignete Nachweise (insbesondere  
+Erklärung des zuständigen Finanzamtes und Freistellungsbescheinigung nach § 48b EStG  
+wegen der Verpflichtung  zur Zahlung von Steuern und Abgabe und/oder Erklärungen der 
+Träger der  Sozialversicherung wegen der Verpflichtung zur Zahlung von Beiträgen zur  
+Sozialversicherung)  zu verlangen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 6 VOB/A vorliegen  
+und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A. Die  
+Vergabestelle behält sich vor, Nachweise zu verlangen.  
+Kriterium: Anteil der Unterauftragsvergabe 
+Beschreibung: Angabe, welche Teile des Auftrags der Unternehmer unter  
+Umständen als Unteraufträge  zu vergeben beabsichtigt (§ 6a EU Nr. 3i VOB/A)</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-subc</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Nachunternehmer: a) Wenn der Bieter/Bewerber den  
+Einsatz von Nachunternehmern beabsichtigt,  
+sind für jeden Nachunternehmer auf gesondertes Verlangen der  
+Vergabestelle vorzulegen:  
+Nachweise/Erklärungen zu vorstehend Ziff. 1 bis 4.;  
+Verpflichtungserklärung und Erklärung/Vereinbarung  
+über die Einhaltung von Mindestlohnvorschriften u.a. (vergl.  
+Vergabeunterlagen).   
+b) Mindeststandard bei Nachunternehmereinsatz in Bezug auf dessen  
+technische und berufliche  
+Leistungsfähigkeit (nachzuweisen auf Anforderung der Vergabestelle): 
+keine oder Mindeststandard:  
+(3) vergleichbare Referenzobjekte // Vergleichbar sind Leistungen, die  
+den an den Nachunternehmer zu übertragenden Leistungen inhaltlich im  
+Wesentlichen entsprechen  
+und einen Auftragswert von mindestens 50% des Wertes des Auftragsteils  
+(gem. Angebot)  
+haben, dessen Abarbeitung dem Nachunternehmer übertragen werden soll.  
+Die Vergabestelle  
+behält sich vor, Nachweise zu verlangen, insbesondere über die  
+ordnungsgemäße Ausführung  
+und das Ergebnis der wichtigsten Bauleistungen. (Beispiel: Übertragene  
+Leistung an  
+NU: 200.000,- € netto = Referenz: NU: 100.000,- € netto) // Bitte auch  
+Hinweise  
+unter “Zusätzliche Angaben“ (5.1.6) beachten</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über die Eintragung des Bieters/Bewerbers in das   
+Berufs- oder Handelsregister  
+oder der Handwerksrolle ihres Sitzes oder Wohnsitzes (§ 6a EU Nr. 1  
+VOB/A).// Die  Vergabestelle behält sich vor, einen Nachweis zu verlangen (Siehe auch  
+Formblatt 216_Verzeichnis  vorzulegender Unterlagen). // Wenn der Bieter/Bewerber den 
+Einsatz von Nachunternehmern beabsichtigt, sind für jeden Nachunternehmer auf 
+gesondertes Verlangen  der Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 // Bitte auch  
+Hinweise unter “Zusätzliche Angaben“ (5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E81884784</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E81884784</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-some</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden teilweise nachgefordert, und zwar folgende Unterlagen: gem. § 16a EU VOB/A</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="DEU">100% Preis</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E81884784</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="DAY">60</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-11-16+01:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+01:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-11-16+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>13:00:00+01:00</cbc:OccurrenceTime>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0003 300.01.19 - Tischler Innenausbau</cbc:ID>
+         <cbc:Name languageID="DEU">Tischlerarbeiten Innenausbau - IGS SÜD Wandbekleidung Ausgabetheke</cbc:Name>
+         <cbc:Description languageID="DEU">Das vorliegende Los umfasst im Wesentlichen die Tischlerarbeiten für die Tischlerarbeiten Innenausbau für die Wandbekleidung Ausgabetheke.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">works</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="DEU">#Besonders auch geeignet für:freelance#, #Besonders auch geeignet für:startup#, #Besonders auch geeignet für:other-sme#, #Besonders auch geeignet für:selbst#</cbc:Note>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45421000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Angerstraße 12  </cbc:StreetName>
+               <cbc:CityName>Langenhagen</cbc:CityName>
+               <cbc:PostalZone>30851</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DescriptionCode listName="timeperiod">UNKNOWN</cbc:DescriptionCode>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0004</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-ins</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Nachweis über das Bestehen einer  
+Berufshaftpflichtversicherung (§ 6a EU Nr. 2a VOB/A)  
+/ Betriebshaftpflichtversicherung; Deckungssumme mind. EUR 3 Mio.  
+jeweils für Personen-  
+und sonstige Schäden (Sach- und Vermögensschäden) oder Zusage eines  
+Versicherungsunternehmens,  
+wonach die Deckungssummen im Auftragsfalle auf EUR 3 Mio. erhöht  
+werden können. (Siehe  
+auch Formblatt 216_Verzeichnis vorzulegende Unterlagen).</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über den Umsatz des Bieters/Bewerbers jeweils  
+bezogen auf die letzten drei  abgeschlossenen Geschäftsjahre, soweit er Bauleistungen und 
+andere Leistungen betrifft, die mit der zu vergebenden Leistung vergleichbar sind, unter 
+Einschluss des Anteils bei gemeinsam mit anderen Unternehmen ausgeführten Aufträgen (§ 
+6a EU Nr. 2c VOB/A).  // Mindeststandard: Mindestumsatz in Höhe von 143.0000 € netto  
+durchschnittlich (gemittelt) in jedem Geschäftsjahr. // Hinweise zu Ziff. 2: a) Als die  
+„letzten 3 abgeschlossenen Geschäftsjahre“ gelten nur die 3 Kalenderjahre, die dem  
+Jahr der  Veröffentlichung der Auftragsbekanntmachung vorhergehen (Beispiel:  
+Veröffentlichung  im Jahr 2020: die „letzten 3 abgeschlossenen Geschäftsjahre“ sind die Jahre  
+2017, 2018 und 2019); b) präqualifizierte Bieter/Bewerber haben in eigener  
+Verantwortung zu prüfen, ob diese „letzten 3 abgeschlossenen Geschäftsjahre“ für sie (und  
+ggf. ihre Nachunternehmer) im Präqualifikationsverzeichnis dokumentiert sind und  
+
+
+ggf. dort nicht  dokumentierte Erklärungen/Nachweise vorzulegen. // Hinweise zu  
+Wirtschaftliche und  finanzielle Leistungsfähigkeit: a) Nimmt der Bewerber/Bieter im Hinblick  
+auf die Kriterien für die wirtschaftliche und finanzielle Leistungsfähigkeit die  
+Kapazitäten  anderer Unternehmen in Anspruch, behält sich der Auftraggeber vor, zu  
+verlangen, dass Bewerber/Bieter und diese Unternehmen gemeinsam für die  
+Auftragsausführung haften (§ 6d EU Abs. 2 VOB/A). b) Wenn der Bieter/Bewerber den Einsatz 
+von  Nachunternehmern  
+beabsichtigt, sind für jeden Nachunternehmer auf Verlangen der  
+Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 und 2 (Siehe auch 
+Formblatt 216_Verzeichnis vorzulegende Unterlagen). c) Mindeststandard bei 
+Nachunternehmereinsatz   in Bezug  auf dessen wirtschaftliche und finanzielle 
+Leistungsfähigkeit: Der Mindestumsatz des  Nachunternehmers muss in den letzten 3 
+abgeschlossen Geschäftsjahren durchschnittlich  
+(gemittelt) mindestens den Wert des Auftragsteils, dessen Abarbeitung dem  
+Nachunternehmer  
+übertragen werden soll, betragen. (durchschnittlicher(gemittelter) Umsatz  
+pro Geschäftsjahr  
+des NU: min.50.500 € netto). // Bitte auch Hinweise unter “Zusätzliche Angaben“  
+(5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Angaben über die Ausführung von Leistungen in den  
+letzten bis zu fünf abgeschlossenen Kalenderjahren, die mit der zu vergebenden Leistung 
+vergleichbar sind (§ 6a EU Nr.  3a VOB/A). // Mindeststandard: 1 vergleichbares 
+Referenzobjekte // Hinweise zu  Ziff. 1.: a) Vergleichbar sind Leistungen, die den 
+ausgeschriebenen  Leistungen inhaltlich im Wesentlichen entsprechen und einen Auftragswert von mindestens 
+netto       50.750 ,- €  Netto  haben. b) Die Vergabestelle behält sich vor, Nachweise zu 
+verlangen,  insbesondere über die ordnungsgemäße Ausführung und das Ergebnis der Bauleistungen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 1 bis 4 VOB/A  
+vorliegen und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A.  
+Die Vergabestelle behält sich vor, geeignete Nachweise (insbesondere  
+Erklärung des zuständigen Finanzamtes und Freistellungsbescheinigung nach § 48b EStG  
+wegen der Verpflichtung  zur Zahlung von Steuern und Abgabe und/oder Erklärungen der 
+Träger der  Sozialversicherung wegen der Verpflichtung zur Zahlung von Beiträgen zur  
+Sozialversicherung)  zu verlangen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung des Bieters/Bewerbers, ob Ausschlussgründe  
+nach § 6e EU Abs. 6 VOB/A vorliegen  
+und ggf. Erklärungen zur Selbstreinigung gem. § 6f EU VOB/A. Die  
+Vergabestelle behält sich vor, Nachweise zu verlangen.  
+Kriterium: Anteil der Unterauftragsvergabe 
+Beschreibung: Angabe, welche Teile des Auftrags der Unternehmer unter  
+Umständen als Unteraufträge  zu vergeben beabsichtigt (§ 6a EU Nr. 3i VOB/A)</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-subc</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Nachunternehmer: a) Wenn der Bieter/Bewerber den  
+Einsatz von Nachunternehmern beabsichtigt,  
+sind für jeden Nachunternehmer auf gesondertes Verlangen der  
+Vergabestelle vorzulegen:  
+Nachweise/Erklärungen zu vorstehend Ziff. 1 bis 4.;  
+Verpflichtungserklärung und Erklärung/Vereinbarung  
+über die Einhaltung von Mindestlohnvorschriften u.a. (vergl.  
+Vergabeunterlagen).   
+b) Mindeststandard bei Nachunternehmereinsatz in Bezug auf dessen  
+technische und berufliche  
+Leistungsfähigkeit (nachzuweisen auf Anforderung der Vergabestelle): 
+keine oder Mindeststandard:  
+(3) vergleichbare Referenzobjekte // Vergleichbar sind Leistungen, die  
+den an den Nachunternehmer zu übertragenden Leistungen inhaltlich im  
+Wesentlichen entsprechen  
+und einen Auftragswert von mindestens 50% des Wertes des Auftragsteils  
+(gem. Angebot)  
+haben, dessen Abarbeitung dem Nachunternehmer übertragen werden soll.  
+Die Vergabestelle  
+behält sich vor, Nachweise zu verlangen, insbesondere über die  
+ordnungsgemäße Ausführung  
+und das Ergebnis der wichtigsten Bauleistungen. (Beispiel: Übertragene  
+Leistung an  
+NU: 200.000,- € netto = Referenz: NU: 100.000,- € netto) // Bitte auch  
+Hinweise  
+unter “Zusätzliche Angaben“ (5.1.6) beachten</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Erklärung über die Eintragung des Bieters/Bewerbers in das   
+Berufs- oder Handelsregister  
+oder der Handwerksrolle ihres Sitzes oder Wohnsitzes (§ 6a EU Nr. 1  
+VOB/A).// Die  Vergabestelle behält sich vor, einen Nachweis zu verlangen (Siehe auch  
+Formblatt 216_Verzeichnis  vorzulegender Unterlagen). // Wenn der Bieter/Bewerber den 
+Einsatz von Nachunternehmern beabsichtigt, sind für jeden Nachunternehmer auf 
+gesondertes Verlangen  der Vergabestelle vorzulegen: Nachweise/Erklärungen zu vorstehend Ziff. 1 // Bitte auch  
+Hinweise unter “Zusätzliche Angaben“ (5.1.6) beachten.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E81884784</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E81884784</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-some</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">Fehlende Unterlagen, deren Vorlage mit dem Angebot gefordert war, werden teilweise nachgefordert, und zwar folgende Unterlagen: gem. § 16a EU VOB/A</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="DEU">100% Preis</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E81884784</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="DAY">60</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-11-16+01:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+01:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-11-16+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>13:00:00+01:00</cbc:OccurrenceTime>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0004 300.01.19 - Tischler Innenausbau</cbc:ID>
+         <cbc:Name languageID="DEU">Tischlerarbeiten Innenausbau - IGS SÜD Fensterbänke SEK 1</cbc:Name>
+         <cbc:Description languageID="DEU">Die vorliegende Leistungsbeschreibung umfasst im Wesentlichen die Tischlerarbeiten für den 
+Neubau IGS-Süd in Langenhagen für die Fensterbänke im SEK 1</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">works</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="DEU">#Besonders auch geeignet für:freelance#, #Besonders auch geeignet für:startup#, #Besonders auch geeignet für:other-sme#, #Besonders auch geeignet für:selbst#</cbc:Note>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45422000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45421000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Angerstraße 12  </cbc:StreetName>
+               <cbc:CityName>Langenhagen</cbc:CityName>
+               <cbc:PostalZone>30851</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE929</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DescriptionCode listName="timeperiod">UNKNOWN</cbc:DescriptionCode>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+</ContractNotice>

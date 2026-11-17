@@ -34,3 +34,9 @@ Doku: https://code.claude.com/docs/en/cloud-environments#network-access
 - Modul A: keine API-Abfragen (TED, oeffentlichevergabe.de); nur über Suchindex auffindbare Bekanntmachungen und Aggregatoren (z. B. tendigo.de) → Abdeckung deutlich unvollständig.
 - Modul E: öffentliches Beschaffungsvolumen ist ohne TED-API nicht selbst berechenbar.
 - Rate-Limit: ca. 4 parallele Suchen pro Runde.
+
+## Nachtrag 16.11.2026, ca. 21:30 Uhr – Netz freigegeben (Unrestricted)
+- Funktioniert: TED API v3, oeffentlichevergabe.de (API), Volksstimme, Northdata, verbund.edeka (teilweise), neueroeffnung.info, openplzapi.org, OSM-API, download.openstreetmap.fr, Playwright/Chromium
+- Weiterhin **nicht erreichbar** (der Server setzt die TLS-Verbindung zurück, vermutlich eine Sperre gegen Rechenzentrums-IPs): **sigma-ladenbau.de**, overpass-api.de, download.geofabrik.de
+- WebFetch (serverseitig) verwendet die alte Allowlist → ersetzt durch eigenen HTTP-Abruf `scripts/fetch.py` mit Ablage der Rohdaten
+- Tatsächliche Hierarchie: offizielle API (TED, oeffentlichevergabe.de, OpenPLZ) > Datenexport (OSM-PBF) > HTTP-Abruf (fetch.py) > Websuche (Discovery) > Browser (Playwright, nur bei Bedarf)
